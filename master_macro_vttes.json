@@ -1,0 +1,165 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Quick Create}} {{description=\n◖**Court**◗\n[Aristocratic](!&#13;#GB-Quick-Court-Aristocratic)\n[Bureaucratic](!&#13;#GB-Quick-Court-Bureaucratic)\n[Business](!&#13;#GB-Quick-Court-Business)\n[Community](!&#13;#GB-Quick-Court-Community)\n[Criminal](!&#13;#GB-Quick-Court-Criminal)\n[Temple](!&#13;#GB-Quick-Court-Temple)\n\n◖**Ruin**◗\n[Ruin](!&#13;#GB-Quick-Ruin)\n[Location](!&#13;#GB-Quick-Location)\n[Ruin Inhabitant](!&#13;#GB-Quick-Ruin_Inhabitant)\n[Night Road](!&#13;#GB-Quick-Night_Road)\n[Shard of Heaven](!&#13;#GB-Quick-Shard_of_Heaven)\n\n\n◖**Challenge**◗\n[Challenge Type](!&#13;#GB-Quick-Challenge)\n[Challenge Details](!&#13;#GB-Quick-Challenge_Details)\n\n◖**Faction**◗\n[Despotic Tyrants](!&#13;#GB-Quick-Faction-Despotic)\n[Martial Conquerors](!&#13;#GB-Quick-Faction-Martial)\n[Self-Absorbed Survivors](!&#13;#GB-Quick-Faction-Survivors)\n[Scheming Manipulators](!&#13;#GB-Quick-Faction-Manipulators)\n\n◖**Foe [WIP]**◗\n[Create a New Foe](!&#13;#GB-Quick-Foe)\n\n◖**Treasure**◗\n[Create a Treasure](!&#13;#GB-Quick-Treasure)\n\n}}",
+                "istokenaction": false,
+                "name": "GB-Q-Create",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Aristocratic Court}} {{description=\n◖**Power Structure**◗\n[[1t[godbound-court-organization_power_structure]]]\n\n\n◖**Court Mood**◗\n[[1t[godbound-court-aristocratic-court_mood]]]\n\n◖**Major Actors**◗\n• [[1t[godbound-court-aristocratic-major_actor]]]; [[1t[godbound-court-aristocratic-power_sources]]]\n• [[1t[godbound-court-aristocratic-major_actor]]]; [[1t[godbound-court-aristocratic-power_sources]]]\n• [[1t[godbound-court-aristocratic-major_actor]]]; [[1t[godbound-court-aristocratic-power_sources]]]\n\n◖**Minor Actors**◗\n• [[1t[godbound-court-aristocratic-minor_actor]]]\n• [[1t[godbound-court-aristocratic-minor_actor]]]\n• [[1t[godbound-court-aristocratic-minor_actor]]]\n\n◖**Conflicts**◗\n• [[1t[godbound-court-aristocratic-conflicts]]]\n\n◖**Consequences of its Destruction**◗\n• [[1t[godbound-court-aristocratic-consequences_of_its_destruction]]]\n\n◖**Court Defenses**◗\n• [[1t[godbound-court-aristocratic-court_defenses]]]\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Another Court](!&#13;#GB-Quick-Court-Aristocratic)\n[Main Menu](!&#13;#GB-Q-Create)\n\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Court-Aristocratic",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Bureaucratic Court}} {{description=\n◖**Power Structure**◗\n[[1t[godbound-court-organization_power_structure]]]\n\n\n◖**How is the Bureaucracy Regared?**◗\n[[1t[godbound-court-bureaucratic-how_is_the_bureaucracy_regarded]]]\n\n◖**Major Actors**◗\n• [[1t[godbound-court-bureaucratic-major_actor]]]; [[1t[godbound-court-bureaucratic-power_sources]]]\n• [[1t[godbound-court-bureaucratic-major_actor]]]; [[1t[godbound-court-bureaucratic-power_sources]]]\n• [[1t[godbound-court-bureaucratic-major_actor]]]; [[1t[godbound-court-bureaucratic-power_sources]]]\n\n◖**Minor Actors**◗\n• [[1t[godbound-court-bureaucratic-minor_actor]]]\n• [[1t[godbound-court-bureaucratic-minor_actor]]]\n• [[1t[godbound-court-bureaucratic-minor_actor]]]\n\n◖**Conflicts**◗\n• [[1t[godbound-court-bureaucratic-conflicts]]]\n\n◖**Consequences of its Destruction**◗\n• [[1t[godbound-court-bureaucratic-consequences_of_its_destruction]]]\n\n◖**Court Defenses**◗\n• [[1t[godbound-court-bureaucratic-court_defenses]]]\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Another Court](!&#13;#GB-Quick-Court-Bureaucratic)\n[Main Menu](!&#13;#GB-Q-Create)\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Court-Bureaucratic",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Business Court}} {{description=\n◖**Power Structure**◗\n[[1t[godbound-court-organization_power_structure]]]\n\n\n◖**How is the business currently doing?**◗\n[[1t[godbound-court-business-how_is_the_business_currently_doing]]]\n\n◖**Major Actors**◗\n• [[1t[godbound-court-business-major_actor]]]; [[1t[godbound-court-business-power_sources]]]\n• [[1t[godbound-court-business-major_actor]]]; [[1t[godbound-court-business-power_sources]]]\n• [[1t[godbound-court-business-major_actor]]]; [[1t[godbound-court-business-power_sources]]]\n\n◖**Minor Actors**◗\n• [[1t[godbound-court-business-minor_actor]]]\n• [[1t[godbound-court-business-minor_actor]]]\n• [[1t[godbound-court-business-minor_actor]]]\n\n◖**Conflicts**◗\n• [[1t[godbound-court-business-conflicts]]]\n\n◖**Consequences of its Destruction**◗\n• [[1t[godbound-court-business-consequences_of_its_destruction]]]\n\n◖**Court Defenses**◗\n• [[1t[godbound-court-business-court_defenses]]]\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Another Court](!&#13;#GB-Quick-Court-Business)\n[Main Menu](!&#13;#GB-Q-Create)\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Court-Business",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Community Court}} {{description=\n◖**Power Structure**◗\n[[1t[godbound-court-organization_power_structure]]]\n\n\n◖**Community Temperament**◗\n[[1t[godbound-court-community-community_temperament]]]\n\n◖**Major Actors**◗\n• [[1t[godbound-court-community-major_actor]]]; [[1t[godbound-court-community-power_sources]]]\n• [[1t[godbound-court-community-major_actor]]]; [[1t[godbound-court-community-power_sources]]]\n• [[1t[godbound-court-community-major_actor]]]; [[1t[godbound-court-community-power_sources]]]\n\n◖**Minor Actors**◗\n• [[1t[godbound-court-community-minor_actor]]]\n• [[1t[godbound-court-community-minor_actor]]]\n• [[1t[godbound-court-community-minor_actor]]]\n\n◖**Conflicts**◗\n• [[1t[godbound-court-community-conflicts]]]\n\n◖**Consequences of its Destruction**◗\n• [[1t[godbound-court-community-consequences_of_its_destruction]]]\n\n◖**Community Defenses**◗\n• [[1t[godbound-court-community-community_defenses]]]\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Another Court](!&#13;#GB-Quick-Court-Community)\n[Main Menu](!&#13;#GB-Q-Create)\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Court-Community",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Criminal Court}} {{description=\n◖**Power Structure**◗\n[[1t[godbound-court-organization_power_structure]]]\n\n\n◖**Main Line of Crime**◗\n[[1t[godbound-court-criminal-main_line_of_crime]]]\n\n◖**Major Actors**◗\n• [[1t[godbound-court-criminal-major_actor]]]; [[1t[godbound-court-criminal-power_sources]]]\n• [[1t[godbound-court-criminal-major_actor]]]; [[1t[godbound-court-criminal-power_sources]]]\n• [[1t[godbound-court-criminal-major_actor]]]; [[1t[godbound-court-criminal-power_sources]]]\n\n◖**Minor Actors**◗\n• [[1t[godbound-court-criminal-minor_actor]]]\n• [[1t[godbound-court-criminal-minor_actor]]]\n• [[1t[godbound-court-criminal-minor_actor]]]\n\n◖**Conflicts**◗\n• [[1t[godbound-court-criminal-conflicts]]]\n\n◖**Consequences of its Destruction**◗\n• [[1t[godbound-court-criminal-consequences_of_its_destruction]]]\n\n◖**Organization Defenses**◗\n• [[1t[godbound-court-criminal-organization_defenses]]]\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Another Court](!&#13;#GB-Quick-Court-Criminal)\n[Main Menu](!&#13;#GB-Q-Create)\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Court-Criminal",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Temple Court}} {{description=\n◖**Power Structure**◗\n[[1t[godbound-court-organization_power_structure]]]\n\n\n◖**Temple Mood**◗\n[[1t[godbound-court-temple-temple_mood]]]\n\n◖**Major Actors**◗\n• [[1t[godbound-court-temple-major_actor]]]; [[1t[godbound-court-temple-power_sources]]]\n• [[1t[godbound-court-temple-major_actor]]]; [[1t[godbound-court-temple-power_sources]]]\n• [[1t[godbound-court-temple-major_actor]]]; [[1t[godbound-court-temple-power_sources]]]\n\n◖**Minor Actors**◗\n• [[1t[godbound-court-temple-minor_actor]]]\n• [[1t[godbound-court-temple-minor_actor]]]\n• [[1t[godbound-court-temple-minor_actor]]]\n\n◖**Conflicts**◗\n• [[1t[godbound-court-temple-conflicts]]]\n\n◖**Consequences of its Destruction**◗\n• [[1t[godbound-court-temple-consequences_of_its_destruction]]]\n\n◖**Temple Defenses**◗\n• [[1t[godbound-court-temple-temple_defenses]]]\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Another Court](!&#13;#GB-Quick-Court-Temple)\n[Main Menu](!&#13;#GB-Q-Create)\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Court-Temple",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Ruin}} {{description=\n\n◖**Original Purpose of the Ruin**◗\n[[1t[godbound-ruin-original_purpose_of_the_ruin]]]\n\n◖**Ruin Hazards**◗\n• [[1t[godbound-ruin-ruin_hazards]]]\n• [[1t[godbound-ruin-ruin_hazards]]]\n• [[1t[godbound-ruin-ruin_hazards]]]\n\n◖**Ruin Rewards**◗\n• [[1t[godbound-ruin-the_reward_of_the_ruin]]]\n• [[1t[godbound-ruin-the_reward_of_the_ruin]]]\n• [[1t[godbound-ruin-the_reward_of_the_ruin]]]\n\n◖**Inhabitant Group**◗\n[[1t[godbound-ruin-inhabitant_groups-ruin_inhabitants]]]\n\n• **How did they end up here?** [[1t[godbound-ruin-inhabitant_details-how_did_they_end_up_here]]] \n• **Their Overall Goal.** [[1t[godbound-ruin-inhabitant_details-their_overall_goal]]] \n• **Their Leadership Type.** [[1t[godbound-ruin-inhabitant_details-their_leadership_type]]] \n• **Defensive Measures.** [[1t[godbound-ruin-inhabitant_details-defensive_measures]]] \n• **Internal Problems.** [[1t[godbound-ruin-inhabitant_details-internal_problems]]] \n• **Recent Events.** [[1t[godbound-ruin-inhabitant_details-recent_events]]] \n• **External Relationships.** [[1t[godbound-ruin-inhabitant_details-external_relationships]]] \n\n[More Inhabitants](!&#13;#GB-Quick-Ruin_Inhabitant)\n\n◖**Ruin Size**◗\n[[1d4+5]] locations.\n\n[Generate Location](!&#13;#GB-Quick-Ruin_Location)\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Main Menu](!&#13;#GB-Q-Create)\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Ruin",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Ruin Inhabitant}} {{description=\n\n◖**Inhabitant Group**◗\n[[1t[godbound-ruin-inhabitant_groups-ruin_inhabitants]]]\n\n• **How did they end up here?** [[1t[godbound-ruin-inhabitant_details-how_did_they_end_up_here]]] \n• **Their Overall Goal** [[1t[godbound-ruin-inhabitant_details-their_overall_goal]]] \n• **Their Leadership Type.** [[1t[godbound-ruin-inhabitant_details-their_leadership_type]]] \n• **Defensive Measures.** [[1t[godbound-ruin-inhabitant_details-defensive_measures]]] \n• **Internal Problems.** [[1t[godbound-ruin-inhabitant_details-internal_problems]]] \n• **Recent Events.** [[1t[godbound-ruin-inhabitant_details-recent_events]]] \n• **External Relationships.** [[1t[godbound-ruin-inhabitant_details-external_relationships]]] \n\n[More Inhabitants](!&#13;#GB-Quick-Ruin_Inhabitant)\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Main Menu](!&#13;#GB-Q-Create)\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Ruin_Inhabitant",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Ruin Location}} {{description=\n\n◖**Basic Purpose of the Location**◗\n[[1t[godbound-ruin-ruin_locations-basic_purpose_of_the_location]]]\n\n◖**Valuables Here**◗\n[[1t[godbound-ruin-ruin_locations-valuables_here]]]\n\n◖**Location's General Mood**◗\n[[1t[godbound-ruin-ruin_locations-locations_general_mood]]]\n\n◖**Ingress¹ or Egress² Problems**◗\n[[1d2]] • [[1t[godbound-ruin-ruin_locations-ingress_or_egress_problems]]]\n\n◖**Physical Peril**◗\n[[1t[godbound-ruin-ruin_locations-physical_peril]]]\n\n◖**Occupant Peril**◗\n[[1t[godbound-ruin-ruin_locations-occupant_peril]]]\n\n◖**Magical Peril**◗\n[[1t[godbound-ruin-ruin_locations-magical_peril]]]\n\n◖**Location Features**◗\n• **Basic Form of the Feature.** [[1t[godbound-ruin-location_features-basic_form_of_the_feature]]]\n• **Unusual Value It Has.** [[1t[godbound-ruin-location_features-unusual_value_it_has]]]\n• **Danger Related to It.** [[1t[godbound-ruin-location_features-danger_related_to_it]]]\n• **Useful Information It Gives.** [[1t[godbound-ruin-location_features-useful_information_it_gives]]]\n• **Functional Component.** [[1t[godbound-ruin-location_features-functional_component]]]\n• **Visual Style.** [[1t[godbound-ruin-location_features-visual_style]]]\n• **Large Features In Combat.** [[1t[godbound-ruin-location_features-large_features_in_combat]]]\n\n\n[More Locations](!&#13;#GB-Quick-Ruin_Location)\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Main Menu](!&#13;#GB-Q-Create)\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Ruin_Location",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Night Road}} {{description=\n\n◖**Night Road Wayhouses**◗\n[[1t[godbound-ruin-night_road-night_road_wayhouses]]]\n\n◖**Night Road Seals**◗\n[[1t[godbound-ruin-night_road-night_road_seals]]]\n\n\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Another Night Road](!&#13;#GB-Quick-Night_Road)\n[Main Menu](!&#13;#GB-Q-Create)\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Night_Road",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Shard of Heaven}} {{description=\n\n◖**Basic Heavenly Surroundings**◗\n[[1t[godbound-ruin-shards_of_heaven-basic_heavenly_surroundings]]]\n\n◖**Its Magnificence**◗\n[[1t[godbound-ruin-shards_of_heaven-its_magnificence]]]\n\n◖**Its Decay**◗\n[[1t[godbound-ruin-shards_of_heaven-its_decay]]]\n\n◖**Its Latest Occupants**◗\n[[1t[godbound-ruin-shards_of_heaven-its_latest_occupants]]]\n\n◖**What They Wanted Here**◗\n[[1t[godbound-ruin-shards_of_heaven-what_they_wanted_here]]]\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Another Shard](!&#13;#GB-Quick-Shard_of_Heaven)\n[Main Menu](!&#13;#GB-Q-Create)\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Shard_of_Heaven",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Kinds of Challenges}} {{description=\n\n[[1t[godbound-challenge-kinds_of_challenges]]]\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Another Challenge](!&#13;#GB-Quick-Challenge)\n[Challenge Details](!&#13;#GB-Quick-Challenge_Details)\n[Main Menu](!&#13;#GB-Q-Create)\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Challenge",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Challenge}} {{description=\n\n◖**Challenge Details**◗\n?{Challenge Type| \nBuilding a Structure, **Building a Structure. **[[1t[godbound-challenge-building_a_structure]]]|\nChanging a Custom, **Changing a Custom. **[[1t[godbound-challenge-changing_a_custom]]]|\nClearing a Ruin, **Clearing a Ruin. **[[1t[godbound-challenge-clearing_a_ruin]]]|\nConvincing Someone, **Convincing Someone. **[[1t[godbound-challenge-convincing_someone]]]|\nFinding a Thing, **Finding a Thing. **[[1t[godbound-challenge-finding_a_thing]]]|\nKilling a Monster, **Killing a Monster. **[[1t[godbound-challenge-killing_a_monster]]]|\nRallying a Group, **Rallying a Group. **[[1t[godbound-challenge-rallying_a_group]]]|\nResolving a Conflict, **Resolving a Conflict. **[[1t[godbound-challenge-resolving_a_conflict]]]|\nSneaking or Stealing, **Sneaking or Stealing. **[[1t[godbound-challenge-sneaking_or_stealing]]]|\nUndoing an Enchantment, **Undoing an Enchantment. **[[1t[godbound-challenge-undoing_an_enchantment]]]}\n\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Try Again](!&#13;#GB-Quick-Challenge_Details)\n[Another Challenge](!&#13;#GB-Quick-Challenge)\n[Main Menu](!&#13;#GB-Q-Create)\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Challenge_Details",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Faction:Despotic Tyrants}} {{description=\n\n◖**Faction Goals**◗\n[[1t[godbound-factions-goals-despotic_tyrants]]]\n\n◖**Faction Features**◗\n• **Cultural.** [[1t[godbound-factions-features-cultural_features]]]\n• **Economic.** [[1t[godbound-factions-features-economic_features]]]\n• **Military.** [[1t[godbound-factions-features-military_features]]]\n\n◖**Faction Problems**◗\n• **Cultural.** [[1t[godbound-factions-problems-cultural_problems]]]\n• **Economic.** [[1t[godbound-factions-problems-economic_problems]]]\n• **Military.** [[1t[godbound-factions-problems-military_problems]]]\n\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Despotic Tyrants](!&#13;#GB-Quick-Faction-Despotic)\n[Martial Conquerors](!&#13;#GB-Quick-Faction-Martial)\n[Self-Absorbed Survivors](!&#13;#GB-Quick-Faction-Survivors)\n[Scheming Manipulators](!&#13;#GB-Quick-Faction-Manipulators)\n[Main Menu](!&#13;#GB-Q-Create)\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Faction-Despotic",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Faction:Martial Conquerors}} {{description=\n\n◖**Faction Goals**◗\n[[1t[godbound-factions-goals-martial_conquerors]]]\n\n◖**Faction Features**◗\n• **Cultural.** [[1t[godbound-factions-features-cultural_features]]]\n• **Economic.** [[1t[godbound-factions-features-economic_features]]]\n• **Military.** [[1t[godbound-factions-features-military_features]]]\n\n◖**Faction Problems**◗\n• **Cultural.** [[1t[godbound-factions-problems-cultural_problems]]]\n• **Economic.** [[1t[godbound-factions-problems-economic_problems]]]\n• **Military.** [[1t[godbound-factions-problems-military_problems]]]\n\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Despotic Tyrants](!&#13;#GB-Quick-Faction-Despotic)\n[Martial Conquerors](!&#13;#GB-Quick-Faction-Martial)\n[Self-Absorbed Survivors](!&#13;#GB-Quick-Faction-Survivors)\n[Scheming Manipulators](!&#13;#GB-Quick-Faction-Manipulators)\n[Main Menu](!&#13;#GB-Q-Create)\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Faction-Martial",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Faction:Self-Absorbed Survivors}} {{description=\n\n◖**Faction Goals**◗\n[[1t[godbound-factions-goals-self_absorbed_survivors]]]\n\n◖**Faction Features**◗\n• **Cultural.** [[1t[godbound-factions-features-cultural_features]]]\n• **Economic.** [[1t[godbound-factions-features-economic_features]]]\n• **Military.** [[1t[godbound-factions-features-military_features]]]\n\n◖**Faction Problems**◗\n• **Cultural.** [[1t[godbound-factions-problems-cultural_problems]]]\n• **Economic.** [[1t[godbound-factions-problems-economic_problems]]]\n• **Military.** [[1t[godbound-factions-problems-military_problems]]]\n\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Despotic Tyrants](!&#13;#GB-Quick-Faction-Despotic)\n[Martial Conquerors](!&#13;#GB-Quick-Faction-Martial)\n[Self-Absorbed Survivors](!&#13;#GB-Quick-Faction-Survivors)\n[Scheming Manipulators](!&#13;#GB-Quick-Faction-Manipulators)\n[Main Menu](!&#13;#GB-Q-Create)\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Faction-Survivors",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Faction:Scheming Manipulators}} {{description=\n\n◖**Faction Goals**◗\n[[1t[godbound-factions-goals-scheming_manipulators]]]\n\n◖**Faction Features**◗\n• **Cultural.** [[1t[godbound-factions-features-cultural_features]]]\n• **Economic.** [[1t[godbound-factions-features-economic_features]]]\n• **Military.** [[1t[godbound-factions-features-military_features]]]\n\n◖**Faction Problems**◗\n• **Cultural.** [[1t[godbound-factions-problems-cultural_problems]]]\n• **Economic.** [[1t[godbound-factions-problems-economic_problems]]]\n• **Military.** [[1t[godbound-factions-problems-military_problems]]]\n\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Despotic Tyrants](!&#13;#GB-Quick-Faction-Despotic)\n[Martial Conquerors](!&#13;#GB-Quick-Faction-Martial)\n[Self-Absorbed Survivors](!&#13;#GB-Quick-Faction-Survivors)\n[Scheming Manipulators](!&#13;#GB-Quick-Faction-Manipulators)\n[Main Menu](!&#13;#GB-Q-Create)\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Faction-Manipulators",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Foe:?{Name:}}} {{description=\n\n◖**Attack Patterns**◗\n• [[1t[godbound-foes-attack_patterns]]]\n\n◖**Defensive Abilities**◗\n• [[1t[godbound-foes-defensive_abilities]]]\n\n◖**Movement Options**◗\n• [[1t[godbound-foes-movement_options]]]\n\n◖**Impairments**◗\n• **Weak. **[[1t[godbound-foes-weak_impairments]]]\n• **Medium. **[[1t[godbound-foes-medium_impairments]]]\n• **Strong. **[[1t[godbound-foes-strong_impairments]]]\n\n▬▬▬▬▬▬▬▬▬▬▬\n[New Foe](!&#13;#GB-Quick-Foe)\n[Main Menu](!&#13;#GB-Q-Create)\n\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Foe",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:godbound} {{roll=Treasure}} {{description=\n\n◖**The Origin of the Treasure**◗\n• [[1t[godbound-treasure-the_origin_of_the_treasure]]]\n\n◖**Descriptor of the Treasure**◗\n• [[1t[godbound-treasure-descriptor_of_the_treasure]]]\n\n◖**The Bulk of the Treasure**◗\n• [[1t[godbound-treasure-the_bulk_of_the_treasure]]]\n\n◖**The Treasure's Defenses**◗\n• [[1t[godbound-treasure-the_treasures_defenses]]]\n\n◖**Who Wants the Treasure?**◗\n• [[1t[godbound-treasure-who_wants_the_treasure]]]\n\n\n▬▬▬▬▬▬▬▬▬▬▬\n[Another Treasure](!\n#GB-Quick-Treasure)\n[Main Menu](!\n#GB-Q-Create)\n\n}}",
+                "istokenaction": false,
+                "name": "GB-Quick-Treasure",
+                "visibleto": ""
+            }
+        }
+    ]
+}
