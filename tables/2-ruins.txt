@@ -322,19 +322,19 @@
 !import-table-item --godbound-ruin-location_features-functional_component --It summons occupants to the area --1 --
 !import-table-item --godbound-ruin-location_features-functional_component --It triggers a self-destruct sequence --1 --
 !import-table-item --godbound-ruin-location_features-functional_component --It's a conduit for the ruin's energy --1 --
-!import-table --godbound-ruin-location_features-visual_styles --hide
-!import-table-item --godbound-ruin-location_features-visual_styles --Bloodstained as if used as a weapon --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Emblazoned with creator's insignia --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Featureless, highly-polished surfaces --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Glowing circuit-like streaks of light --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Harsh geometrical angles --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Humming, chiming, or other sounds --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Intricate knotwork and twisted lines --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Naturalistic images or colors to it --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Pockmarked and decaying texture --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Rusted or verdigrised surface --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Smooth, flowing curves and lines --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Unusually hot or cold surface --1 --
+!import-table --godbound-ruin-location_features-visual_style --hide
+!import-table-item --godbound-ruin-location_features-visual_style --Bloodstained as if used as a weapon --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Emblazoned with creator's insignia --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Featureless, highly-polished surfaces --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Glowing circuit-like streaks of light --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Harsh geometrical angles --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Humming, chiming, or other sounds --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Intricate knotwork and twisted lines --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Naturalistic images or colors to it --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Pockmarked and decaying texture --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Rusted or verdigrised surface --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Smooth, flowing curves and lines --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Unusually hot or cold surface --1 --
 !import-table --godbound-ruin-location_features-large_features_in_combat --hide
 !import-table-item --godbound-ruin-location_features-large_features_in_combat --Enemies hide in or behind it when alert --1 --
 !import-table-item --godbound-ruin-location_features-large_features_in_combat --If broken, it causes a disaster elsewhere --1 --

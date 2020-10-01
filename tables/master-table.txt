@@ -460,19 +460,19 @@
 !import-table-item --godbound-court-criminal-organization_defenses --Several corrupt officials --1 --
 !import-table-item --godbound-court-criminal-organization_defenses --Stolen magical relics --1 --
 !import-table-item --godbound-court-criminal-organization_defenses --Treacherous seducer --1 --
-!import-table --godbound-court-temple-mood --hide
-!import-table-item --godbound-court-temple-mood --Antiquated, caring only for things of a different time --1 --
-!import-table-item --godbound-court-temple-mood --Austere, refraining from visible luxury or indulgence --1 --
-!import-table-item --godbound-court-temple-mood --Careless, priests little interested in spiritual duties --1 --
-!import-table-item --godbound-court-temple-mood --Confused, in the midst of some great change --1 --
-!import-table-item --godbound-court-temple-mood --Distracted, the priests caring about a secular matter --1 --
-!import-table-item --godbound-court-temple-mood --Laboring, hard-pressed by the needs of believers --1 --
-!import-table-item --godbound-court-temple-mood --Mystical, full of somewhat incomprehensible priests --1 --
-!import-table-item --godbound-court-temple-mood --Opulent, jeweled and golden in wild excess --1 --
-!import-table-item --godbound-court-temple-mood --Rigid, uniform and disciplined in its clergy --1 --
-!import-table-item --godbound-court-temple-mood --Tense, priests constantly ready to attack each other --1 --
-!import-table-item --godbound-court-temple-mood --Unworldly, reluctant to get involved with secular things --1 --
-!import-table-item --godbound-court-temple-mood --Vengeful, furious against the enemies or rivals --1 --
+!import-table --godbound-court-temple-temple_mood --hide
+!import-table-item --godbound-court-temple-temple_mood --Antiquated, caring only for things of a different time --1 --
+!import-table-item --godbound-court-temple-temple_mood --Austere, refraining from visible luxury or indulgence --1 --
+!import-table-item --godbound-court-temple-temple_mood --Careless, priests little interested in spiritual duties --1 --
+!import-table-item --godbound-court-temple-temple_mood --Confused, in the midst of some great change --1 --
+!import-table-item --godbound-court-temple-temple_mood --Distracted, the priests caring about a secular matter --1 --
+!import-table-item --godbound-court-temple-temple_mood --Laboring, hard-pressed by the needs of believers --1 --
+!import-table-item --godbound-court-temple-temple_mood --Mystical, full of somewhat incomprehensible priests --1 --
+!import-table-item --godbound-court-temple-temple_mood --Opulent, jeweled and golden in wild excess --1 --
+!import-table-item --godbound-court-temple-temple_mood --Rigid, uniform and disciplined in its clergy --1 --
+!import-table-item --godbound-court-temple-temple_mood --Tense, priests constantly ready to attack each other --1 --
+!import-table-item --godbound-court-temple-temple_mood --Unworldly, reluctant to get involved with secular things --1 --
+!import-table-item --godbound-court-temple-temple_mood --Vengeful, furious against the enemies or rivals --1 --
 !import-table --godbound-court-temple-major_actor --hide
 !import-table-item --godbound-court-temple-major_actor --Aged holy figure --1 --
 !import-table-item --godbound-court-temple-major_actor --Eager reformer --1 --
@@ -875,19 +875,19 @@
 !import-table-item --godbound-ruin-location_features-functional_component --It summons occupants to the area --1 --
 !import-table-item --godbound-ruin-location_features-functional_component --It triggers a self-destruct sequence --1 --
 !import-table-item --godbound-ruin-location_features-functional_component --It's a conduit for the ruin's energy --1 --
-!import-table --godbound-ruin-location_features-visual_styles --hide
-!import-table-item --godbound-ruin-location_features-visual_styles --Bloodstained as if used as a weapon --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Emblazoned with creator's insignia --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Featureless, highly-polished surfaces --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Glowing circuit-like streaks of light --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Harsh geometrical angles --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Humming, chiming, or other sounds --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Intricate knotwork and twisted lines --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Naturalistic images or colors to it --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Pockmarked and decaying texture --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Rusted or verdigrised surface --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Smooth, flowing curves and lines --1 --
-!import-table-item --godbound-ruin-location_features-visual_styles --Unusually hot or cold surface --1 --
+!import-table --godbound-ruin-location_features-visual_style --hide
+!import-table-item --godbound-ruin-location_features-visual_style --Bloodstained as if used as a weapon --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Emblazoned with creator's insignia --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Featureless, highly-polished surfaces --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Glowing circuit-like streaks of light --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Harsh geometrical angles --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Humming, chiming, or other sounds --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Intricate knotwork and twisted lines --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Naturalistic images or colors to it --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Pockmarked and decaying texture --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Rusted or verdigrised surface --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Smooth, flowing curves and lines --1 --
+!import-table-item --godbound-ruin-location_features-visual_style --Unusually hot or cold surface --1 --
 !import-table --godbound-ruin-location_features-large_features_in_combat --hide
 !import-table-item --godbound-ruin-location_features-large_features_in_combat --Enemies hide in or behind it when alert --1 --
 !import-table-item --godbound-ruin-location_features-large_features_in_combat --If broken, it causes a disaster elsewhere --1 --
@@ -1178,7 +1178,7 @@
 !import-table-item --godbound-factions-features-cultural_features --They're united in a spirit of shared sacrifice --1 --
 !import-table-item --godbound-factions-features-cultural_features --They've a musical or performance tradition of fame --1 --
 !import-table-item --godbound-factions-features-cultural_features --Useful exiles and usurpers find safety there --1 --
-!import-table--godbound-factions-features-economic_features --hide
+!import-table --godbound-factions-features-economic_features --hide
 !import-table-item --godbound-factions-features-economic_features --A great merchant prince is part of the group --1 --
 !import-table-item --godbound-factions-features-economic_features --A large supply of some rare resource is there --1 --
 !import-table-item --godbound-factions-features-economic_features --A lineage of magically-gifted artisans is there --1 --
@@ -1290,17 +1290,17 @@
 !import-table-item --godbound-foes-movement_options --The creature is effectively immobile, either too slow to move meaningfully in combat or actually fixed in place. Some creatures might be restricted to a very narrow area by magic or necessity. The creature will need ranged attack options or an environment that forces melee engagement if it’s to prove a significant challenge --1 --
 !import-table-item --godbound-foes-movement_options --It inhabits an unusual medium, whether swimming through water or navigating through clouds of fire, passing through stone walls, or existing only in areas of darkness. Some creatures may have a different means of ordinary movement, but can treat this particular medium as easily passable --1 --
 !import-table-item --godbound-foes-movement_options --It moves abruptly from place to place, but passes through the space between. It might shoot weblines and swing around, or jump rapidly to locations within sight, or move with tremendous speed from one spot to another. Some creatures might require a particular medium between these locations, such as an unbroken body of water or cloud of smoke --1 --
-!import-table --godbound-foes-attack_paterns --hide
-!import-table-item --godbound-foes-attack_paterns --It throws Strong attacks at single targets, or Weak area attacks on several foes. The principle here is that single-target attacks should be stronger than attacks that hit multiple targets. These might be weapon strikes, energy bolts, cleaving blows at nearby enemies, flurries of projectiles, or explosive detonations of energy --1 --
-!import-table-item --godbound-foes-attack_paterns --It assails its last target, stepping the attack up a rank from its normal intensity as its momentum builds --1 --
-!import-table-item --godbound-foes-attack_paterns --It alters the environment in some way to make it a Weak damaging attack to foes within the zone or inflict an Average impairment on them --1 --
-!import-table-item --godbound-foes-attack_paterns --Its attack delivers an impairment one rank stronger for a round if it hits --1 --
-!import-table-item --godbound-foes-attack_paterns --It launches multiple Medium attacks at different targets --1 --
-!import-table-item --godbound-foes-attack_paterns --It launches several Weak attacks at the same target --1 --
-!import-table-item --godbound-foes-attack_paterns --It launches several Strong attacks at an otherwise unharmed opponent --1 --
-!import-table-item --godbound-foes-attack_paterns --It inflicts a Strong impairment on foes in melee range, or lobs it as an area effect on ranged assailants --1 --
-!import-table-item --godbound-foes-attack_paterns --It uses a Strong attack against the last foe to attack it --1 --
-!import-table-item --godbound-foes-attack_paterns --It inflicts a Medium impairment on an area with its powers and gets a free Medium ranged attack on anyone who then leaves the area --1 --
+!import-table --godbound-foes-attack_patterns --hide
+!import-table-item --godbound-foes-attack_patterns --It throws Strong attacks at single targets, or Weak area attacks on several foes. The principle here is that single-target attacks should be stronger than attacks that hit multiple targets. These might be weapon strikes, energy bolts, cleaving blows at nearby enemies, flurries of projectiles, or explosive detonations of energy --1 --
+!import-table-item --godbound-foes-attack_patterns --It assails its last target, stepping the attack up a rank from its normal intensity as its momentum builds --1 --
+!import-table-item --godbound-foes-attack_patterns --It alters the environment in some way to make it a Weak damaging attack to foes within the zone or inflict an Average impairment on them --1 --
+!import-table-item --godbound-foes-attack_patterns --Its attack delivers an impairment one rank stronger for a round if it hits --1 --
+!import-table-item --godbound-foes-attack_patterns --It launches multiple Medium attacks at different targets --1 --
+!import-table-item --godbound-foes-attack_patterns --It launches several Weak attacks at the same target --1 --
+!import-table-item --godbound-foes-attack_patterns --It launches several Strong attacks at an otherwise unharmed opponent --1 --
+!import-table-item --godbound-foes-attack_patterns --It inflicts a Strong impairment on foes in melee range, or lobs it as an area effect on ranged assailants --1 --
+!import-table-item --godbound-foes-attack_patterns --It uses a Strong attack against the last foe to attack it --1 --
+!import-table-item --godbound-foes-attack_patterns --It inflicts a Medium impairment on an area with its powers and gets a free Medium ranged attack on anyone who then leaves the area --1 --
 !import-table --godbound-foes-defensive_abilities --hide
 !import-table-item --godbound-foes-defensive_abilities --The creature's impervious to a type of energy it uses or a particular hazard it employs as an attack --1 --
 !import-table-item --godbound-foes-defensive_abilities --It's so ferocious that damage done to it is deferred by a round, allowing it to keep fighting for a round after being reduced to zero hit dice --1 --

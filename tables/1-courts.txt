@@ -460,19 +460,19 @@
 !import-table-item --godbound-court-criminal-organization_defenses --Several corrupt officials --1 --
 !import-table-item --godbound-court-criminal-organization_defenses --Stolen magical relics --1 --
 !import-table-item --godbound-court-criminal-organization_defenses --Treacherous seducer --1 --
-!import-table --godbound-court-temple-mood --hide
-!import-table-item --godbound-court-temple-mood --Antiquated, caring only for things of a different time --1 --
-!import-table-item --godbound-court-temple-mood --Austere, refraining from visible luxury or indulgence --1 --
-!import-table-item --godbound-court-temple-mood --Careless, priests little interested in spiritual duties --1 --
-!import-table-item --godbound-court-temple-mood --Confused, in the midst of some great change --1 --
-!import-table-item --godbound-court-temple-mood --Distracted, the priests caring about a secular matter --1 --
-!import-table-item --godbound-court-temple-mood --Laboring, hard-pressed by the needs of believers --1 --
-!import-table-item --godbound-court-temple-mood --Mystical, full of somewhat incomprehensible priests --1 --
-!import-table-item --godbound-court-temple-mood --Opulent, jeweled and golden in wild excess --1 --
-!import-table-item --godbound-court-temple-mood --Rigid, uniform and disciplined in its clergy --1 --
-!import-table-item --godbound-court-temple-mood --Tense, priests constantly ready to attack each other --1 --
-!import-table-item --godbound-court-temple-mood --Unworldly, reluctant to get involved with secular things --1 --
-!import-table-item --godbound-court-temple-mood --Vengeful, furious against the enemies or rivals --1 --
+!import-table --godbound-court-temple-temple_mood --hide
+!import-table-item --godbound-court-temple-temple_mood --Antiquated, caring only for things of a different time --1 --
+!import-table-item --godbound-court-temple-temple_mood --Austere, refraining from visible luxury or indulgence --1 --
+!import-table-item --godbound-court-temple-temple_mood --Careless, priests little interested in spiritual duties --1 --
+!import-table-item --godbound-court-temple-temple_mood --Confused, in the midst of some great change --1 --
+!import-table-item --godbound-court-temple-temple_mood --Distracted, the priests caring about a secular matter --1 --
+!import-table-item --godbound-court-temple-temple_mood --Laboring, hard-pressed by the needs of believers --1 --
+!import-table-item --godbound-court-temple-temple_mood --Mystical, full of somewhat incomprehensible priests --1 --
+!import-table-item --godbound-court-temple-temple_mood --Opulent, jeweled and golden in wild excess --1 --
+!import-table-item --godbound-court-temple-temple_mood --Rigid, uniform and disciplined in its clergy --1 --
+!import-table-item --godbound-court-temple-temple_mood --Tense, priests constantly ready to attack each other --1 --
+!import-table-item --godbound-court-temple-temple_mood --Unworldly, reluctant to get involved with secular things --1 --
+!import-table-item --godbound-court-temple-temple_mood --Vengeful, furious against the enemies or rivals --1 --
 !import-table --godbound-court-temple-major_actor --hide
 !import-table-item --godbound-court-temple-major_actor --Aged holy figure --1 --
 !import-table-item --godbound-court-temple-major_actor --Eager reformer --1 --
@@ -512,19 +512,19 @@
 !import-table-item --godbound-court-temple-power_sources --Holds a vital position as a life-long post --1 --
 !import-table-item --godbound-court-temple-power_sources --Knows a wealth of secrets and confessions --1 --
 !import-table-item --godbound-court-temple-power_sources --Owns the temple building or land --1 --
-!import-table --godbound-court-temple-conflicts --hide
-!import-table-item --godbound-court-temple-conflicts --A cleric seeking a pact with evil --1 --
-!import-table-item --godbound-court-temple-conflicts --Accepting another temple’s authority --1 --
-!import-table-item --godbound-court-temple-conflicts --Change of the temple’s political focus --1 --
-!import-table-item --godbound-court-temple-conflicts --Control of a powerful, naive believer --1 --
-!import-table-item --godbound-court-temple-conflicts --Enlisting an unsavory group of allies --1 --
-!import-table-item --godbound-court-temple-conflicts --Major cleric pursuing a secret vice --1 --
-!import-table-item --godbound-court-temple-conflicts --Obscure but vital theological dispute --1 --
-!import-table-item --godbound-court-temple-conflicts --Overthrow of a troublesome local --1 --
-!import-table-item --godbound-court-temple-conflicts --Performing a dangerous magic rite --1 --
-!import-table-item --godbound-court-temple-conflicts --Quarrel over control of the treasury --1 --
-!import-table-item --godbound-court-temple-conflicts --Selling a mighty relic or great treasure --1 --
-!import-table-item --godbound-court-temple-conflicts --Silencing of a problematic priest --1 --
+!import-table --godbound-court-temple_conflicts --hide
+!import-table-item --godbound-court-temple_conflicts --A cleric seeking a pact with evil --1 --
+!import-table-item --godbound-court-temple_conflicts --Accepting another temple’s authority --1 --
+!import-table-item --godbound-court-temple_conflicts --Change of the temple’s political focus --1 --
+!import-table-item --godbound-court-temple_conflicts --Control of a powerful, naive believer --1 --
+!import-table-item --godbound-court-temple_conflicts --Enlisting an unsavory group of allies --1 --
+!import-table-item --godbound-court-temple_conflicts --Major cleric pursuing a secret vice --1 --
+!import-table-item --godbound-court-temple_conflicts --Obscure but vital theological dispute --1 --
+!import-table-item --godbound-court-temple_conflicts --Overthrow of a troublesome local --1 --
+!import-table-item --godbound-court-temple_conflicts --Performing a dangerous magic rite --1 --
+!import-table-item --godbound-court-temple_conflicts --Quarrel over control of the treasury --1 --
+!import-table-item --godbound-court-temple_conflicts --Selling a mighty relic or great treasure --1 --
+!import-table-item --godbound-court-temple_conflicts --Silencing of a problematic priest --1 --
 !import-table --godbound-court-temple-consequences_of_its_destruction --hide
 !import-table-item --godbound-court-temple-consequences_of_its_destruction --A curse will fall upon desecrators --1 --
 !import-table-item --godbound-court-temple-consequences_of_its_destruction --A dangerous cult will fill the void --1 --

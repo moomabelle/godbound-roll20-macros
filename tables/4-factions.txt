@@ -43,7 +43,7 @@
 !import-table-item --godbound-factions-features-cultural_features --They're united in a spirit of shared sacrifice --1 --
 !import-table-item --godbound-factions-features-cultural_features --They've a musical or performance tradition of fame --1 --
 !import-table-item --godbound-factions-features-cultural_features --Useful exiles and usurpers find safety there --1 --
-!import-table--godbound-factions-features-economic_features --hide
+!import-table --godbound-factions-features-economic_features --hide
 !import-table-item --godbound-factions-features-economic_features --A great merchant prince is part of the group --1 --
 !import-table-item --godbound-factions-features-economic_features --A large supply of some rare resource is there --1 --
 !import-table-item --godbound-factions-features-economic_features --A lineage of magically-gifted artisans is there --1 --
