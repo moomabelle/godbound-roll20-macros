@@ -1,0 +1,31 @@
+/w gm &{template:godbound} {{roll=Temple Court}} {{description=
+◖**Power Structure**◗
+[[1t[godbound-court-organization_power_structure]]]
+
+
+◖**Temple Mood**◗
+[[1t[godbound-court-temple-temple_mood]]]
+
+◖**Major Actors**◗
+• [[1t[godbound-court-temple-major_actor]]]; [[1t[godbound-court-temple-power_sources]]]
+• [[1t[godbound-court-temple-major_actor]]]; [[1t[godbound-court-temple-power_sources]]]
+• [[1t[godbound-court-temple-major_actor]]]; [[1t[godbound-court-temple-power_sources]]]
+
+◖**Minor Actors**◗
+• [[1t[godbound-court-temple-minor_actor]]]
+• [[1t[godbound-court-temple-minor_actor]]]
+• [[1t[godbound-court-temple-minor_actor]]]
+
+◖**Conflicts**◗
+• [[1t[godbound-court-temple-conflicts]]]
+
+◖**Consequences of its Destruction**◗
+• [[1t[godbound-court-temple-consequences_of_its_destruction]]]
+
+◖**Temple Defenses**◗
+• [[1t[godbound-court-temple-temple_defenses]]]
+
+▬▬▬▬▬▬▬▬▬▬▬
+[Another Court](!&#13;#GB-Quick-Court-Temple)
+[Main Menu](!&#13;#GB-Q-Create)
+}}

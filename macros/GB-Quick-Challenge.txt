@@ -1,0 +1,9 @@
+/w gm &{template:godbound} {{roll=Kinds of Challenges}} {{description=
+
+[[1t[godbound-challenge-kinds_of_challenges]]]
+
+▬▬▬▬▬▬▬▬▬▬▬
+[Another Challenge](!&#13;#GB-Quick-Challenge)
+[Challenge Details](!&#13;#GB-Quick-Challenge_Details)
+[Main Menu](!&#13;#GB-Q-Create)
+}}

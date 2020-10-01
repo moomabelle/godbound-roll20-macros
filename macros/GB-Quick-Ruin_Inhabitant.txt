@@ -1,0 +1,18 @@
+/w gm &{template:godbound} {{roll=Ruin Inhabitant}} {{description=
+
+◖**Inhabitant Group**◗
+[[1t[godbound-ruin-inhabitant_groups-ruin_inhabitants]]]
+
+• **How did they end up here?** [[1t[godbound-ruin-inhabitant_details-how_did_they_end_up_here]]] 
+• **Their Overall Goal** [[1t[godbound-ruin-inhabitant_details-their_overall_goal]]] 
+• **Their Leadership Type.** [[1t[godbound-ruin-inhabitant_details-their_leadership_type]]] 
+• **Defensive Measures.** [[1t[godbound-ruin-inhabitant_details-defensive_measures]]] 
+• **Internal Problems.** [[1t[godbound-ruin-inhabitant_details-internal_problems]]] 
+• **Recent Events.** [[1t[godbound-ruin-inhabitant_details-recent_events]]] 
+• **External Relationships.** [[1t[godbound-ruin-inhabitant_details-external_relationships]]] 
+
+[More Inhabitants](!&#13;#GB-Quick-Ruin_Inhabitant)
+
+▬▬▬▬▬▬▬▬▬▬▬
+[Main Menu](!&#13;#GB-Q-Create)
+}}

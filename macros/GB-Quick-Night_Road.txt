@@ -1,0 +1,14 @@
+/w gm &{template:godbound} {{roll=Night Road}} {{description=
+
+◖**Night Road Wayhouses**◗
+[[1t[godbound-ruin-night_road-night_road_wayhouses]]]
+
+◖**Night Road Seals**◗
+[[1t[godbound-ruin-night_road-night_road_seals]]]
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬
+[Another Night Road](!&#13;#GB-Quick-Night_Road)
+[Main Menu](!&#13;#GB-Q-Create)
+}}

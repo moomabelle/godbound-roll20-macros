@@ -1,0 +1,23 @@
+/w gm &{template:godbound} {{roll=Faction:Despotic Tyrants}} {{description=
+
+◖**Faction Goals**◗
+[[1t[godbound-factions-goals-despotic_tyrants]]]
+
+◖**Faction Features**◗
+• **Cultural.** [[1t[godbound-factions-features-cultural_features]]]
+• **Economic.** [[1t[godbound-factions-features-economic_features]]]
+• **Military.** [[1t[godbound-factions-features-military_features]]]
+
+◖**Faction Problems**◗
+• **Cultural.** [[1t[godbound-factions-problems-cultural_problems]]]
+• **Economic.** [[1t[godbound-factions-problems-economic_problems]]]
+• **Military.** [[1t[godbound-factions-problems-military_problems]]]
+
+
+▬▬▬▬▬▬▬▬▬▬▬
+[Despotic Tyrants](!&#13;#GB-Quick-Faction-Despotic)
+[Martial Conquerors](!&#13;#GB-Quick-Faction-Martial)
+[Self-Absorbed Survivors](!&#13;#GB-Quick-Faction-Survivors)
+[Scheming Manipulators](!&#13;#GB-Quick-Faction-Manipulators)
+[Main Menu](!&#13;#GB-Q-Create)
+}}

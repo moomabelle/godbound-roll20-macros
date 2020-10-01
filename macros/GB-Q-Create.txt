@@ -1,0 +1,34 @@
+/w gm &{template:godbound} {{roll=Quick Create}} {{description=
+◖**Court**◗
+[Aristocratic](!&#13;#GB-Quick-Court-Aristocratic)
+[Bureaucratic](!&#13;#GB-Quick-Court-Bureaucratic)
+[Business](!&#13;#GB-Quick-Court-Business)
+[Community](!&#13;#GB-Quick-Court-Community)
+[Criminal](!&#13;#GB-Quick-Court-Criminal)
+[Temple](!&#13;#GB-Quick-Court-Temple)
+
+◖**Ruin**◗
+[Ruin](!&#13;#GB-Quick-Ruin)
+[Location](!&#13;#GB-Quick-Location)
+[Ruin Inhabitant](!&#13;#GB-Quick-Ruin_Inhabitant)
+[Night Road](!&#13;#GB-Quick-Night_Road)
+[Shard of Heaven](!&#13;#GB-Quick-Shard_of_Heaven)
+
+
+◖**Challenge**◗
+[Challenge Type](!&#13;#GB-Quick-Challenge)
+[Challenge Details](!&#13;#GB-Quick-Challenge_Details)
+
+◖**Faction**◗
+[Despotic Tyrants](!&#13;#GB-Quick-Faction-Despotic)
+[Martial Conquerors](!&#13;#GB-Quick-Faction-Martial)
+[Self-Absorbed Survivors](!&#13;#GB-Quick-Faction-Survivors)
+[Scheming Manipulators](!&#13;#GB-Quick-Faction-Manipulators)
+
+◖**Foe [WIP]**◗
+[Create a New Foe](!&#13;#GB-Quick-Foe)
+
+◖**Treasure**◗
+[Create a Treasure](!&#13;#GB-Quick-Treasure)
+
+}}

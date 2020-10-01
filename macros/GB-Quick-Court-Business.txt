@@ -1,0 +1,31 @@
+/w gm &{template:godbound} {{roll=Business Court}} {{description=
+◖**Power Structure**◗
+[[1t[godbound-court-organization_power_structure]]]
+
+
+◖**How is the business currently doing?**◗
+[[1t[godbound-court-business-how_is_the_business_currently_doing]]]
+
+◖**Major Actors**◗
+• [[1t[godbound-court-business-major_actor]]]; [[1t[godbound-court-business-power_sources]]]
+• [[1t[godbound-court-business-major_actor]]]; [[1t[godbound-court-business-power_sources]]]
+• [[1t[godbound-court-business-major_actor]]]; [[1t[godbound-court-business-power_sources]]]
+
+◖**Minor Actors**◗
+• [[1t[godbound-court-business-minor_actor]]]
+• [[1t[godbound-court-business-minor_actor]]]
+• [[1t[godbound-court-business-minor_actor]]]
+
+◖**Conflicts**◗
+• [[1t[godbound-court-business-conflicts]]]
+
+◖**Consequences of its Destruction**◗
+• [[1t[godbound-court-business-consequences_of_its_destruction]]]
+
+◖**Court Defenses**◗
+• [[1t[godbound-court-business-court_defenses]]]
+
+▬▬▬▬▬▬▬▬▬▬▬
+[Another Court](!&#13;#GB-Quick-Court-Business)
+[Main Menu](!&#13;#GB-Q-Create)
+}}

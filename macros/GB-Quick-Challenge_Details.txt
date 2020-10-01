@@ -1,0 +1,21 @@
+/w gm &{template:godbound} {{roll=Challenge}} {{description=
+
+◖**Challenge Details**◗
+?{Challenge Type| 
+Building a Structure, **Building a Structure. **[[1t[godbound-challenge-building_a_structure]]]|
+Changing a Custom, **Changing a Custom. **[[1t[godbound-challenge-changing_a_custom]]]|
+Clearing a Ruin, **Clearing a Ruin. **[[1t[godbound-challenge-clearing_a_ruin]]]|
+Convincing Someone, **Convincing Someone. **[[1t[godbound-challenge-convincing_someone]]]|
+Finding a Thing, **Finding a Thing. **[[1t[godbound-challenge-finding_a_thing]]]|
+Killing a Monster, **Killing a Monster. **[[1t[godbound-challenge-killing_a_monster]]]|
+Rallying a Group, **Rallying a Group. **[[1t[godbound-challenge-rallying_a_group]]]|
+Resolving a Conflict, **Resolving a Conflict. **[[1t[godbound-challenge-resolving_a_conflict]]]|
+Sneaking or Stealing, **Sneaking or Stealing. **[[1t[godbound-challenge-sneaking_or_stealing]]]|
+Undoing an Enchantment, **Undoing an Enchantment. **[[1t[godbound-challenge-undoing_an_enchantment]]]}
+
+
+▬▬▬▬▬▬▬▬▬▬▬
+[Try Again](!&#13;#GB-Quick-Challenge_Details)
+[Another Challenge](!&#13;#GB-Quick-Challenge)
+[Main Menu](!&#13;#GB-Q-Create)
+}}

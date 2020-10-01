@@ -1,0 +1,31 @@
+/w gm &{template:godbound} {{roll=Criminal Court}} {{description=
+◖**Power Structure**◗
+[[1t[godbound-court-organization_power_structure]]]
+
+
+◖**Main Line of Crime**◗
+[[1t[godbound-court-criminal-main_line_of_crime]]]
+
+◖**Major Actors**◗
+• [[1t[godbound-court-criminal-major_actor]]]; [[1t[godbound-court-criminal-power_sources]]]
+• [[1t[godbound-court-criminal-major_actor]]]; [[1t[godbound-court-criminal-power_sources]]]
+• [[1t[godbound-court-criminal-major_actor]]]; [[1t[godbound-court-criminal-power_sources]]]
+
+◖**Minor Actors**◗
+• [[1t[godbound-court-criminal-minor_actor]]]
+• [[1t[godbound-court-criminal-minor_actor]]]
+• [[1t[godbound-court-criminal-minor_actor]]]
+
+◖**Conflicts**◗
+• [[1t[godbound-court-criminal-conflicts]]]
+
+◖**Consequences of its Destruction**◗
+• [[1t[godbound-court-criminal-consequences_of_its_destruction]]]
+
+◖**Organization Defenses**◗
+• [[1t[godbound-court-criminal-organization_defenses]]]
+
+▬▬▬▬▬▬▬▬▬▬▬
+[Another Court](!&#13;#GB-Quick-Court-Criminal)
+[Main Menu](!&#13;#GB-Q-Create)
+}}

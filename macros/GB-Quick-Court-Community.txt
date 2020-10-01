@@ -1,0 +1,31 @@
+/w gm &{template:godbound} {{roll=Community Court}} {{description=
+◖**Power Structure**◗
+[[1t[godbound-court-organization_power_structure]]]
+
+
+◖**Community Temperament**◗
+[[1t[godbound-court-community-community_temperament]]]
+
+◖**Major Actors**◗
+• [[1t[godbound-court-community-major_actor]]]; [[1t[godbound-court-community-power_sources]]]
+• [[1t[godbound-court-community-major_actor]]]; [[1t[godbound-court-community-power_sources]]]
+• [[1t[godbound-court-community-major_actor]]]; [[1t[godbound-court-community-power_sources]]]
+
+◖**Minor Actors**◗
+• [[1t[godbound-court-community-minor_actor]]]
+• [[1t[godbound-court-community-minor_actor]]]
+• [[1t[godbound-court-community-minor_actor]]]
+
+◖**Conflicts**◗
+• [[1t[godbound-court-community-conflicts]]]
+
+◖**Consequences of its Destruction**◗
+• [[1t[godbound-court-community-consequences_of_its_destruction]]]
+
+◖**Community Defenses**◗
+• [[1t[godbound-court-community-community_defenses]]]
+
+▬▬▬▬▬▬▬▬▬▬▬
+[Another Court](!&#13;#GB-Quick-Court-Community)
+[Main Menu](!&#13;#GB-Q-Create)
+}}

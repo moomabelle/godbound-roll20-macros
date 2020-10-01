@@ -1,0 +1,21 @@
+/w gm &{template:godbound} {{roll=Shard of Heaven}} {{description=
+
+◖**Basic Heavenly Surroundings**◗
+[[1t[godbound-ruin-shards_of_heaven-basic_heavenly_surroundings]]]
+
+◖**Its Magnificence**◗
+[[1t[godbound-ruin-shards_of_heaven-its_magnificence]]]
+
+◖**Its Decay**◗
+[[1t[godbound-ruin-shards_of_heaven-its_decay]]]
+
+◖**Its Latest Occupants**◗
+[[1t[godbound-ruin-shards_of_heaven-its_latest_occupants]]]
+
+◖**What They Wanted Here**◗
+[[1t[godbound-ruin-shards_of_heaven-what_they_wanted_here]]]
+
+▬▬▬▬▬▬▬▬▬▬▬
+[Another Shard](!&#13;#GB-Quick-Shard_of_Heaven)
+[Main Menu](!&#13;#GB-Q-Create)
+}}

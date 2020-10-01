@@ -1,0 +1,38 @@
+/w gm &{template:godbound} {{roll=Ruin Location}} {{description=
+
+◖**Basic Purpose of the Location**◗
+[[1t[godbound-ruin-ruin_locations-basic_purpose_of_the_location]]]
+
+◖**Valuables Here**◗
+[[1t[godbound-ruin-ruin_locations-valuables_here]]]
+
+◖**Location's General Mood**◗
+[[1t[godbound-ruin-ruin_locations-locations_general_mood]]]
+
+◖**Ingress¹ or Egress² Problems**◗
+[[1d2]] • [[1t[godbound-ruin-ruin_locations-ingress_or_egress_problems]]]
+
+◖**Physical Peril**◗
+[[1t[godbound-ruin-ruin_locations-physical_peril]]]
+
+◖**Occupant Peril**◗
+[[1t[godbound-ruin-ruin_locations-occupant_peril]]]
+
+◖**Magical Peril**◗
+[[1t[godbound-ruin-ruin_locations-magical_peril]]]
+
+◖**Location Features**◗
+• **Basic Form of the Feature.** [[1t[godbound-ruin-location_features-basic_form_of_the_feature]]]
+• **Unusual Value It Has.** [[1t[godbound-ruin-location_features-unusual_value_it_has]]]
+• **Danger Related to It.** [[1t[godbound-ruin-location_features-danger_related_to_it]]]
+• **Useful Information It Gives.** [[1t[godbound-ruin-location_features-useful_information_it_gives]]]
+• **Functional Component.** [[1t[godbound-ruin-location_features-functional_component]]]
+• **Visual Style.** [[1t[godbound-ruin-location_features-visual_style]]]
+• **Large Features In Combat.** [[1t[godbound-ruin-location_features-large_features_in_combat]]]
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬
+[More Locations](!&#13;#GB-Quick-Ruin_Location)
+[Main Menu](!&#13;#GB-Q-Create)
+}}

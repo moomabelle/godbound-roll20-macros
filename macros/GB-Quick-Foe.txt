@@ -1,0 +1,21 @@
+/w gm &{template:godbound} {{roll=Foe:?{Name:}}} {{description=
+
+◖**Attack Patterns**◗
+• [[1t[godbound-foes-attack_patterns]]]
+
+◖**Defensive Abilities**◗
+• [[1t[godbound-foes-defensive_abilities]]]
+
+◖**Movement Options**◗
+• [[1t[godbound-foes-movement_options]]]
+
+◖**Impairments**◗
+• **Weak. **[[1t[godbound-foes-weak_impairments]]]
+• **Medium. **[[1t[godbound-foes-medium_impairments]]]
+• **Strong. **[[1t[godbound-foes-strong_impairments]]]
+
+▬▬▬▬▬▬▬▬▬▬▬
+[New Foe](!&#13;#GB-Quick-Foe)
+[Main Menu](!&#13;#GB-Q-Create)
+
+}}

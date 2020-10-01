@@ -1,0 +1,23 @@
+/w gm &{template:godbound} {{roll=Treasure}} {{description=
+
+◖**The Origin of the Treasure**◗
+• [[1t[godbound-treasure-the_origin_of_the_treasure]]]
+
+◖**Descriptor of the Treasure**◗
+• [[1t[godbound-treasure-descriptor_of_the_treasure]]]
+
+◖**The Bulk of the Treasure**◗
+• [[1t[godbound-treasure-the_bulk_of_the_treasure]]]
+
+◖**The Treasure's Defenses**◗
+• [[1t[godbound-treasure-the_treasures_defenses]]]
+
+◖**Who Wants the Treasure?**◗
+• [[1t[godbound-treasure-who_wants_the_treasure]]]
+
+
+▬▬▬▬▬▬▬▬▬▬▬
+[Another Treasure](!&#13;#GB-Quick-Treasure)
+[Main Menu](!&#13;#GB-Q-Create)
+
+}}

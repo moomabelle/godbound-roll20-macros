@@ -1,0 +1,31 @@
+/w gm &{template:godbound} {{roll=Bureaucratic Court}} {{description=
+◖**Power Structure**◗
+[[1t[godbound-court-organization_power_structure]]]
+
+
+◖**How is the Bureaucracy Regared?**◗
+[[1t[godbound-court-bureaucratic-how_is_the_bureaucracy_regarded]]]
+
+◖**Major Actors**◗
+• [[1t[godbound-court-bureaucratic-major_actor]]]; [[1t[godbound-court-bureaucratic-power_sources]]]
+• [[1t[godbound-court-bureaucratic-major_actor]]]; [[1t[godbound-court-bureaucratic-power_sources]]]
+• [[1t[godbound-court-bureaucratic-major_actor]]]; [[1t[godbound-court-bureaucratic-power_sources]]]
+
+◖**Minor Actors**◗
+• [[1t[godbound-court-bureaucratic-minor_actor]]]
+• [[1t[godbound-court-bureaucratic-minor_actor]]]
+• [[1t[godbound-court-bureaucratic-minor_actor]]]
+
+◖**Conflicts**◗
+• [[1t[godbound-court-bureaucratic-conflicts]]]
+
+◖**Consequences of its Destruction**◗
+• [[1t[godbound-court-bureaucratic-consequences_of_its_destruction]]]
+
+◖**Court Defenses**◗
+• [[1t[godbound-court-bureaucratic-court_defenses]]]
+
+▬▬▬▬▬▬▬▬▬▬▬
+[Another Court](!&#13;#GB-Quick-Court-Bureaucratic)
+[Main Menu](!&#13;#GB-Q-Create)
+}}

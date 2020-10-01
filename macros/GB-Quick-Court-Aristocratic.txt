@@ -1,0 +1,32 @@
+/w gm &{template:godbound} {{roll=Aristocratic Court}} {{description=
+◖**Power Structure**◗
+[[1t[godbound-court-organization_power_structure]]]
+
+
+◖**Court Mood**◗
+[[1t[godbound-court-aristocratic-court_mood]]]
+
+◖**Major Actors**◗
+• [[1t[godbound-court-aristocratic-major_actor]]]; [[1t[godbound-court-aristocratic-power_sources]]]
+• [[1t[godbound-court-aristocratic-major_actor]]]; [[1t[godbound-court-aristocratic-power_sources]]]
+• [[1t[godbound-court-aristocratic-major_actor]]]; [[1t[godbound-court-aristocratic-power_sources]]]
+
+◖**Minor Actors**◗
+• [[1t[godbound-court-aristocratic-minor_actor]]]
+• [[1t[godbound-court-aristocratic-minor_actor]]]
+• [[1t[godbound-court-aristocratic-minor_actor]]]
+
+◖**Conflicts**◗
+• [[1t[godbound-court-aristocratic-conflicts]]]
+
+◖**Consequences of its Destruction**◗
+• [[1t[godbound-court-aristocratic-consequences_of_its_destruction]]]
+
+◖**Court Defenses**◗
+• [[1t[godbound-court-aristocratic-court_defenses]]]
+
+▬▬▬▬▬▬▬▬▬▬▬
+[Another Court](!&#13;#GB-Quick-Court-Aristocratic)
+[Main Menu](!&#13;#GB-Q-Create)
+
+}}
