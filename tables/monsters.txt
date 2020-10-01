@@ -39,16 +39,16 @@
 !import-table-item --godbound-foes-weak_impairments --Enervation. Victim takes 1d6 damage from exhaustion if they try to do anything vigorous --1 --
 !import-table-item --godbound-foes-weak_impairments --Impair healing. Victim cannot regain hit points for the duration of the scene --1 --
 !import-table --godbound-foes-medium_impairments --hide
-!import-table-item --godbound-foes-medium_impairments --Block divine power. Victim must Commit Effort for the scene every time they activate a non-Constant gift --1 -- --1 --
-!import-table-item --godbound-foes-medium_impairments --Pin. Victim can’t move under physical power. Optionally, it may instead block supernatural or abnormal movement modes. The victim can still act in place --1 -- --1 --
-!import-table-item --godbound-foes-medium_impairments --Severe Continuing Damage. The impairment inflicts 1d8 damage each round --1 -- --1 --
-!import-table-item --godbound-foes-medium_impairments --Blind. Victim rolls all attacks twice and takes the worse hit roll. Their assailants roll twice and take the best --1 -- --1 --
-!import-table-item --godbound-foes-medium_impairments --Exposure. The victim’s armor class becomes 9 for the scene's duration --1 -- --1 --
-!import-table-item --godbound-foes-medium_impairments --Stun. Victim must make an appropriate saving throw to take any action on a round --1 -- --1 --
-!import-table-item --godbound-foes-medium_impairments --Curse. Victim rolls saving throws twice and takes the worse result --1 -- --1 --
-!import-table-item --godbound-foes-medium_impairments --Compulsion. Victim takes 1d10 damage if they do anything except a particular action that round --1 -- --1 --
-!import-table-item --godbound-foes-medium_impairments --Vulnerability. Victim takes double damage from an attack type used by the assailant --1 -- --1 --
-!import-table-item --godbound-foes-medium_impairments --Susceptible. Damage on the victim is rolled twice, and the larger result is taken --1 -- --1 --
+!import-table-item --godbound-foes-medium_impairments --Block divine power. Victim must Commit Effort for the scene every time they activate a non-Constant gift --1 --
+!import-table-item --godbound-foes-medium_impairments --Pin. Victim can’t move under physical power. Optionally, it may instead block supernatural or abnormal movement modes. The victim can still act in place --1 --
+!import-table-item --godbound-foes-medium_impairments --Severe Continuing Damage. The impairment inflicts 1d8 damage each round --1 --
+!import-table-item --godbound-foes-medium_impairments --Blind. Victim rolls all attacks twice and takes the worse hit roll. Their assailants roll twice and take the best --1 --
+!import-table-item --godbound-foes-medium_impairments --Exposure. The victim’s armor class becomes 9 for the scene's duration --1 --
+!import-table-item --godbound-foes-medium_impairments --Stun. Victim must make an appropriate saving throw to take any action on a round --1 --
+!import-table-item --godbound-foes-medium_impairments --Curse. Victim rolls saving throws twice and takes the worse result --1 --
+!import-table-item --godbound-foes-medium_impairments --Compulsion. Victim takes 1d10 damage if they do anything except a particular action that round --1 --
+!import-table-item --godbound-foes-medium_impairments --Vulnerability. Victim takes double damage from an attack type used by the assailant --1 --
+!import-table-item --godbound-foes-medium_impairments --Susceptible. Damage on the victim is rolled twice, and the larger result is taken --1 --
 !import-table --godbound-foes-strong_impairments --hide
 !import-table-item --godbound-foes-strong_impairments --Seal divine power. Victim must Commit Effort for the scene each time they activate a non-Constant gift or miracle, and also takes a 1d10 damage die each time --1 --
 !import-table-item --godbound-foes-strong_impairments --Scathe. Victim always takes the maximum possible result on damage rolls --1 --

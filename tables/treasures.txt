@@ -1,128 +1,56 @@
-!import-table --godbound-challenge-blank --hide
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table --godbound-challenge-blank --hide
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table --godbound-challenge-blank --hide
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table --godbound-challenge-blank --hide
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table --godbound-challenge-blank --hide
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table --godbound-challenge-blank --hide
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table --godbound-challenge-blank --hide
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table --godbound-challenge-blank --hide
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table --godbound-challenge-blank --hide
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table --godbound-challenge-blank --hide
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
-!import-table-item --godbound-challenge-blank --
+!import-table --godbound-treasure-descriptor_of_the_treasure --hide
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Ancient. The loot dates back before the Last War. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Artwork. It's sculpture, painting, or other art. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Clothing. It's a piece of clothing or vestments. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Coinage. It's largely in coins of precious metal. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Consumable. It's something the user consumes. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Cryptic. The loot doesn't actually look valuable. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Data. The loot is actually information of value. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Exotic. It's something not found at all around here. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Famous. It's a locally-famous object of great worth. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Forbidden. The loot is illegal for some reason. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Jeweled. Large or extremely rare jewels are involved. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Magic. Some minor but valuable magic is involved. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Masterwork. A famous artisan crafted it. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Owned. Someone else around here has a claim on it. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Partial. Its real value exists only with all other parts. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Regalia. It's important regalia to a local noble family. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Religious. It's important to a major local faith. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Toxic. It harms its owner somehow if held long --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Vile. It's horrible somehow, but only has value intact. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Wood. It's of a rare wood or exotic plant matter. --1 --
+!import-table --godbound-treasure-the_origin_of_the_treasure --hide
+!import-table-item --godbound-treasure-the_origin_of_the_treasure --Hidden by an original occupant of the place --1 --
+!import-table-item --godbound-treasure-the_origin_of_the_treasure --Brought in by a later inhabitant --1 --
+!import-table-item --godbound-treasure-the_origin_of_the_treasure --Stolen from the surrounding locals --1 --
+!import-table-item --godbound-treasure-the_origin_of_the_treasure --Unearthed or crafted here on-site by inhabitants --1 --
+!import-table-item --godbound-treasure-the_origin_of_the_treasure --Payment for some service the owner rendered --1 --
+!import-table-item --godbound-treasure-the_origin_of_the_treasure --Tribute to the owner from minions or vassals --1 --
+!import-table --godbound-treasure-the_bulk_of_the_treasure --hide
+!import-table-item --godbound-treasure-the_bulk_of_the_treasure --Compact. The treasure consists of a single object or container that's easily carried by a person. --1 --
+!import-table-item --godbound-treasure-the_bulk_of_the_treasure --Bulky. The treasure is heavy or awkward. A person can carry it, but it'll take both hands. --1 --
+!import-table-item --godbound-treasure-the_bulk_of_the_treasure --Vast. The treasure is much too bulky or scattered for a person to carry it. A wagon or other transport must be used. --1 --
+!import-table-item --godbound-treasure-the_bulk_of_the_treasure --Attached. The treasure is an object that is physically attached to some part of the architecture, and something bad will happen if it's pried loose. --1 --
+!import-table-item --godbound-treasure-the_bulk_of_the_treasure --Fragile. A single person can carry the treasure, but if it's put down rapidly or the bearer is hit, it's likely to be smashed and made much less valuable. --1 --
+!import-table --godbound-treasure-the_treasures_defenses --hide
+!import-table-item --godbound-treasure-the_treasures_defenses --Sturdy, well-sealed container. --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --Hidden carefully in the owner's territory --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --Guardian beast left to keep out thieves --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --Magical ward that curses or detonates on thieves --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --Behind a door or barrier only the owner can pass --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --Intelligent guards that serve the owner --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --Fake or bait treasure is left to trick thieves --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --Removing it triggers a mechanical trap --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --An alarm triggered by magic, mechanism, or guards --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --Abject terror of the owner dissuades the locals --1 --
+!import-table --godbound-treasure-who_wants_the_treasure --hide
+!import-table-item --godbound-treasure-who_wants_the_treasure --Its former owner, a denizen of the ruin --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --The local human whom it was stolen from --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --Heirs to the victim of its theft --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --Local temple, which it once belonged to --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --Government official, taxman, or other exciseman --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --Supernatural entity bound to the loot --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --Local noble who owned or thinks he should own it --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --A greedy local ruin denizen who knows of it --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --The local ruin's boss, who wants it as tribute --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --A desperate human thief who wants to steal it --1 --
