@@ -1,0 +1,441 @@
+!import-table --godbound-ruin-original_purpose_of_the_ruin --hide
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Covert base for spies or a rebel cell --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Fortress or military installation --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Gatehouse for a Night Road --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Magical or high-tech transport nexus --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Military base or training area --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Mine or resource extraction site --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Palace for a great official --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Part of a ruined city or town’s residential area --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Prison camp for enemies --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Prison for a supernatural entity --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Refuge for survivors of the Shattering --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Resort for the elite or the wealthy --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Sealed site of a magical disaster --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Semi-magical manufactory --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Survival bunker for government elite --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Temple or monastery to worship a Made God --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Theotechnical research site --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Trading nexus with transit and storage --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --University or arcane school --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Vault or treasury for some mighty relic --1 --
+!import-table --godbound-ruin-ruin_hazards --hide
+!import-table-item --godbound-ruin-ruin_hazards --Abundant Traps: The place is crusted over with dangerous snares and security measures. A properly-gifted Godbound can likely bypass most of these, but ordinary mortals aren't so fortunate. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Autonomous Defenses: The ruin has some independent defense system that stubbornly guards it, most likely a set of Relict automatons. Undead or long-lived servitor creatures might serve as well. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Crumbling Structure: The ruin is falling apart, and anyone venturing into it risks bringing it down on top of their heads if they create too much of a commotion. Floors, ceilings, and walls can go at any time. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Cyclical Destruction: Every so often, something happens to kill everything in the ruin; an energy wave, a tide of fast-breeding super-vermin, inundation by a toxic substance, or the like. This cycle might be triggered by intruders or something they're likely to do. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --False Exterior: The ruin looks like something else, either an already-picked-over tumble of stones or a friendly settlement that hides the ruin as its secret. Secret entrances or magical ingresses are common. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Heritor Inhabitants: The original occupants of the ruin are still around, though probably in the form of a culture or even physical shape that is no longer the same. They very rarely welcome visitors. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Honey Trap: The ruin looks like something very appealing to intruders, like a treasure vault, friendly sanctuary, or a library filled with valuable theurgic secrets. In actuality, it's a trap to catch and murder intruders when their guard is down. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Hostile Environment: The ruin is full of something toxic or difficult to navigate, whether that's murky water or heavy radiation. It might be possible to "turn off" this environment, or intruders might just have to be equipped to deal with it. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Lethal Surroundings: The ruin might not be so bad, but the area around it is murderously dangerous. It might be teeming with dangerous creatures, vicious natives, or potentially-lethal terrain. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Lingering Curse: The ruin is magically blighted, and anyone who gets too close is going to be cursed as well. Godbound might have the Words to mitigate the curse, but lifting it will require major effort. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Mutated Guardians: The original inhabitants or a past occupant has stocked the ruin with twisted guardian creatures. Most such creatures require something the ruin provides in order to survive, keeping them from spreading too far afield. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Perpetual War Zone: Multiple factions within the ruin are constantly fighting each other. Depending on their degree of xenophobia, they might seek to enlist outsiders as allies, or just use them as free rations. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Remote Location: The ruin is exceedingly far away from anything else of importance, and its entrance is probably well-hidden. Reaching the ruin will necessitate a long trip at the least, likely through hostile lands to an imprecise destination. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Sealed Entrance: The ruin's entrance is bound shut by magic or ancient technology. Most such seals are too complex and multi-layered to be easily opened by Godbound miracles, though a Godbound with the Journeying gift Master of the Key likely could get it open. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Swarm Hive: The ruin is teeming with a hive of some dangerous creature. While defeating these individual entities might be trivial to Godbound intruders, they almost always work in vast, well-coordinated Mobs of furious defenders. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Taboo Wardens: The ruin is forbidden, either by ancient law, local custom, or the conviction of a powerful local faith. Wardens have been appointed to guard the site against intruders. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Temporal Lock: The ruin is only accessible at a specific time, such as a particular day of the year or time of day, and may not even exist outside the correct hour. Godbound of Time might be able to force its entrance into synchrony. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Titanic Beast: Some terrible monster lairs in the ruin, one fearsome enough to give even a Godbound pantheon a good fight. It may have younger spawn or a mate to complicate the engagement. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Toxic Miasma: There's poison in the atmosphere of the ruin. It may be quite subtle, with progressive Hardiness saves resisting damage that only becomes obvious during combat, or it might produce a more overt form of injury. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Verticality: The ruin is very tall or very deep. Intruders who can't fly or levitate will have a difficult time navigating it, and it might be entirely impossible to reach flying ruins without some means of aerial travel. Optionally, it might be so secure the only way in is above. --1 --
+!import-table --godbound-ruin-the_reward_of_the_ruin --hide
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Arcane Lore: There are one or more grimoires here containing the details of a theurgic invocation. They might be drawn from the examples given here in the book, or you might make up some new spells for the PCs to discover. Alternately, it might be a cache of instructional materials on a lost form of low magic, one that isn't as potent as theurgy but might still have some effects relevant to the ruin's original purpose. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Celestial Shards: These are needed for artifact-crafting and the working of Impossible feats of Dominion. Their presence implies that the ruin was either the original location of a realm-side engine of creation or that the ruin's builders brought in scavenged shards from elsewhere. One shard for every two PCs is usually a good haul. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Dark Secret: The ruin contains evidence of some atrocity, crime, or terrible practice that has some meaningful connection to the present-day natives of the area. The locals may not even remember their former sins, or they may make a point of hiding them. They might even still be ongoing, and this evidence would be all too clear. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Material Wealth: The Treasure chapter contains guidelines on how much Wealth loot a ruin of a given size and type should have, but this ruin is an exception. You should at least double the expected Wealth, if not more, and place it in some form that would make sense for the ruin's original purpose. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Needed Key: The ruin's reward is a key of some kind. It might be a physical key, or a passcode, or a particular magical ritual to be performed at a particular place. Whatever it is, it's needed to get into someplace important, either another ruin or a lost treasure vault. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Night Road: There's a Night Road in the bowels of this ruin, but unlike most Night Roads, this one can be sealed or opened from the realm side. PCs who take control of the ruin have an easy ingress to whatever far realm or Heavenly shard to which it might connect. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Powerful Artifact: There's a magic item in here powerful enough to impress even a Godbound. It might be a towering godwalker, or it could be a major artifact built with the rules in the Treasure chapter. It's possible that the artifact is somehow connected to the functioning of the ruin, or it might have been lost here by some former unfortunate explorer. Removing it could have consequences. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Revealed Plot: Somewhere in the ruin there's clear evidence of a sinister plot in the outside world or an impending catastrophe about to strike the area. This evidence is enough to warn the PCs, but it shouldn't be enough to prevent the catastrophe or blow open the plot by itself. If the PCs want to pursue the matter, the information should give them a general lead. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Token of Legitimacy: There's a piece of regalia or a genealogical text somewhere in the ruin that either proves the local ruling family is illegitimate or confers that legitimacy on whoever holds it. The token should be impressive or unusual enough to draw the PCs' attention, though they may not realize its importance until they start showing it to other people or have a Godbound of Knowledge or one with a relevant Fact examine it. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Transport Nexus: Fast travel in most realms is limited to the speed of a sailing ship. Long-range teleportation magic is very rare and potent theurgy, and even Godbound of Journeying usually have to traverse the physical space between points. This ruin contains a teleportation device or underground tubeway car that connects the ruin to some distant location, probably another ruin of a similar type. The nexus probably can't be re-worked to aim at a different target, though GMs might allow it as an Impossible project. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Useful Ally: There's an entity in this ruin that would make a useful and reliable ally to the PCs. Such a being isn't just one of the inhabitants who could be talked or charmed around to obedience, but an automaton or creature with obvious potential as a servant. The PCs should be able to tell that the entity is a potential ally very easily, or else habits of divine smiting might take the fore. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Valuable Map: There's a ruin or cache that nobody knows about, but this map gives relatively clear directions to it. The map might take the form of an actual paper map, or it could be a record kept in the ruin, or an inference drawn from some decorative piece of art. The map might leave out important information about the destination site's defenses or nature. --1 --
+!import-table --godbound-ruin-inhabitant_groups-ruin_inhabitants --hide
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Angelic Cult: Angelic Regent with Large Mob of human cultists. Possibly Lesser Eldritch high priest and a Titanic Beast guard-creature --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Automaton Defenses: Small Mob of Automaton Guardians, possibly with individual major automatons with Titanic Beast or Twisted Ogre statistics --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Bandit Chief: Minor or Major Hero with a Skilled Mage lieutenant, a Large Mob of rabble and a Small Mob of veteran bandits --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Exiled Noble: Minor or Major Hero with a Small Mob of supporters, a Skilled Mage advisor, and one supernatural creature as the mage’s familiar --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Heavenly Shard: Small Mobs of Angelic Ravagers or Angelic Guardians, possibly a Large Mob of Timeworn Survivors or a Hulking Abomination. In the worst case, a Made God is trapped in it. --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Hellish Labyrinth: Large Mobs of Angelic Guardians, one or more Titanic Beasts, Vast Mob of enslaved dead, possibly an Uncreated interloper. An Angelic Tyrant might rule major sites. --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Intelligent Misbegotten Lair: Twisted Ogre served by a Large Mob of minor Misbegotten, possibly with a tamed Titanic Beast or Lesser Eldritch sorcerer --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Military Base: Minor or Major Hero with Vast Mob of soldiers, possibly other Hero lieutenants or Skilled Mage support --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Monstrous Beast Lair: Titanic Beast, possibly with a Small Mob of weaker offspring or packmates, or possibly a Hulking Abomination instead. Might have numerous dangerous vermin-prey around. --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Night Road Beachhead: Large Mob of Timeworn Survivors led by an Eldritch, or else a Small Mob of Stalking Horrors led by a Hulking Abomination --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Noble's Household: Minor or Major Hero with a Skilled Mage advisor, a Small Mob of guards, and possibly one or more other Heroes in their pay --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Parasite God Cult: Parasite God with Lesser Eldritch high priest, Large Mob of civilian worshipers, and Small Mob of trained warrior-zealots --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Reclusive Archmage: Eldritch with one or more Skilled Mage apprentices, one or more Hulking Abomination or Titanic Beast guards or familiars --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Relict Population: Small Mob of Automaton Guardians or Large Mob of Timeworn Survivors. Probably an Eldritch or Major Hero leader for the relicts. --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Sorcerous Cabal: Several Lesser Eldritch or Skilled Mage cabal-mates with a Small Mob of servitors and possible Angelic Regent patron --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Swarm Hive: Vast Mob of lesser Misbegotten or Timeworn Survivors, possibly with Titanic Beast or Hulking Abomination “queen” or “alpha” --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Temple Hierarchy: Eldritch high priest with Skilled Mage underpriests and Large Mob of temple zealots --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Trapped Made God: Made God with Eldritch high priest, Large Mob of worshipers and theotechnicians trapped there with it --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Uncreated Cyst: Hulking Abomination with Large Mob of lesser Uncreated and several Stalking Horror minions. Possible Eldritch slave-sorcerer --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Uncreated Invader: Parasite God-equivalent Uncreated master with one or more Eldritch lieutenants and a Large or Vast Mob of lesser Uncreated. Don't forget the Uncreated's special abilities. --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Undead Ruler: Eldritch lich-lord or Dried Lord undead warlord with Vast Mob of servitors. Has several war-draugr or priest equivalent minions in its service --1 --
+!import-table --godbound-ruin-inhabitant_details-how_did_they_end_up_here --hide
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --A leader promised them something glorious here --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --Religious causes incited them to come here --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --The recently sought refuge here --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --Their ancestors seized the place as a sanctuary --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --They arrived from a far realm through a Night Road --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --They arrived here not long ago in search of riches --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --They conquered the original inhabitants and stayed --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --They were created or born here --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --They were driven here by pursuing enemies --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --They were sent here by their superiors --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --They were slaves or servants who broke free --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --They're heirs to the retinue of an ancient discoverer --1 --
+!import-table --godbound-ruin-inhabitant_details-their_overall_goal --hide
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Carry out an ancient inherited duty --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Control the ruin's reward for their ends --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Fortify it as a base for future conquest --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Hide from a more powerful enemy --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Hold it against an incoming enemy --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Just eke out an existence in semi-safety --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Loot the place down to the floorboards --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Purge all rivals from the ruin --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Revive the ruin's original purpose --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Seize the ruin for a master or employer --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Study the ruin for further arcane power --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Unearth a treasure hidden there --1 --
+!import-table --godbound-ruin-inhabitant_details-their_leadership_type --hide
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --A figurehead leader for a secret master --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --A leader and a few trusted lieutenants --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --A leader rules with advice from others --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --A single leader rules without dispute --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --Anarchic, with no visible leadership --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --Churning, leaders changing rapidly --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --Democratic with an executive figure --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --Groups, each having their own leader --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --Mission-oriented toward a shared duty --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --Obedient to a distant employer or ruler --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --Theocratic, under a religious chief --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --Two or more entities working together --1 --
+!import-table --godbound-ruin-inhabitant_details-defensive_measures --hide
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They activate an environmental hazard --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They have a magical ward in place --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They have a summoned guard entity --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They have an alliance with neighbors --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They have extensive sentinels posts --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They have rigidly-disciplined guards --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They have secret transit paths for troops --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They keep guard beasts in critical locales --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They've made excellent ambush zones --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They've physically walled up passages --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They've set alarms and noisemakers --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They've set traps in little-used areas --1 --
+!import-table --godbound-ruin-inhabitant_details-internal_problems --hide
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --A rebel lieutenant is causing turmoil --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --Food supplies or vital necessities run low --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --Morale is miserably low of late --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --One of them is a secret traitor --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --The leader is a very powerful fool --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --The leader is losing the faith of the rest --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --They can't agree on a threat response --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --They misunderstand a local danger --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --They're fighting over a thing they found --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --They're on a time-sensitive mission --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --They're suffering from a dire disease --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --They've splintered into hostile factions --1 --
+!import-table --godbound-ruin-inhabitant_details-recent_events --hide
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --Rivals stole something they need badly --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --Some have splintered into a rival group --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --The leadership changed drastically --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They broke a thing that's getting worse --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They got a new magical resource or ally --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They moved to a new part of the ruin --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They opened up a sealed ruin section --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They received some new recruits --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They restored the ruin's original purpose --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They unearthed a useful treasure --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They unleashed something unfortunate --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They were beaten by neighboring rivals --1 --
+!import-table --godbound-ruin-inhabitant_details-external_relationships --hide
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --A conviction of rightful rule of the ruin --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Assiduously isolationist toward others --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Avid recruiters of outsiders to the group --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Ferocious hostility toward all others --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Mercenaries for hire by other groups --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Nursing bitter grudges against outsiders --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Others are food or supplies on the hoof --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Paranoid fear of other groups --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Pragmatic and willing to negotiate --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Relentlessly treacherous double-dealers --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Ruthless aggression when it's feasible --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Wary but very reliable allies if enlisted --1 --
+!import-table --godbound-ruin-ruin_locations-basic_purpose_of_the_location --hide
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Archive, library, scriptorium, record-keeping for the site --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Assembly area, plaza, audience chamber, merchant shop --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Command area, site controls, leader's quarters --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Dining hall, hydroponic garden, food processing --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Function area for the site's original purpose --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Maintenance shop, janitorial area, reprocessing zone --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Manufactory area, industrial workplace, artisan's shop --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Passage between locations, storage area, or vault --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Recreation or artistic area, tavern, gallery, private bower --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Sleeping or residential quarters for the inhabitants --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Temple or chapel to a Made God or latter deity --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Training area, classroom, practice field, auditorium --1 --
+!import-table --godbound-ruin-ruin_locations-valuables_here --hide
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Bait, to distract from a greater prize --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Broken or scattered in fragments --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Hidden under or in furnishings here --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Left out in the open, untouched --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Locked away in a visible container --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Mixed with detritus or trash --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Part of the furnishings or equipment --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Placed with valueless similar objects --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Precariously placed, risking damage --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Repurposed for a mundane end here --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Ridiculously well-concealed --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Unobtrusive but not really hidden --1 --
+!import-table --godbound-ruin-ruin_locations-locations_general_mood --hide
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Bloody, the site of awful violence --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Brilliant with lights or high windows --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Cozy, with signs of recent occupation --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Crackling with energy, motion, or sound --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Crumbling, its contents falling apart --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Dark, lamps and windows darkened --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Defaced and spoilt by occupants --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Graveyard, full of old yellowed death --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Kept in unusually good condition --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Lonely, desolate and unvisited --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Patched, half-fixed by its occupants --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Reeking with decay and corruption --1 --
+!import-table --godbound-ruin-ruin_locations-ingress_or_egress_problems --hide
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is behind heavy rubble --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is concealed behind something --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is dark, and light draws peril --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is false, and leads to peril --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is heavily fortified by occupants --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is locked or barred --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is opened elsewhere in the ruin --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is prone to collapse at any time --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is trapped by the occupants --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way leads through lethal terrain --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way leads to an awkward vantage --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way requires climbing or flight --1 --
+!import-table --godbound-ruin-ruin_locations-physical_peril --hide
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --A closed door is trapped or load-bearing --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Alarming noise made if a thing's handled --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Crumbling floors, ceilings, or walls --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Dangerous flames or energy discharges --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Heavy object topples if touched at all --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Noxious or toxic pools, fungi, or flora --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Opening a container releases a bad thing --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Poisonous or explosive miasma here --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Site's original function gone berserk --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Slippery or treacherous footing --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Time-delayed danger triggered on entry --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Treasure is dangerous or a trap trigger --1 --
+!import-table --godbound-ruin-ruin_locations-occupant_peril --hide
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --A hidden sentinel watches the area --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --Their champion or leader lairs here --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --Their mates and offspring are here --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --There are a whole lot of them here --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --They have a superb tactical position here --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --They have allies posted here --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --They rush in as a swarm on an alarm --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --They've arranged a trap for intruders --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --They've set guard beasts to lair here --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --They've set up a fixed but deadly weapon --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --They've set up an ambush in the area --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --This is a sacred place to them --1 --
+!import-table --godbound-ruin-ruin_locations-magical_peril --hide
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Alarm when magic is sensed here --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Animated objects or automaton pieces --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Broken artifact explodes if handled --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Curse on those who handle something --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Effort-draining field or artifact --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Empyrean ward, as per Treasure chapter --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Environment like a hostile gift effect --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Low magic ward or trap in place --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Magical counterstrike on gift use --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Magical disease from an object --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Subtly curse target or their possessions --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Transform target or possessions --1 --
+!import-table --godbound-ruin-location_features-basic_form_of_the_feature --hide
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Art object, painting, sculpture, mosaic, or other decor --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Book, records, reports, shelf of documents, or recording --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Corpse, battle wreckage, site of some accident or trap --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Door, archway, portal, or other ingress or egress --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Fountain, pool, stream, or other liquid feature --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Icon, religious idol, relic of a Made God, or the like --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Machinery related to the location, magical or mundane --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Monument, grave, crypt, trophy, memorial inscription --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Part of the location's normal furniture or fittings --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Vehicle, transport sled, wagon, riding harness --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Window or viewscreen, monitoring station, scrying ball --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --One of the above, but broken and no longer useful --1 --
+!import-table --godbound-ruin-location_features-unusual_value_it_has --hide
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --Dwellers nearby love these things --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It bypasses the ruin's security somehow --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It harms dangerous local entities --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It has a strange but useful property --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It has magnificent workmanship --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It has splendid artistic novelty to it --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It produces some useful good or service --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It protects against a hazard of the place --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It restores some of the ruin's function --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It's a key to entering a part of the ruin --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It's impervious to most forms of harm --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It's made of a precious material --1 --
+!import-table --godbound-ruin-location_features-danger_related_to_it --hide
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --Enemies can track your location with it --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It activates nearby ruin security --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It attracts a particular beast or entity --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It benefits fail at the worst possible time --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It carries a disease or infectious curse --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It makes enemy attacks more effective --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It seems harmless but later turns deadly --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It's hard to get rid of once taken up --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It's prone to exploding or melting down --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It's radioactive or exudes evil magic --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --Locals consider it taboo to handle --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --Using or handling it drains the subject --1 --
+!import-table --godbound-ruin-location_features-useful_information_it_gives --hide
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --A map of the ruin, more or less precise --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --A weakness of a boss foe in the ruin --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Clues to the occupants' current goal --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Data on the ruin's reward --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Hints about current ruin occupants --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Historically important records or data --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Information on a secret location or door --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Information on a trap or dangerous area --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Information on the ruin's hazard --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Operation of the ruin's original function --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Passcodes for entering restricted areas --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --The use or perils of a different feature --1 --
+!import-table --godbound-ruin-location_features-functional_component --hide
+!import-table-item --godbound-ruin-location_features-functional_component --It allows communication to other places --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It controls the ruin's defenses --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It controls water, heat, or other utilities --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It does a thing related to the ruin's origin --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It gives views of a ruin location --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It holds up the location's walls --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It opens or closes a door or vault --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It provides light or heat --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It reveals something hidden in the ruin --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It summons occupants to the area --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It triggers a self-destruct sequence --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It's a conduit for the ruin's energy --1 --
+!import-table --godbound-ruin-location_features-visual_styles --hide
+!import-table-item --godbound-ruin-location_features-visual_styles --Bloodstained as if used as a weapon --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Emblazoned with creator's insignia --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Featureless, highly-polished surfaces --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Glowing circuit-like streaks of light --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Harsh geometrical angles --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Humming, chiming, or other sounds --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Intricate knotwork and twisted lines --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Naturalistic images or colors to it --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Pockmarked and decaying texture --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Rusted or verdigrised surface --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Smooth, flowing curves and lines --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Unusually hot or cold surface --1 --
+!import-table --godbound-ruin-location_features-large_features_in_combat --hide
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --Enemies hide in or behind it when alert --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --If broken, it causes a disaster elsewhere --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --If hit, a timer starts to an explosion --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --If hit, it will explode or release toxins --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --It amplifies the inhabitants' abilities --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --It changes shape or contours if active --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --It moves during combat and can crush --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --It projects energy when active --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --It's an extremely sturdy piece of cover --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --Locals can make it spew toxic substances --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --Locals know how to use it for a weapon --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --When active, it's a terrain hazard --1 --
+!import-table --godbound-ruin-night_road-night_road_wayhouses --hide
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Bridgehouse, to raise and lower a barrier or drawbridge --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Citadel, preventing enemies from passing --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Crossroad, where two or more Roads connect --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Garden, full of sustenance and ease --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Monument, to a realm's glory and might --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Prison, holding something between worlds --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Refuge, established by exiles or escapees --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Ruin, its original purpose spoiled and broken --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Seal, to contain an incursion of Uncreated Night --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Tomb, to hold a corpse forever along the Road --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Villa, gracefully overlooking Uncreated Night --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --One thing that became another, which it is now --1 --
+!import-table --godbound-ruin-night_road-night_road_seals --hide
+!import-table-item --godbound-ruin-night_road-night_road_seals --Arcane. A sorcerer can open it with simple rituals. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Engine. A large device must be powered to open it. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Incantation. A special phrase or password opens it. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Key. A particular magical artifact can open it. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Lineage. Only a certain bloodline can open it. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Open. It has no seal at all. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Physical. Material doors or barriers are before it. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Price. Some curse or loss is suffered to open it. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Ritual. Some hideous reality-defying rite is needed. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Sacrifice. It takes blood or treasure to open it. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Temporal. It only opens at certain times. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Wards. Magical wards must be dropped to use it. --1 --
+!import-table --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --hide
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --City, strange streets and white jade stones --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Dungeon, beauty made evil by angels --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Forest of primal wildness --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Forge, impossibly vast and clanging --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Garden with tremendous beasts --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Library, with secrets of long-dead realms --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Machine, vast, its rooms in broken places --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Monuments to angels and strange things --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Palace, endless, pale and mazey --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Sea, golden with diluted suns --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Ship, becalmed in sea or sky forever --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Tower, without base or top --1 --
+!import-table --godbound-ruin-shards_of_heaven-its_magnificence --hide
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Artistry, everything masterfully made --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Creation, things made constantly --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Intricacy, everything impossibly baroque --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Knowledge, script and secrets all over --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Light, impossibly clear and illuminating --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Motion, a wild dance of swift movement --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Passion, wild feelings welling up easily --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Peace, contentment surrounding all --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Silence, all sound swallowed away --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Size, everything built for giants --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Song, celestial music suffusing all --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Value, gold and jewels for brick and clay --1 --
+!import-table --godbound-ruin-shards_of_heaven-its_decay --hide
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Broken, damaged by great forces --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Dark, light clouded and gloomy --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Death, full of corpses and the slain --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Defiled, mortal wreckage left behind --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Diseased, a pox or poison within --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Feral, gone savage and murderous --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Intermittence, the glory skipping time --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Leaking, letting in the Uncreated --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Rot, fragments decaying and purulent --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Treacherous, harming the careless --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Warped, images turned dark and vile --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Withered, life gone dry and brittle --1 --
+!import-table --godbound-ruin-shards_of_heaven-its_latest_occupants --hide
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --A hunting pack of bitter angels --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --A dead Made God's trapped clergy and theotechnicians --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --A mighty theurge and their retinue --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --A parasite god and their clergy who found a way here --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --Artificial life created by the theurges or Made God clergy --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --Automatons meant for celestial defense, now self-willed --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --Native beasts or creatures of Heaven, left alone here --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --Refugees from a dead realm who came here by Night Road --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --Scavenging mortal heroes of a distant realm --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --Undead revenants of a human party trapped here long ago --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --Wretched misfortunates who wandered in by Night Road --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --Two or more parties, allied or bitter enemies --1 --
+!import-table --godbound-ruin-shards_of_heaven-what_they_wanted_here --hide
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They lost something here that they must recover before leaving --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They think an arcane secret they want is hidden here --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're exiles, seeking a refuge and revenge --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're explorers, seeking out new roads through the heavens --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're hiding from something worse than they are --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're hunting an enemy of theirs who fled here --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're looking for treasures of any useful kind to bring back --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're on a pilgrimage or religious journey of some sort --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're seeking shards from the celestial engines --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're servitors of a greater power sent to retrieve a thing --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're trapped, and trying desperately to escape --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're trying to make the place into a sanctuary for their own --1 --

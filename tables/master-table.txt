@@ -1,0 +1,1403 @@
+!import-table --godbound-court-organization_power_structure --hide
+!import-table-item --godbound-court-organization_power_structure --Autocratic. One person has largely unchallenged control over the court. --1 --
+!import-table-item --godbound-court-organization_power_structure --Figurehead. A public leader is actually controlled by one or more hidden figures. --1 --
+!import-table-item --godbound-court-organization_power_structure --Shared. Two or more figures share ultimate decision-making authority, either officially or de facto. --1 --
+!import-table-item --godbound-court-organization_power_structure --Consensus. The court makes decisions by consensus, with everyone needing to mostly-agree. --1 --
+!import-table-item --godbound-court-organization_power_structure --Democratic. The court makes decisions by majority rule, either directly or through a leader who requires it. --1 --
+!import-table-item --godbound-court-organization_power_structure --Anarchic. Authority is fragmented or currently unsettled, and no one is sure of their power. --1 --
+!import-table --godbound-court-aristocratic-court_mood --hide
+!import-table-item --godbound-court-aristocratic-court_mood --Beauty-loving, with exquisite art and architecture --1 --
+!import-table-item --godbound-court-aristocratic-court_mood --Bluff and familiar, with easy access to nobility --1 --
+!import-table-item --godbound-court-aristocratic-court_mood --Bracing for an expected clash or change of rulers --1 --
+!import-table-item --godbound-court-aristocratic-court_mood --Confused, with a welter of plots and counterplots --1 --
+!import-table-item --godbound-court-aristocratic-court_mood --Corrupt, where everything takes cash or favors to do --1 --
+!import-table-item --godbound-court-aristocratic-court_mood --Decadent, obsessed with exotic pleasures --1 --
+!import-table-item --godbound-court-aristocratic-court_mood --Decaying, hidebound by rules no longer understood --1 --
+!import-table-item --godbound-court-aristocratic-court_mood --Delusional, convinced of a false situation in the world --1 --
+!import-table-item --godbound-court-aristocratic-court_mood --Paranoid, with everyone suspected of treachery --1 --
+!import-table-item --godbound-court-aristocratic-court_mood --Rigidly formal with elaborately protocols enforced --1 --
+!import-table-item --godbound-court-aristocratic-court_mood --Vibrant with activity and bold ambition --1 --
+!import-table-item --godbound-court-aristocratic-court_mood --Xenophilic, eager for foreign fashions and visitors --1 --
+!import-table --godbound-court-aristocratic-major_actor --hide
+!import-table-item --godbound-court-aristocratic-major_actor --Vast mobs of devoted servants --1 --
+!import-table-item --godbound-court-aristocratic-major_actor --Cunning vizier --1 --
+!import-table-item --godbound-court-aristocratic-major_actor --Discarded former favorite --1 --
+!import-table-item --godbound-court-aristocratic-major_actor --Foreign ambassador --1 --
+!import-table-item --godbound-court-aristocratic-major_actor --Heir to rule --1 --
+!import-table-item --godbound-court-aristocratic-major_actor --Honored general --1 --
+!import-table-item --godbound-court-aristocratic-major_actor --Noble clergyman --1 --
+!import-table-item --godbound-court-aristocratic-major_actor --Noble family matriarch --1 --
+!import-table-item --godbound-court-aristocratic-major_actor --Ruler's favorite courtier --1 --
+!import-table-item --godbound-court-aristocratic-major_actor --Ruler's spouse or lover --1 --
+!import-table-item --godbound-court-aristocratic-major_actor --Titular ruler --1 --
+!import-table-item --godbound-court-aristocratic-major_actor --Treasury keeper --1 --
+!import-table --godbound-court-aristocratic-minor_actor --hide
+!import-table-item --godbound-court-aristocratic-minor_actor --Amoral sycophant --1 --
+!import-table-item --godbound-court-aristocratic-minor_actor --Commoner petitioner --1 --
+!import-table-item --godbound-court-aristocratic-minor_actor --Court musician --1 --
+!import-table-item --godbound-court-aristocratic-minor_actor --Disguised spy --1 --
+!import-table-item --godbound-court-aristocratic-minor_actor --Disposable plaything --1 --
+!import-table-item --godbound-court-aristocratic-minor_actor --Foreign artist --1 --
+!import-table-item --godbound-court-aristocratic-minor_actor --Gossiping servant --1 --
+!import-table-item --godbound-court-aristocratic-minor_actor --Grizzled guardsman --1 --
+!import-table-item --godbound-court-aristocratic-minor_actor --Hired assassin --1 --
+!import-table-item --godbound-court-aristocratic-minor_actor --Ruler's personal body-servant --1 --
+!import-table-item --godbound-court-aristocratic-minor_actor --Scheming clerk --1 --
+!import-table-item --godbound-court-aristocratic-minor_actor --Veteran huntsman --1 --
+!import-table --godbound-court-aristocratic-power_sources --hide
+!import-table-item --godbound-court-aristocratic-power_sources --Has access to the state treasury --1 --
+!import-table-item --godbound-court-aristocratic-power_sources --Has assassins and criminals at their beck and call --1 --
+!import-table-item --godbound-court-aristocratic-power_sources --Has ties with powers in a neighboring state --1 --
+!import-table-item --godbound-court-aristocratic-power_sources --Has vigorous backing from a local religion --1 --
+!import-table-item --godbound-court-aristocratic-power_sources --Impeccable bloodline or legitimacy --1 --
+!import-table-item --godbound-court-aristocratic-power_sources --Important figure is utterly smitten with them --1 --
+!import-table-item --godbound-court-aristocratic-power_sources --Much loved by the common people --1 --
+!import-table-item --godbound-court-aristocratic-power_sources --Numerous family ties with other nobles --1 --
+!import-table-item --godbound-court-aristocratic-power_sources --Owns vast amount of personal wealth --1 --
+!import-table-item --godbound-court-aristocratic-power_sources --Possesses strong magic or exotic resources --1 --
+!import-table-item --godbound-court-aristocratic-power_sources --Spying and blackmail have armed them well --1 --
+!import-table-item --godbound-court-aristocratic-power_sources --Very influential with the military --1 --
+!import-table --godbound-court-aristocratic-conflicts --hide
+!import-table-item --godbound-court-aristocratic-conflicts --A favorite is being too indulged --1 --
+!import-table-item --godbound-court-aristocratic-conflicts --A favorite is being too indulged --1 --
+!import-table-item --godbound-court-aristocratic-conflicts --A loan may or may not be repaid --1 --
+!import-table-item --godbound-court-aristocratic-conflicts --A marriage is being forcibly pressured --1 --
+!import-table-item --godbound-court-aristocratic-conflicts --A noble title is fought over --1 --
+!import-table-item --godbound-court-aristocratic-conflicts --Dispute over the heir --1 --
+!import-table-item --godbound-court-aristocratic-conflicts --Grudge over an old treachery --1 --
+!import-table-item --godbound-court-aristocratic-conflicts --Land ownership is in question --1 --
+!import-table-item --godbound-court-aristocratic-conflicts --Ownership of vital regalia is disputed --1 --
+!import-table-item --godbound-court-aristocratic-conflicts --Someone resents a lack of reward --1 --
+!import-table-item --godbound-court-aristocratic-conflicts --Someone resents a lack of reward --1 --
+!import-table-item --godbound-court-aristocratic-conflicts --Someone's using dark sorcery --1 --
+!import-table --godbound-court-aristocratic-consequences_of_its_destruction --hide
+!import-table-item --godbound-court-aristocratic-consequences_of_its_destruction --A civil struggle or civil war would break out --1 --
+!import-table-item --godbound-court-aristocratic-consequences_of_its_destruction --A much worse set of replacements are waiting --1 --
+!import-table-item --godbound-court-aristocratic-consequences_of_its_destruction --A much worse set of replacements are waiting --1 --
+!import-table-item --godbound-court-aristocratic-consequences_of_its_destruction --A vital project would collapse disastrously --1 --
+!import-table-item --godbound-court-aristocratic-consequences_of_its_destruction --Actually, nothing particularly bad would happen --1 --
+!import-table-item --godbound-court-aristocratic-consequences_of_its_destruction --Hostile outsiders would seize the opportunity --1 --
+!import-table-item --godbound-court-aristocratic-consequences_of_its_destruction --Many locals would be furious at the disruption --1 --
+!import-table-item --godbound-court-aristocratic-consequences_of_its_destruction --No one else with any pretense of legitimacy --1 --
+!import-table-item --godbound-court-aristocratic-consequences_of_its_destruction --Only they know how to work the government --1 --
+!import-table-item --godbound-court-aristocratic-consequences_of_its_destruction --Only they know how to work the government --1 --
+!import-table-item --godbound-court-aristocratic-consequences_of_its_destruction --They represent the major elements of society --1 --
+!import-table-item --godbound-court-aristocratic-consequences_of_its_destruction --They're holding back a dire threat to the society --1 --
+!import-table --godbound-court-aristocratic-court_defenses --hide
+!import-table-item --godbound-court-aristocratic-court_defenses --A magical defensive construct --1 --
+!import-table-item --godbound-court-aristocratic-court_defenses --A crew of bodyguard-magi --1 --
+!import-table-item --godbound-court-aristocratic-court_defenses --A very capable sorcerer --1 --
+!import-table-item --godbound-court-aristocratic-court_defenses --A very capable sorcerer --1 --
+!import-table-item --godbound-court-aristocratic-court_defenses --A very capable sorcerer --1 --
+!import-table-item --godbound-court-aristocratic-court_defenses --Extreme seclusion of the nobility --1 --
+!import-table-item --godbound-court-aristocratic-court_defenses --Lingering magical blessing --1 --
+!import-table-item --godbound-court-aristocratic-court_defenses --Magical guardian beast or beasts --1 --
+!import-table-item --godbound-court-aristocratic-court_defenses --Powerful empyrean wards --1 --
+!import-table-item --godbound-court-aristocratic-court_defenses --Powerful personal defensive magic --1 --
+!import-table-item --godbound-court-aristocratic-court_defenses --Swarms of trained guardsmen --1 --
+!import-table-item --godbound-court-aristocratic-court_defenses --Vast mobs of devoted servants --1 --
+!import-table --godbound-court-bureaucratic-how_is_the_bureaucracy_regarded --hide
+!import-table-item --godbound-court-bureaucratic-how_is_the_bureaucracy_regarded --Admired, for its probity and efficiency at its work. --1 --
+!import-table-item --godbound-court-bureaucratic-how_is_the_bureaucracy_regarded --Aristocratic, as a refuge for excess noble offspring. --1 --
+!import-table-item --godbound-court-bureaucratic-how_is_the_bureaucracy_regarded --Autocratic, the real power behind a puppet ruler. --1 --
+!import-table-item --godbound-court-bureaucratic-how_is_the_bureaucracy_regarded --Contemptuously, as a pack of incompetent obstacles. --1 --
+!import-table-item --godbound-court-bureaucratic-how_is_the_bureaucracy_regarded --Corrupt, willing to do anything for a little silver. --1 --
+!import-table-item --godbound-court-bureaucratic-how_is_the_bureaucracy_regarded --Dangerous, where political losers tend to die young. --1 --
+!import-table-item --godbound-court-bureaucratic-how_is_the_bureaucracy_regarded --Hidebound, in opposition to all new things of any kind. --1 --
+!import-table-item --godbound-court-bureaucratic-how_is_the_bureaucracy_regarded --Irrelevant, with the real administration lying elsewhere. --1 --
+!import-table-item --godbound-court-bureaucratic-how_is_the_bureaucracy_regarded --Novel, being new to the area or full of new methods. --1 --
+!import-table-item --godbound-court-bureaucratic-how_is_the_bureaucracy_regarded --Pious, largely an outgrowth of the local majority faith. --1 --
+!import-table-item --godbound-court-bureaucratic-how_is_the_bureaucracy_regarded --Reverenced, as cultured elite due honor and respect. --1 --
+!import-table-item --godbound-court-bureaucratic-how_is_the_bureaucracy_regarded --Self-interested, only concerned with its own power. --1 --
+!import-table --godbound-court-bureaucratic-major_actor --hide
+!import-table-item --godbound-court-bureaucratic-major_actor --“Retired” kingmaker --1 --
+!import-table-item --godbound-court-bureaucratic-major_actor --Chief justice --1 --
+!import-table-item --godbound-court-bureaucratic-major_actor --Chief spymaster --1 --
+!import-table-item --godbound-court-bureaucratic-major_actor --Head of tax collection --1 --
+!import-table-item --godbound-court-bureaucratic-major_actor --Head of the police --1 --
+!import-table-item --godbound-court-bureaucratic-major_actor --Minister of Agriculture --1 --
+!import-table-item --godbound-court-bureaucratic-major_actor --Minister of Foreign Affairs --1 --
+!import-table-item --godbound-court-bureaucratic-major_actor --Minister of Internal Affairs --1 --
+!import-table-item --godbound-court-bureaucratic-major_actor --Minister of Temples --1 --
+!import-table-item --godbound-court-bureaucratic-major_actor --Minister of Trade --1 --
+!import-table-item --godbound-court-bureaucratic-major_actor --Minister of War --1 --
+!import-table-item --godbound-court-bureaucratic-major_actor --Secretary of a great minister --1 --
+!import-table --godbound-court-bureaucratic-minor_actor --hide
+!import-table-item --godbound-court-bureaucratic-minor_actor --Ambitious young clerk --1 --
+!import-table-item --godbound-court-bureaucratic-minor_actor --An official’s favorite lover --1 --
+!import-table-item --godbound-court-bureaucratic-minor_actor --Clerk who spies for a rival official --1 --
+!import-table-item --godbound-court-bureaucratic-minor_actor --Crony capitalist business owner --1 --
+!import-table-item --godbound-court-bureaucratic-minor_actor --Cynical clerk seducing their way up --1 --
+!import-table-item --godbound-court-bureaucratic-minor_actor --Desperately confused petitioner --1 --
+!import-table-item --godbound-court-bureaucratic-minor_actor --Distracted record archivist --1 --
+!import-table-item --godbound-court-bureaucratic-minor_actor --Hapless tax debtor doing “favors” --1 --
+!import-table-item --godbound-court-bureaucratic-minor_actor --Litigant seeking to bribe someone --1 --
+!import-table-item --godbound-court-bureaucratic-minor_actor --Official demoted for his sins --1 --
+!import-table-item --godbound-court-bureaucratic-minor_actor --Smuggler dodging tariffs --1 --
+!import-table-item --godbound-court-bureaucratic-minor_actor --Wizened old clerk who knows all --1 --
+!import-table --godbound-court-bureaucratic-power_sources --hide
+!import-table-item --godbound-court-bureaucratic-power_sources --Numerous important locals owe them big favors --1 --
+!import-table-item --godbound-court-bureaucratic-power_sources --Only they actually know how to operate the bureau --1 --
+!import-table-item --godbound-court-bureaucratic-power_sources --Their peers in the bureau all admire and like them --1 --
+!import-table-item --godbound-court-bureaucratic-power_sources --Their police ties give them legal carte blanche for much --1 --
+!import-table-item --godbound-court-bureaucratic-power_sources --They have access to relevant state secrets --1 --
+!import-table-item --godbound-court-bureaucratic-power_sources --They have blackmail material on their superiors --1 --
+!import-table-item --godbound-court-bureaucratic-power_sources --They have limited but very useful legislative power --1 --
+!import-table-item --godbound-court-bureaucratic-power_sources --They have powerful business ties they can exploit --1 --
+!import-table-item --godbound-court-bureaucratic-power_sources --They have the means and allies to assassinate people --1 --
+!import-table-item --godbound-court-bureaucratic-power_sources --They have ties to powerful local criminal groups --1 --
+!import-table-item --godbound-court-bureaucratic-power_sources --They’re deeply loved by the local ruler for their skills --1 --
+!import-table-item --godbound-court-bureaucratic-power_sources --They’re very personally wealthy or from a rich family --1 --
+!import-table --godbound-court-bureaucratic-conflicts --hide
+!import-table-item --godbound-court-bureaucratic-conflicts --A noble’s trying to muscle the bureau --1 --
+!import-table-item --godbound-court-bureaucratic-conflicts --A reformer wants to kick someone out --1 --
+!import-table-item --godbound-court-bureaucratic-conflicts --A usurper seeks someone’s position --1 --
+!import-table-item --godbound-court-bureaucratic-conflicts --Somebody’s embezzling state funds --1 --
+!import-table-item --godbound-court-bureaucratic-conflicts --Someone’s a spy for another bureau --1 --
+!import-table-item --godbound-court-bureaucratic-conflicts --Someone’s an agent of a foreign state --1 --
+!import-table-item --godbound-court-bureaucratic-conflicts --The bureau is too rich for its own good --1 --
+!import-table-item --godbound-court-bureaucratic-conflicts --The bureau’s critically underfunded --1 --
+!import-table-item --godbound-court-bureaucratic-conflicts --The bureau’s job just got terribly hard --1 --
+!import-table-item --godbound-court-bureaucratic-conflicts --The bureau’s missing taxes or fees due --1 --
+!import-table-item --godbound-court-bureaucratic-conflicts --The bureau’s riddled with corruption --1 --
+!import-table-item --godbound-court-bureaucratic-conflicts --The ruler is upset with the bureau --1 --
+!import-table --godbound-court-bureaucratic-consequences_of_its_destruction --hide
+!import-table-item --godbound-court-bureaucratic-consequences_of_its_destruction --A critical project would fail with much suffering --1 --
+!import-table-item --godbound-court-bureaucratic-consequences_of_its_destruction --A now-unfettered rival would seize much power --1 --
+!import-table-item --godbound-court-bureaucratic-consequences_of_its_destruction --A rival bureaucracy would gain their portfolio --1 --
+!import-table-item --godbound-court-bureaucratic-consequences_of_its_destruction --A vital government function would cease --1 --
+!import-table-item --godbound-court-bureaucratic-consequences_of_its_destruction --An enemy nation would take advantage of it --1 --
+!import-table-item --godbound-court-bureaucratic-consequences_of_its_destruction --An incompetent noble would take over, badly --1 --
+!import-table-item --godbound-court-bureaucratic-consequences_of_its_destruction --Complete administrative paralysis of the nation --1 --
+!import-table-item --godbound-court-bureaucratic-consequences_of_its_destruction --Criminal powers would fill the vacuum --1 --
+!import-table-item --godbound-court-bureaucratic-consequences_of_its_destruction --Government secrets would scatter with clerks --1 --
+!import-table-item --godbound-court-bureaucratic-consequences_of_its_destruction --It would enrage the ruler or other bureaucrats --1 --
+!import-table-item --godbound-court-bureaucratic-consequences_of_its_destruction --Oppressed peasants would chance a revolt --1 --
+!import-table-item --godbound-court-bureaucratic-consequences_of_its_destruction --Unrelated services would worsen as focus shifts --1 --
+!import-table --godbound-court-bureaucratic-court_defenses --hide
+!import-table-item --godbound-court-bureaucratic-court_defenses --A mighty wizard in their debt --1 --
+!import-table-item --godbound-court-bureaucratic-court_defenses --Confiscated magical artifacts --1 --
+!import-table-item --godbound-court-bureaucratic-court_defenses --Contingent of well-trained police --1 --
+!import-table-item --godbound-court-bureaucratic-court_defenses --Deal with a supernatural protector --1 --
+!import-table-item --godbound-court-bureaucratic-court_defenses --Decentralized offices of import --1 --
+!import-table-item --godbound-court-bureaucratic-court_defenses --Detachments of regular soldiers --1 --
+!import-table-item --godbound-court-bureaucratic-court_defenses --Guardian sorcerers for the office --1 --
+!import-table-item --godbound-court-bureaucratic-court_defenses --Heavily-armed tax enforcers --1 --
+!import-table-item --godbound-court-bureaucratic-court_defenses --Not all clerks are human --1 --
+!import-table-item --godbound-court-bureaucratic-court_defenses --Operatives from the espionage arm --1 --
+!import-table-item --godbound-court-bureaucratic-court_defenses --Sheer numbers of clerks --1 --
+!import-table-item --godbound-court-bureaucratic-court_defenses --Venerable fixed wards --1 --
+!import-table --godbound-court-business-how_is_the_business_currently_doing --hide
+!import-table-item --godbound-court-business-how_is_the_business_currently_doing --They’re teetering on the edge of bankruptcy. --1 --
+!import-table-item --godbound-court-business-how_is_the_business_currently_doing --It’s been a long, dry season of barely hanging on. --1 --
+!import-table-item --godbound-court-business-how_is_the_business_currently_doing --It’s a recent golden age of sudden, dramatic expansion. --1 --
+!import-table-item --godbound-court-business-how_is_the_business_currently_doing --It’s chasing itself in circles, without coherent direction. --1 --
+!import-table-item --godbound-court-business-how_is_the_business_currently_doing --It’s being threatened by a rival enterprise. --1 --
+!import-table-item --godbound-court-business-how_is_the_business_currently_doing --It’s made an enemy of the local officials somehow. --1 --
+!import-table-item --godbound-court-business-how_is_the_business_currently_doing --A great opportunity is present, albeit hard to exploit. --1 --
+!import-table-item --godbound-court-business-how_is_the_business_currently_doing --It’s fat and happy, going on as it always has before. --1 --
+!import-table-item --godbound-court-business-how_is_the_business_currently_doing --The local ruler has an interest in its thriving. --1 --
+!import-table-item --godbound-court-business-how_is_the_business_currently_doing --It’s secretly cutting corners in its products or services. --1 --
+!import-table-item --godbound-court-business-how_is_the_business_currently_doing --It’s getting by on past glories, now a dwindled remnant. --1 --
+!import-table-item --godbound-court-business-how_is_the_business_currently_doing --It’s trying to branch out into a new field or location. --1 --
+!import-table --godbound-court-business-major_actor --hide
+!import-table-item --godbound-court-business-major_actor --Biggest business rival --1 --
+!import-table-item --godbound-court-business-major_actor --Biggest customer --1 --
+!import-table-item --godbound-court-business-major_actor --Brash entrepreneur --1 --
+!import-table-item --godbound-court-business-major_actor --Brilliant innovator --1 --
+!import-table-item --godbound-court-business-major_actor --Careless owner’s child --1 --
+!import-table-item --godbound-court-business-major_actor --Chief accountant --1 --
+!import-table-item --godbound-court-business-major_actor --Critically-skilled employee --1 --
+!import-table-item --godbound-court-business-major_actor --Hard-bitten founder --1 --
+!import-table-item --godbound-court-business-major_actor --Heir-apparent to business --1 --
+!import-table-item --godbound-court-business-major_actor --Main supplier of goods --1 --
+!import-table-item --godbound-court-business-major_actor --Major investor --1 --
+!import-table-item --godbound-court-business-major_actor --Popular crew foreman --1 --
+!import-table --godbound-court-business-minor_actor --hide
+!import-table-item --godbound-court-business-minor_actor --“Protection” outfit heavy --1 --
+!import-table-item --godbound-court-business-minor_actor --Aspiring vendor to the business --1 --
+!import-table-item --godbound-court-business-minor_actor --Bribeable local inspector --1 --
+!import-table-item --godbound-court-business-minor_actor --Devoted long-time staffer --1 --
+!import-table-item --godbound-court-business-minor_actor --Embittered ex-employee --1 --
+!import-table-item --godbound-court-business-minor_actor --Gold-digging lover of the owner --1 --
+!import-table-item --godbound-court-business-minor_actor --Infuriated customer --1 --
+!import-table-item --godbound-court-business-minor_actor --Oldest employee of the business --1 --
+!import-table-item --godbound-court-business-minor_actor --Petty thief of stock --1 --
+!import-table-item --godbound-court-business-minor_actor --Shady black market contact --1 --
+!import-table-item --godbound-court-business-minor_actor --Spy for a rival business --1 --
+!import-table-item --godbound-court-business-minor_actor --Wildly impractical dreamer --1 --
+!import-table --godbound-court-business-power_sources --hide
+!import-table-item --godbound-court-business-power_sources --The business owes them a great deal of money. --1 --
+!import-table-item --godbound-court-business-power_sources --The employees love them and listen to them unfailingly. --1 --
+!import-table-item --godbound-court-business-power_sources --The others are physically afraid of their displeasure. --1 --
+!import-table-item --godbound-court-business-power_sources --The vendors only trust them to negotiate supply buys. --1 --
+!import-table-item --godbound-court-business-power_sources --They can legally wreck the business if too displeased. --1 --
+!import-table-item --godbound-court-business-power_sources --They have magic or technology critical to the business. --1 --
+!import-table-item --godbound-court-business-power_sources --They hold a secret critical to carrying out the business. --1 --
+!import-table-item --godbound-court-business-power_sources --They know the details of a secret crime of the business. --1 --
+!import-table-item --godbound-court-business-power_sources --They legally hold a large amount of the business’ money. --1 --
+!import-table-item --godbound-court-business-power_sources --They own the deed to a major business facility. --1 --
+!import-table-item --godbound-court-business-power_sources --They’re holding back the local extortionists and thieves. --1 --
+!import-table-item --godbound-court-business-power_sources --They’re particularly friendly with the local ruler. --1 --
+!import-table --godbound-court-business-conflicts --hide
+!import-table-item --godbound-court-business-conflicts --A competitor’s trying to buy them out. --1 --
+!import-table-item --godbound-court-business-conflicts --A traitor’s working for a competitor. --1 --
+!import-table-item --godbound-court-business-conflicts --It’s struggling under a heavy debt. --1 --
+!import-table-item --godbound-court-business-conflicts --Major actors are divided on strategy. --1 --
+!import-table-item --godbound-court-business-conflicts --Recent effort has gone drastically bad. --1 --
+!import-table-item --godbound-court-business-conflicts --The employees are in an uproar. --1 --
+!import-table-item --godbound-court-business-conflicts --The locals blame it for something dire. --1 --
+!import-table-item --godbound-court-business-conflicts --The owner is incapacitated indefinitely. --1 --
+!import-table-item --godbound-court-business-conflicts --The ruler “asked” for a very costly favor. --1 --
+!import-table-item --godbound-court-business-conflicts --Their survival hinges on ongoing crime. --1 --
+!import-table-item --godbound-court-business-conflicts --They’re covering up a major crime. --1 --
+!import-table-item --godbound-court-business-conflicts --They’ve lost a vital secret or tool. --1 --
+!import-table --godbound-court-business-consequences_of_its_destruction --hide
+!import-table-item --godbound-court-business-consequences_of_its_destruction --A fragile, valuable economic link breaks up. --1 --
+!import-table-item --godbound-court-business-consequences_of_its_destruction --Debt chain reaction takes out a major firm. --1 --
+!import-table-item --godbound-court-business-consequences_of_its_destruction --It would enrage their major customers. --1 --
+!import-table-item --godbound-court-business-consequences_of_its_destruction --It would infuriate influential business partners. --1 --
+!import-table-item --godbound-court-business-consequences_of_its_destruction --Only they can provide a critical local service. --1 --
+!import-table-item --godbound-court-business-consequences_of_its_destruction --The local ruler relies on it for exerting control. --1 --
+!import-table-item --godbound-court-business-consequences_of_its_destruction --Their competitors are much more rapacious. --1 --
+!import-table-item --godbound-court-business-consequences_of_its_destruction --They provide critical employment to locals. --1 --
+!import-table-item --godbound-court-business-consequences_of_its_destruction --They’re holding a community creditor at bay. --1 --
+!import-table-item --godbound-court-business-consequences_of_its_destruction --They’re keeping out ruffians and exploiters. --1 --
+!import-table-item --godbound-court-business-consequences_of_its_destruction --They’re paying off outside threats or grafters. --1 --
+!import-table-item --godbound-court-business-consequences_of_its_destruction --They’re the only supplier of a vital local necessity. --1 --
+!import-table --godbound-court-business-court_defenses --hide
+!import-table-item --godbound-court-business-court_defenses --“Protection” outfit legbreakers --1 --
+!import-table-item --godbound-court-business-court_defenses --A crew of burly, loyal employees --1 --
+!import-table-item --godbound-court-business-court_defenses --Decentralized business control --1 --
+!import-table-item --godbound-court-business-court_defenses --Expensive lawyers --1 --
+!import-table-item --godbound-court-business-court_defenses --Heavily fortified businessplace --1 --
+!import-table-item --godbound-court-business-court_defenses --Hired local wizard --1 --
+!import-table-item --godbound-court-business-court_defenses --Hired mercenaries --1 --
+!import-table-item --godbound-court-business-court_defenses --Inherited magical defenses --1 --
+!import-table-item --godbound-court-business-court_defenses --Personally fearsome owner --1 --
+!import-table-item --godbound-court-business-court_defenses --Protective local citizens --1 --
+!import-table-item --godbound-court-business-court_defenses --Purchased magical defenses --1 --
+!import-table-item --godbound-court-business-court_defenses --Special police protection --1 --
+!import-table --godbound-court-community-community_temperament --hide
+!import-table-item --godbound-court-community-community_temperament --Amoral, indifferent to harm to outsiders or strangers --1 --
+!import-table-item --godbound-court-community-community_temperament --Corrupt, dealing with bandits and the sinister --1 --
+!import-table-item --godbound-court-community-community_temperament --Dislocated, recently forced to move or give up land --1 --
+!import-table-item --godbound-court-community-community_temperament --Divided, two factions furious with each other --1 --
+!import-table-item --godbound-court-community-community_temperament --Flush, enjoying new wealth from some new source --1 --
+!import-table-item --godbound-court-community-community_temperament --Insular, polite but reluctant to deal with strangers --1 --
+!import-table-item --godbound-court-community-community_temperament --Martial, expecting violence from the world --1 --
+!import-table-item --godbound-court-community-community_temperament --Oppressed, afflicted by some outside power --1 --
+!import-table-item --godbound-court-community-community_temperament --Pious, with life revolving around the community faith --1 --
+!import-table-item --godbound-court-community-community_temperament --Placid, the locals largely content with their lot --1 --
+!import-table-item --godbound-court-community-community_temperament --Rigid, clinging to tradition in the face of some peril --1 --
+!import-table-item --godbound-court-community-community_temperament --Xenophobic, mistrusting outsiders as dangerous --1 --
+!import-table --godbound-court-community-major_actor --hide
+!import-table-item --godbound-court-community-major_actor --Best hunter or farmer --1 --
+!import-table-item --godbound-court-community-major_actor --Biggest gossip --1 --
+!import-table-item --godbound-court-community-major_actor --Chief troublemaker --1 --
+!import-table-item --godbound-court-community-major_actor --Hedge magician --1 --
+!import-table-item --godbound-court-community-major_actor --Keeper of local relics --1 --
+!import-table-item --godbound-court-community-major_actor --Mayor or chieftain --1 --
+!import-table-item --godbound-court-community-major_actor --Most eligible unwed youth --1 --
+!import-table-item --godbound-court-community-major_actor --Official from outside world --1 --
+!import-table-item --godbound-court-community-major_actor --Rich trader or merchant --1 --
+!import-table-item --godbound-court-community-major_actor --Rival village or tribe chief --1 --
+!import-table-item --godbound-court-community-major_actor --Shaman or village priest --1 --
+!import-table-item --godbound-court-community-major_actor --Wealthy outsider --1 --
+!import-table --godbound-court-community-minor_actor --hide
+!import-table-item --godbound-court-community-minor_actor --Adulterous spouse of major actor --1 --
+!import-table-item --godbound-court-community-minor_actor --Bad-luck farmer or hunter --1 --
+!import-table-item --godbound-court-community-minor_actor --Bandit seeking refuge or loot --1 --
+!import-table-item --godbound-court-community-minor_actor --Barfly who hears all --1 --
+!import-table-item --godbound-court-community-minor_actor --Local innkeeper or guest-keeper --1 --
+!import-table-item --godbound-court-community-minor_actor --Local miller or tanner --1 --
+!import-table-item --godbound-court-community-minor_actor --Naive farm lad or lass --1 --
+!import-table-item --godbound-court-community-minor_actor --Native prodigy at some local skill --1 --
+!import-table-item --godbound-court-community-minor_actor --Outcast suspected of evil magic --1 --
+!import-table-item --godbound-court-community-minor_actor --Part-time prostitute --1 --
+!import-table-item --godbound-court-community-minor_actor --Retired outsider seeking quiet --1 --
+!import-table-item --godbound-court-community-minor_actor --Shabby vagabond --1 --
+!import-table --godbound-court-community-power_sources --hide
+!import-table-item --godbound-court-community-power_sources --Important outsiders will only deal with them --1 --
+!import-table-item --godbound-court-community-power_sources --Only they know a skill that’s vital to the community --1 --
+!import-table-item --godbound-court-community-power_sources --Their word is taken as final in matters of tradition --1 --
+!import-table-item --godbound-court-community-power_sources --They have a huge family that backs them --1 --
+!import-table-item --godbound-court-community-power_sources --They have a powerful magical item at their disposal --1 --
+!import-table-item --godbound-court-community-power_sources --They have outsider friends with few scruples --1 --
+!import-table-item --godbound-court-community-power_sources --They have unusual wealth for the community --1 --
+!import-table-item --godbound-court-community-power_sources --They know secret magic or forbidden arts --1 --
+!import-table-item --godbound-court-community-power_sources --They know the local terrain and its useful secrets --1 --
+!import-table-item --godbound-court-community-power_sources --They’re related to several important families or people --1 --
+!import-table-item --godbound-court-community-power_sources --They’re remarkably beautiful and persuasive --1 --
+!import-table-item --godbound-court-community-power_sources --They’re very personally formidable in a fight --1 --
+!import-table --godbound-court-community-conflicts --hide
+!import-table-item --godbound-court-community-conflicts --A family head is mistreating their kin --1 --
+!import-table-item --godbound-court-community-conflicts --A family is being denied its old rights --1 --
+!import-table-item --godbound-court-community-conflicts --A local is profiting from a dire crime --1 --
+!import-table-item --godbound-court-community-conflicts --A new faith is preaching to locals --1 --
+!import-table-item --godbound-court-community-conflicts --Dire want threatens family survival --1 --
+!import-table-item --godbound-court-community-conflicts --Locals struggle to own a new discovery --1 --
+!import-table-item --godbound-court-community-conflicts --Outsiders seek to buy village land --1 --
+!import-table-item --godbound-court-community-conflicts --Outsiders seek to control the group --1 --
+!import-table-item --godbound-court-community-conflicts --Someone might be using dark magic --1 --
+!import-table-item --godbound-court-community-conflicts --Someone wants to attack a rival group --1 --
+!import-table-item --godbound-court-community-conflicts --Tradition is demanding a sacrifice --1 --
+!import-table-item --godbound-court-community-conflicts --Vital resources are being depleted --1 --
+!import-table --godbound-court-community-consequences_of_its_destruction --hide
+!import-table-item --godbound-court-community-consequences_of_its_destruction --A celestial law will loosen due to lack of rites --1 --
+!import-table-item --godbound-court-community-consequences_of_its_destruction --A dark power will recruit the survivors --1 --
+!import-table-item --godbound-court-community-consequences_of_its_destruction --A local noble will be angry at the loss --1 --
+!import-table-item --godbound-court-community-consequences_of_its_destruction --A now-unchecked threat will grow --1 --
+!import-table-item --godbound-court-community-consequences_of_its_destruction --A survivor will cut a deal with a sinister power --1 --
+!import-table-item --godbound-court-community-consequences_of_its_destruction --An important trade link will collapse --1 --
+!import-table-item --godbound-court-community-consequences_of_its_destruction --Kin-related villages will be furious --1 --
+!import-table-item --godbound-court-community-consequences_of_its_destruction --Nearby communities will lack a vital export --1 --
+!import-table-item --godbound-court-community-consequences_of_its_destruction --Revolutionaries will recruit the survivors --1 --
+!import-table-item --godbound-court-community-consequences_of_its_destruction --Survivors will scatter and speak of the PCs --1 --
+!import-table-item --godbound-court-community-consequences_of_its_destruction --The fury of a powerful home-town hero --1 --
+!import-table-item --godbound-court-community-consequences_of_its_destruction --The survivors will turn to banditry --1 --
+!import-table --godbound-court-community-community_defenses --hide
+!import-table-item --godbound-court-community-community_defenses --A guardian spirit or entity --1 --
+!import-table-item --godbound-court-community-community_defenses --A mighty retired hero --1 --
+!import-table-item --godbound-court-community-community_defenses --A mob of angry peasants --1 --
+!import-table-item --godbound-court-community-community_defenses --A potent local sorcerer --1 --
+!import-table-item --godbound-court-community-community_defenses --A relic of protection or power --1 --
+!import-table-item --godbound-court-community-community_defenses --A resident noble and his guards --1 --
+!import-table-item --godbound-court-community-community_defenses --A secret cult with potent magic --1 --
+!import-table-item --godbound-court-community-community_defenses --A small garrison of outside troops --1 --
+!import-table-item --godbound-court-community-community_defenses --Bandits who need the group --1 --
+!import-table-item --godbound-court-community-community_defenses --Close alliances with neighbors --1 --
+!import-table-item --godbound-court-community-community_defenses --So poor they can easily flee --1 --
+!import-table-item --godbound-court-community-community_defenses --Trained guardian beasts --1 --
+!import-table --godbound-court-criminal-main_line_of_crime --hide
+!import-table-item --godbound-court-criminal-main_line_of_crime --Banditry in the surrounding area --1 --
+!import-table-item --godbound-court-criminal-main_line_of_crime --Blackmailing and spying for the rich --1 --
+!import-table-item --godbound-court-criminal-main_line_of_crime --Extortion from local merchants --1 --
+!import-table-item --godbound-court-criminal-main_line_of_crime --Fighting rival groups for turf --1 --
+!import-table-item --godbound-court-criminal-main_line_of_crime --Hired assassination and other violence --1 --
+!import-table-item --godbound-court-criminal-main_line_of_crime --Human trafficking for labor or pleasure --1 --
+!import-table-item --godbound-court-criminal-main_line_of_crime --Import of drugs or forbidden contraband --1 --
+!import-table-item --godbound-court-criminal-main_line_of_crime --Persecuting a perceived group of enemies --1 --
+!import-table-item --godbound-court-criminal-main_line_of_crime --Pickpocketing and petty theft --1 --
+!import-table-item --godbound-court-criminal-main_line_of_crime --Smuggling of goods to avoid customs taxes --1 --
+!import-table-item --godbound-court-criminal-main_line_of_crime --Theft and embezzlement from the government --1 --
+!import-table-item --godbound-court-criminal-main_line_of_crime --Vices of all expensive kinds --1 --
+!import-table --godbound-court-criminal-major_actor --hide
+!import-table-item --godbound-court-criminal-major_actor --Ambitious revolutionary --1 --
+!import-table-item --godbound-court-criminal-major_actor --Beggar king --1 --
+!import-table-item --godbound-court-criminal-major_actor --Brothel owner --1 --
+!import-table-item --godbound-court-criminal-major_actor --Corrupt official --1 --
+!import-table-item --godbound-court-criminal-major_actor --Expert cat burglar --1 --
+!import-table-item --godbound-court-criminal-major_actor --Family patriarch --1 --
+!import-table-item --godbound-court-criminal-major_actor --Gang leader --1 --
+!import-table-item --godbound-court-criminal-major_actor --Grasping priest --1 --
+!import-table-item --godbound-court-criminal-major_actor --Loan shark --1 --
+!import-table-item --godbound-court-criminal-major_actor --Master assassin --1 --
+!import-table-item --godbound-court-criminal-major_actor --Scheming merchant --1 --
+!import-table-item --godbound-court-criminal-major_actor --Venal priest --1 --
+!import-table --godbound-court-criminal-minor_actor --hide
+!import-table-item --godbound-court-criminal-minor_actor --Ambitious thief --1 --
+!import-table-item --godbound-court-criminal-minor_actor --Bribed guardsman --1 --
+!import-table-item --godbound-court-criminal-minor_actor --Canny smuggler --1 --
+!import-table-item --godbound-court-criminal-minor_actor --Cynical prostitute --1 --
+!import-table-item --godbound-court-criminal-minor_actor --Disposable thug --1 --
+!import-table-item --godbound-court-criminal-minor_actor --Embezzling clerk --1 --
+!import-table-item --godbound-court-criminal-minor_actor --Frightened shopkeep --1 --
+!import-table-item --godbound-court-criminal-minor_actor --Reluctant debtor --1 --
+!import-table-item --godbound-court-criminal-minor_actor --Roving pickpocket --1 --
+!import-table-item --godbound-court-criminal-minor_actor --Scrawny urchin --1 --
+!import-table-item --godbound-court-criminal-minor_actor --Sharp-eyed beggar --1 --
+!import-table-item --godbound-court-criminal-minor_actor --Well-paid lawyer --1 --
+!import-table --godbound-court-criminal-power_sources --hide
+!import-table-item --godbound-court-criminal-power_sources --Controls a dangerous gang or cabal --1 --
+!import-table-item --godbound-court-criminal-power_sources --Controls fencing or money handling --1 --
+!import-table-item --godbound-court-criminal-power_sources --Handles the corrupt local officials --1 --
+!import-table-item --godbound-court-criminal-power_sources --Has a stable of urchins and/or prostitutes --1 --
+!import-table-item --godbound-court-criminal-power_sources --Has connections with the local elite --1 --
+!import-table-item --godbound-court-criminal-power_sources --Has potent magic or a powerful relic --1 --
+!import-table-item --godbound-court-criminal-power_sources --Knows secret paths and ways to anywhere --1 --
+!import-table-item --godbound-court-criminal-power_sources --Owns a number of useful front businesses --1 --
+!import-table-item --godbound-court-criminal-power_sources --Patriarch/matriarch of extended criminal family --1 --
+!import-table-item --godbound-court-criminal-power_sources --Provides a driving ideology for the group --1 --
+!import-table-item --godbound-court-criminal-power_sources --Provides muscle or murder for the group --1 --
+!import-table-item --godbound-court-criminal-power_sources --Provides social legitimacy for the group --1 --
+!import-table --godbound-court-criminal-conflicts --hide
+!import-table-item --godbound-court-criminal-conflicts --A lieutenant rebels against the boss --1 --
+!import-table-item --godbound-court-criminal-conflicts --An assassin's after a major actor --1 --
+!import-table-item --godbound-court-criminal-conflicts --Control of a new drug or contraband --1 --
+!import-table-item --godbound-court-criminal-conflicts --Control of an important local official --1 --
+!import-table-item --godbound-court-criminal-conflicts --Dispute over whether to kill someone --1 --
+!import-table-item --godbound-court-criminal-conflicts --Expulsion of outsiders from their turf --1 --
+!import-table-item --godbound-court-criminal-conflicts --Possession of a new-found treasure --1 --
+!import-table-item --godbound-court-criminal-conflicts --Revenge for a theft or offense --1 --
+!import-table-item --godbound-court-criminal-conflicts --Someone's trying to unify local gangs --1 --
+!import-table-item --godbound-court-criminal-conflicts --Someone's turned traitor to the law --1 --
+!import-table-item --godbound-court-criminal-conflicts --Subverting a source of law and order --1 --
+!import-table-item --godbound-court-criminal-conflicts --Turf struggle over working territories --1 --
+!import-table --godbound-court-criminal-consequences_of_its_destruction --hide
+!import-table-item --godbound-court-criminal-consequences_of_its_destruction --A local group relies on them for a living --1 --
+!import-table-item --godbound-court-criminal-consequences_of_its_destruction --The ruler uses them to contain a serious rival --1 --
+!import-table-item --godbound-court-criminal-consequences_of_its_destruction --Their affiliates provide vital financial services --1 --
+!import-table-item --godbound-court-criminal-consequences_of_its_destruction --Their blackmail would get out, causing chaos --1 --
+!import-table-item --godbound-court-criminal-consequences_of_its_destruction --They act as jailers to a magical danger --1 --
+!import-table-item --godbound-court-criminal-consequences_of_its_destruction --They actually provide vital aid to the poor --1 --
+!import-table-item --godbound-court-criminal-consequences_of_its_destruction --They bleed off otherwise-active rebels --1 --
+!import-table-item --godbound-court-criminal-consequences_of_its_destruction --They defend an innocent group from pogroms --1 --
+!import-table-item --godbound-court-criminal-consequences_of_its_destruction --They hold back a tyrannical force of oppression --1 --
+!import-table-item --godbound-court-criminal-consequences_of_its_destruction --They keep monsters from infesting dark places --1 --
+!import-table-item --godbound-court-criminal-consequences_of_its_destruction --They keep practical order on the streets --1 --
+!import-table-item --godbound-court-criminal-consequences_of_its_destruction --They retain important magical arts --1 --
+!import-table --godbound-court-criminal-organization_defenses --hide
+!import-table-item --godbound-court-criminal-organization_defenses --Crew of elite assassins --1 --
+!import-table-item --godbound-court-criminal-organization_defenses --Elaborate poisons --1 --
+!import-table-item --godbound-court-criminal-organization_defenses --Extremely hard to find --1 --
+!import-table-item --godbound-court-criminal-organization_defenses --Frame foes for crimes --1 --
+!import-table-item --godbound-court-criminal-organization_defenses --Hidden in fortified area --1 --
+!import-table-item --godbound-court-criminal-organization_defenses --Hostages or familial threats --1 --
+!import-table-item --godbound-court-criminal-organization_defenses --Innocent front group --1 --
+!import-table-item --godbound-court-criminal-organization_defenses --Many suborned commoners --1 --
+!import-table-item --godbound-court-criminal-organization_defenses --Mobs of burly street thugs --1 --
+!import-table-item --godbound-court-criminal-organization_defenses --Several corrupt officials --1 --
+!import-table-item --godbound-court-criminal-organization_defenses --Stolen magical relics --1 --
+!import-table-item --godbound-court-criminal-organization_defenses --Treacherous seducer --1 --
+!import-table --godbound-court-temple-mood --hide
+!import-table-item --godbound-court-temple-mood --Antiquated, caring only for things of a different time --1 --
+!import-table-item --godbound-court-temple-mood --Austere, refraining from visible luxury or indulgence --1 --
+!import-table-item --godbound-court-temple-mood --Careless, priests little interested in spiritual duties --1 --
+!import-table-item --godbound-court-temple-mood --Confused, in the midst of some great change --1 --
+!import-table-item --godbound-court-temple-mood --Distracted, the priests caring about a secular matter --1 --
+!import-table-item --godbound-court-temple-mood --Laboring, hard-pressed by the needs of believers --1 --
+!import-table-item --godbound-court-temple-mood --Mystical, full of somewhat incomprehensible priests --1 --
+!import-table-item --godbound-court-temple-mood --Opulent, jeweled and golden in wild excess --1 --
+!import-table-item --godbound-court-temple-mood --Rigid, uniform and disciplined in its clergy --1 --
+!import-table-item --godbound-court-temple-mood --Tense, priests constantly ready to attack each other --1 --
+!import-table-item --godbound-court-temple-mood --Unworldly, reluctant to get involved with secular things --1 --
+!import-table-item --godbound-court-temple-mood --Vengeful, furious against the enemies or rivals --1 --
+!import-table --godbound-court-temple-major_actor --hide
+!import-table-item --godbound-court-temple-major_actor --Aged holy figure --1 --
+!import-table-item --godbound-court-temple-major_actor --Eager reformer --1 --
+!import-table-item --godbound-court-temple-major_actor --High priest or priestess --1 --
+!import-table-item --godbound-court-temple-major_actor --Keeper of the relics --1 --
+!import-table-item --godbound-court-temple-major_actor --Leader of a faithful group --1 --
+!import-table-item --godbound-court-temple-major_actor --Magically-gifted priest --1 --
+!import-table-item --godbound-court-temple-major_actor --Pious noble --1 --
+!import-table-item --godbound-court-temple-major_actor --Popular preacher --1 --
+!import-table-item --godbound-court-temple-major_actor --Propounder of a heresy --1 --
+!import-table-item --godbound-court-temple-major_actor --Temple guard chief --1 --
+!import-table-item --godbound-court-temple-major_actor --Temple treasurer --1 --
+!import-table-item --godbound-court-temple-major_actor --Zealous crime boss --1 --
+!import-table --godbound-court-temple-minor_actor --hide
+!import-table-item --godbound-court-temple-minor_actor --Devoted commoner --1 --
+!import-table-item --godbound-court-temple-minor_actor --Dusty librarian --1 --
+!import-table-item --godbound-court-temple-minor_actor --Foreign pilgrim --1 --
+!import-table-item --godbound-court-temple-minor_actor --Grubby temple serf --1 --
+!import-table-item --godbound-court-temple-minor_actor --Guilt-stricken local --1 --
+!import-table-item --godbound-court-temple-minor_actor --Household priest --1 --
+!import-table-item --godbound-court-temple-minor_actor --Instructor-priest --1 --
+!import-table-item --godbound-court-temple-minor_actor --Naive monk --1 --
+!import-table-item --godbound-court-temple-minor_actor --Relic vendor --1 --
+!import-table-item --godbound-court-temple-minor_actor --Temple guardsman --1 --
+!import-table-item --godbound-court-temple-minor_actor --Temple spy --1 --
+!import-table-item --godbound-court-temple-minor_actor --Tithe collector --1 --
+!import-table --godbound-court-temple-power_sources --hide
+!import-table-item --godbound-court-temple-power_sources --A favorite of the local nobility or elite --1 --
+!import-table-item --godbound-court-temple-power_sources --Beloved by the poor faithful of the religion --1 --
+!import-table-item --godbound-court-temple-power_sources --Controls a vital relic of the faith --1 --
+!import-table-item --godbound-court-temple-power_sources --Divine spouse or beloved of an important cleric --1 --
+!import-table-item --godbound-court-temple-power_sources --Famously effective debater or apologist --1 --
+!import-table-item --godbound-court-temple-power_sources --Has a sacred or important bloodline --1 --
+!import-table-item --godbound-court-temple-power_sources --Has access to great wealth personally --1 --
+!import-table-item --godbound-court-temple-power_sources --Has some useful or potent form of magic --1 --
+!import-table-item --godbound-court-temple-power_sources --Has taught or brought up most local clergy --1 --
+!import-table-item --godbound-court-temple-power_sources --Holds a vital position as a life-long post --1 --
+!import-table-item --godbound-court-temple-power_sources --Knows a wealth of secrets and confessions --1 --
+!import-table-item --godbound-court-temple-power_sources --Owns the temple building or land --1 --
+!import-table --godbound-court-temple-conflicts --hide
+!import-table-item --godbound-court-temple-conflicts --A cleric seeking a pact with evil --1 --
+!import-table-item --godbound-court-temple-conflicts --Accepting another temple’s authority --1 --
+!import-table-item --godbound-court-temple-conflicts --Change of the temple’s political focus --1 --
+!import-table-item --godbound-court-temple-conflicts --Control of a powerful, naive believer --1 --
+!import-table-item --godbound-court-temple-conflicts --Enlisting an unsavory group of allies --1 --
+!import-table-item --godbound-court-temple-conflicts --Major cleric pursuing a secret vice --1 --
+!import-table-item --godbound-court-temple-conflicts --Obscure but vital theological dispute --1 --
+!import-table-item --godbound-court-temple-conflicts --Overthrow of a troublesome local --1 --
+!import-table-item --godbound-court-temple-conflicts --Performing a dangerous magic rite --1 --
+!import-table-item --godbound-court-temple-conflicts --Quarrel over control of the treasury --1 --
+!import-table-item --godbound-court-temple-conflicts --Selling a mighty relic or great treasure --1 --
+!import-table-item --godbound-court-temple-conflicts --Silencing of a problematic priest --1 --
+!import-table --godbound-court-temple-consequences_of_its_destruction --hide
+!import-table-item --godbound-court-temple-consequences_of_its_destruction --A curse will fall upon desecrators --1 --
+!import-table-item --godbound-court-temple-consequences_of_its_destruction --A dangerous cult will fill the void --1 --
+!import-table-item --godbound-court-temple-consequences_of_its_destruction --Government needs its support for legitimacy --1 --
+!import-table-item --godbound-court-temple-consequences_of_its_destruction --It will infuriate a foreign branch of the faith --1 --
+!import-table-item --godbound-court-temple-consequences_of_its_destruction --It's maintaining vital spiritual defenses --1 --
+!import-table-item --godbound-court-temple-consequences_of_its_destruction --It’s sealing away a terrible power --1 --
+!import-table-item --godbound-court-temple-consequences_of_its_destruction --Its destruction will incite a violent prophet --1 --
+!import-table-item --godbound-court-temple-consequences_of_its_destruction --Local believers will be riotous --1 --
+!import-table-item --godbound-court-temple-consequences_of_its_destruction --Only it knows how to perform a vital service --1 --
+!import-table-item --godbound-court-temple-consequences_of_its_destruction --The local poor rely on temple charity --1 --
+!import-table-item --godbound-court-temple-consequences_of_its_destruction --The local rulers will be outraged --1 --
+!import-table-item --godbound-court-temple-consequences_of_its_destruction --Will cause drastic celestial damage to local laws --1 --
+!import-table --godbound-court-temple-temple_defenses --hide
+!import-table-item --godbound-court-temple-temple_defenses --Powerful priestly magic --1 --
+!import-table-item --godbound-court-temple-temple_defenses --Animated idol --1 --
+!import-table-item --godbound-court-temple-temple_defenses --Divine blessings on temple --1 --
+!import-table-item --godbound-court-temple-temple_defenses --Many sturdy guardsmen --1 --
+!import-table-item --godbound-court-temple-temple_defenses --Infuriated mob --1 --
+!import-table-item --godbound-court-temple-temple_defenses --Noble patrons --1 --
+!import-table-item --godbound-court-temple-temple_defenses --Sacred beast or summons --1 --
+!import-table-item --godbound-court-temple-temple_defenses --Fortified temple --1 --
+!import-table-item --godbound-court-temple-temple_defenses --Fanatical zealots --1 --
+!import-table-item --godbound-court-temple-temple_defenses --Powerful defensive relics --1 --
+!import-table-item --godbound-court-temple-temple_defenses --Wards against divine powers --1 --
+!import-table-item --godbound-court-temple-temple_defenses --Dire curse on assailants --1 --
+!import-table --godbound-ruin-original_purpose_of_the_ruin --hide
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Covert base for spies or a rebel cell --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Fortress or military installation --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Gatehouse for a Night Road --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Magical or high-tech transport nexus --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Military base or training area --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Mine or resource extraction site --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Palace for a great official --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Part of a ruined city or town’s residential area --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Prison camp for enemies --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Prison for a supernatural entity --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Refuge for survivors of the Shattering --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Resort for the elite or the wealthy --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Sealed site of a magical disaster --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Semi-magical manufactory --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Survival bunker for government elite --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Temple or monastery to worship a Made God --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Theotechnical research site --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Trading nexus with transit and storage --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --University or arcane school --1 --
+!import-table-item --godbound-ruin-original_purpose_of_the_ruin --Vault or treasury for some mighty relic --1 --
+!import-table --godbound-ruin-ruin_hazards --hide
+!import-table-item --godbound-ruin-ruin_hazards --Abundant Traps: The place is crusted over with dangerous snares and security measures. A properly-gifted Godbound can likely bypass most of these, but ordinary mortals aren't so fortunate. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Autonomous Defenses: The ruin has some independent defense system that stubbornly guards it, most likely a set of Relict automatons. Undead or long-lived servitor creatures might serve as well. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Crumbling Structure: The ruin is falling apart, and anyone venturing into it risks bringing it down on top of their heads if they create too much of a commotion. Floors, ceilings, and walls can go at any time. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Cyclical Destruction: Every so often, something happens to kill everything in the ruin; an energy wave, a tide of fast-breeding super-vermin, inundation by a toxic substance, or the like. This cycle might be triggered by intruders or something they're likely to do. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --False Exterior: The ruin looks like something else, either an already-picked-over tumble of stones or a friendly settlement that hides the ruin as its secret. Secret entrances or magical ingresses are common. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Heritor Inhabitants: The original occupants of the ruin are still around, though probably in the form of a culture or even physical shape that is no longer the same. They very rarely welcome visitors. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Honey Trap: The ruin looks like something very appealing to intruders, like a treasure vault, friendly sanctuary, or a library filled with valuable theurgic secrets. In actuality, it's a trap to catch and murder intruders when their guard is down. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Hostile Environment: The ruin is full of something toxic or difficult to navigate, whether that's murky water or heavy radiation. It might be possible to "turn off" this environment, or intruders might just have to be equipped to deal with it. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Lethal Surroundings: The ruin might not be so bad, but the area around it is murderously dangerous. It might be teeming with dangerous creatures, vicious natives, or potentially-lethal terrain. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Lingering Curse: The ruin is magically blighted, and anyone who gets too close is going to be cursed as well. Godbound might have the Words to mitigate the curse, but lifting it will require major effort. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Mutated Guardians: The original inhabitants or a past occupant has stocked the ruin with twisted guardian creatures. Most such creatures require something the ruin provides in order to survive, keeping them from spreading too far afield. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Perpetual War Zone: Multiple factions within the ruin are constantly fighting each other. Depending on their degree of xenophobia, they might seek to enlist outsiders as allies, or just use them as free rations. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Remote Location: The ruin is exceedingly far away from anything else of importance, and its entrance is probably well-hidden. Reaching the ruin will necessitate a long trip at the least, likely through hostile lands to an imprecise destination. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Sealed Entrance: The ruin's entrance is bound shut by magic or ancient technology. Most such seals are too complex and multi-layered to be easily opened by Godbound miracles, though a Godbound with the Journeying gift Master of the Key likely could get it open. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Swarm Hive: The ruin is teeming with a hive of some dangerous creature. While defeating these individual entities might be trivial to Godbound intruders, they almost always work in vast, well-coordinated Mobs of furious defenders. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Taboo Wardens: The ruin is forbidden, either by ancient law, local custom, or the conviction of a powerful local faith. Wardens have been appointed to guard the site against intruders. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Temporal Lock: The ruin is only accessible at a specific time, such as a particular day of the year or time of day, and may not even exist outside the correct hour. Godbound of Time might be able to force its entrance into synchrony. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Titanic Beast: Some terrible monster lairs in the ruin, one fearsome enough to give even a Godbound pantheon a good fight. It may have younger spawn or a mate to complicate the engagement. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Toxic Miasma: There's poison in the atmosphere of the ruin. It may be quite subtle, with progressive Hardiness saves resisting damage that only becomes obvious during combat, or it might produce a more overt form of injury. --1 --
+!import-table-item --godbound-ruin-ruin_hazards --Verticality: The ruin is very tall or very deep. Intruders who can't fly or levitate will have a difficult time navigating it, and it might be entirely impossible to reach flying ruins without some means of aerial travel. Optionally, it might be so secure the only way in is above. --1 --
+!import-table --godbound-ruin-the_reward_of_the_ruin --hide
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Arcane Lore: There are one or more grimoires here containing the details of a theurgic invocation. They might be drawn from the examples given here in the book, or you might make up some new spells for the PCs to discover. Alternately, it might be a cache of instructional materials on a lost form of low magic, one that isn't as potent as theurgy but might still have some effects relevant to the ruin's original purpose. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Celestial Shards: These are needed for artifact-crafting and the working of Impossible feats of Dominion. Their presence implies that the ruin was either the original location of a realm-side engine of creation or that the ruin's builders brought in scavenged shards from elsewhere. One shard for every two PCs is usually a good haul. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Dark Secret: The ruin contains evidence of some atrocity, crime, or terrible practice that has some meaningful connection to the present-day natives of the area. The locals may not even remember their former sins, or they may make a point of hiding them. They might even still be ongoing, and this evidence would be all too clear. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Material Wealth: The Treasure chapter contains guidelines on how much Wealth loot a ruin of a given size and type should have, but this ruin is an exception. You should at least double the expected Wealth, if not more, and place it in some form that would make sense for the ruin's original purpose. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Needed Key: The ruin's reward is a key of some kind. It might be a physical key, or a passcode, or a particular magical ritual to be performed at a particular place. Whatever it is, it's needed to get into someplace important, either another ruin or a lost treasure vault. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Night Road: There's a Night Road in the bowels of this ruin, but unlike most Night Roads, this one can be sealed or opened from the realm side. PCs who take control of the ruin have an easy ingress to whatever far realm or Heavenly shard to which it might connect. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Powerful Artifact: There's a magic item in here powerful enough to impress even a Godbound. It might be a towering godwalker, or it could be a major artifact built with the rules in the Treasure chapter. It's possible that the artifact is somehow connected to the functioning of the ruin, or it might have been lost here by some former unfortunate explorer. Removing it could have consequences. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Revealed Plot: Somewhere in the ruin there's clear evidence of a sinister plot in the outside world or an impending catastrophe about to strike the area. This evidence is enough to warn the PCs, but it shouldn't be enough to prevent the catastrophe or blow open the plot by itself. If the PCs want to pursue the matter, the information should give them a general lead. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Token of Legitimacy: There's a piece of regalia or a genealogical text somewhere in the ruin that either proves the local ruling family is illegitimate or confers that legitimacy on whoever holds it. The token should be impressive or unusual enough to draw the PCs' attention, though they may not realize its importance until they start showing it to other people or have a Godbound of Knowledge or one with a relevant Fact examine it. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Transport Nexus: Fast travel in most realms is limited to the speed of a sailing ship. Long-range teleportation magic is very rare and potent theurgy, and even Godbound of Journeying usually have to traverse the physical space between points. This ruin contains a teleportation device or underground tubeway car that connects the ruin to some distant location, probably another ruin of a similar type. The nexus probably can't be re-worked to aim at a different target, though GMs might allow it as an Impossible project. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Useful Ally: There's an entity in this ruin that would make a useful and reliable ally to the PCs. Such a being isn't just one of the inhabitants who could be talked or charmed around to obedience, but an automaton or creature with obvious potential as a servant. The PCs should be able to tell that the entity is a potential ally very easily, or else habits of divine smiting might take the fore. --1 --
+!import-table-item --godbound-ruin-the_reward_of_the_ruin --Valuable Map: There's a ruin or cache that nobody knows about, but this map gives relatively clear directions to it. The map might take the form of an actual paper map, or it could be a record kept in the ruin, or an inference drawn from some decorative piece of art. The map might leave out important information about the destination site's defenses or nature. --1 --
+!import-table --godbound-ruin-inhabitant_groups-ruin_inhabitants --hide
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Angelic Cult: Angelic Regent with Large Mob of human cultists. Possibly Lesser Eldritch high priest and a Titanic Beast guard-creature --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Automaton Defenses: Small Mob of Automaton Guardians, possibly with individual major automatons with Titanic Beast or Twisted Ogre statistics --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Bandit Chief: Minor or Major Hero with a Skilled Mage lieutenant, a Large Mob of rabble and a Small Mob of veteran bandits --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Exiled Noble: Minor or Major Hero with a Small Mob of supporters, a Skilled Mage advisor, and one supernatural creature as the mage’s familiar --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Heavenly Shard: Small Mobs of Angelic Ravagers or Angelic Guardians, possibly a Large Mob of Timeworn Survivors or a Hulking Abomination. In the worst case, a Made God is trapped in it. --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Hellish Labyrinth: Large Mobs of Angelic Guardians, one or more Titanic Beasts, Vast Mob of enslaved dead, possibly an Uncreated interloper. An Angelic Tyrant might rule major sites. --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Intelligent Misbegotten Lair: Twisted Ogre served by a Large Mob of minor Misbegotten, possibly with a tamed Titanic Beast or Lesser Eldritch sorcerer --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Military Base: Minor or Major Hero with Vast Mob of soldiers, possibly other Hero lieutenants or Skilled Mage support --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Monstrous Beast Lair: Titanic Beast, possibly with a Small Mob of weaker offspring or packmates, or possibly a Hulking Abomination instead. Might have numerous dangerous vermin-prey around. --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Night Road Beachhead: Large Mob of Timeworn Survivors led by an Eldritch, or else a Small Mob of Stalking Horrors led by a Hulking Abomination --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Noble's Household: Minor or Major Hero with a Skilled Mage advisor, a Small Mob of guards, and possibly one or more other Heroes in their pay --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Parasite God Cult: Parasite God with Lesser Eldritch high priest, Large Mob of civilian worshipers, and Small Mob of trained warrior-zealots --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Reclusive Archmage: Eldritch with one or more Skilled Mage apprentices, one or more Hulking Abomination or Titanic Beast guards or familiars --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Relict Population: Small Mob of Automaton Guardians or Large Mob of Timeworn Survivors. Probably an Eldritch or Major Hero leader for the relicts. --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Sorcerous Cabal: Several Lesser Eldritch or Skilled Mage cabal-mates with a Small Mob of servitors and possible Angelic Regent patron --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Swarm Hive: Vast Mob of lesser Misbegotten or Timeworn Survivors, possibly with Titanic Beast or Hulking Abomination “queen” or “alpha” --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Temple Hierarchy: Eldritch high priest with Skilled Mage underpriests and Large Mob of temple zealots --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Trapped Made God: Made God with Eldritch high priest, Large Mob of worshipers and theotechnicians trapped there with it --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Uncreated Cyst: Hulking Abomination with Large Mob of lesser Uncreated and several Stalking Horror minions. Possible Eldritch slave-sorcerer --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Uncreated Invader: Parasite God-equivalent Uncreated master with one or more Eldritch lieutenants and a Large or Vast Mob of lesser Uncreated. Don't forget the Uncreated's special abilities. --1 --
+!import-table-item --godbound-ruin-inhabitant_groups-ruin_inhabitants --Undead Ruler: Eldritch lich-lord or Dried Lord undead warlord with Vast Mob of servitors. Has several war-draugr or priest equivalent minions in its service --1 --
+!import-table --godbound-ruin-inhabitant_details-how_did_they_end_up_here --hide
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --A leader promised them something glorious here --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --Religious causes incited them to come here --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --The recently sought refuge here --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --Their ancestors seized the place as a sanctuary --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --They arrived from a far realm through a Night Road --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --They arrived here not long ago in search of riches --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --They conquered the original inhabitants and stayed --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --They were created or born here --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --They were driven here by pursuing enemies --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --They were sent here by their superiors --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --They were slaves or servants who broke free --1 --
+!import-table-item --godbound-ruin-inhabitant_details-how_did_they_end_up_here --They're heirs to the retinue of an ancient discoverer --1 --
+!import-table --godbound-ruin-inhabitant_details-their_overall_goal --hide
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Carry out an ancient inherited duty --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Control the ruin's reward for their ends --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Fortify it as a base for future conquest --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Hide from a more powerful enemy --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Hold it against an incoming enemy --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Just eke out an existence in semi-safety --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Loot the place down to the floorboards --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Purge all rivals from the ruin --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Revive the ruin's original purpose --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Seize the ruin for a master or employer --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Study the ruin for further arcane power --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_overall_goal --Unearth a treasure hidden there --1 --
+!import-table --godbound-ruin-inhabitant_details-their_leadership_type --hide
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --A figurehead leader for a secret master --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --A leader and a few trusted lieutenants --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --A leader rules with advice from others --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --A single leader rules without dispute --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --Anarchic, with no visible leadership --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --Churning, leaders changing rapidly --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --Democratic with an executive figure --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --Groups, each having their own leader --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --Mission-oriented toward a shared duty --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --Obedient to a distant employer or ruler --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --Theocratic, under a religious chief --1 --
+!import-table-item --godbound-ruin-inhabitant_details-their_leadership_type --Two or more entities working together --1 --
+!import-table --godbound-ruin-inhabitant_details-defensive_measures --hide
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They activate an environmental hazard --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They have a magical ward in place --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They have a summoned guard entity --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They have an alliance with neighbors --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They have extensive sentinels posts --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They have rigidly-disciplined guards --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They have secret transit paths for troops --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They keep guard beasts in critical locales --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They've made excellent ambush zones --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They've physically walled up passages --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They've set alarms and noisemakers --1 --
+!import-table-item --godbound-ruin-inhabitant_details-defensive_measures --They've set traps in little-used areas --1 --
+!import-table --godbound-ruin-inhabitant_details-internal_problems --hide
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --A rebel lieutenant is causing turmoil --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --Food supplies or vital necessities run low --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --Morale is miserably low of late --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --One of them is a secret traitor --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --The leader is a very powerful fool --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --The leader is losing the faith of the rest --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --They can't agree on a threat response --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --They misunderstand a local danger --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --They're fighting over a thing they found --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --They're on a time-sensitive mission --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --They're suffering from a dire disease --1 --
+!import-table-item --godbound-ruin-inhabitant_details-internal_problems --They've splintered into hostile factions --1 --
+!import-table --godbound-ruin-inhabitant_details-recent_events --hide
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --Rivals stole something they need badly --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --Some have splintered into a rival group --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --The leadership changed drastically --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They broke a thing that's getting worse --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They got a new magical resource or ally --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They moved to a new part of the ruin --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They opened up a sealed ruin section --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They received some new recruits --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They restored the ruin's original purpose --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They unearthed a useful treasure --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They unleashed something unfortunate --1 --
+!import-table-item --godbound-ruin-inhabitant_details-recent_events --They were beaten by neighboring rivals --1 --
+!import-table --godbound-ruin-inhabitant_details-external_relationships --hide
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --A conviction of rightful rule of the ruin --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Assiduously isolationist toward others --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Avid recruiters of outsiders to the group --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Ferocious hostility toward all others --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Mercenaries for hire by other groups --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Nursing bitter grudges against outsiders --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Others are food or supplies on the hoof --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Paranoid fear of other groups --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Pragmatic and willing to negotiate --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Relentlessly treacherous double-dealers --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Ruthless aggression when it's feasible --1 --
+!import-table-item --godbound-ruin-inhabitant_details-external_relationships --Wary but very reliable allies if enlisted --1 --
+!import-table --godbound-ruin-ruin_locations-basic_purpose_of_the_location --hide
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Archive, library, scriptorium, record-keeping for the site --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Assembly area, plaza, audience chamber, merchant shop --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Command area, site controls, leader's quarters --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Dining hall, hydroponic garden, food processing --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Function area for the site's original purpose --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Maintenance shop, janitorial area, reprocessing zone --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Manufactory area, industrial workplace, artisan's shop --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Passage between locations, storage area, or vault --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Recreation or artistic area, tavern, gallery, private bower --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Sleeping or residential quarters for the inhabitants --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Temple or chapel to a Made God or latter deity --1 --
+!import-table-item --godbound-ruin-ruin_locations-basic_purpose_of_the_location --Training area, classroom, practice field, auditorium --1 --
+!import-table --godbound-ruin-ruin_locations-valuables_here --hide
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Bait, to distract from a greater prize --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Broken or scattered in fragments --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Hidden under or in furnishings here --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Left out in the open, untouched --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Locked away in a visible container --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Mixed with detritus or trash --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Part of the furnishings or equipment --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Placed with valueless similar objects --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Precariously placed, risking damage --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Repurposed for a mundane end here --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Ridiculously well-concealed --1 --
+!import-table-item --godbound-ruin-ruin_locations-valuables_here --Unobtrusive but not really hidden --1 --
+!import-table --godbound-ruin-ruin_locations-locations_general_mood --hide
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Bloody, the site of awful violence --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Brilliant with lights or high windows --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Cozy, with signs of recent occupation --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Crackling with energy, motion, or sound --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Crumbling, its contents falling apart --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Dark, lamps and windows darkened --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Defaced and spoilt by occupants --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Graveyard, full of old yellowed death --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Kept in unusually good condition --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Lonely, desolate and unvisited --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Patched, half-fixed by its occupants --1 --
+!import-table-item --godbound-ruin-ruin_locations-locations_general_mood --Reeking with decay and corruption --1 --
+!import-table --godbound-ruin-ruin_locations-ingress_or_egress_problems --hide
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is behind heavy rubble --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is concealed behind something --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is dark, and light draws peril --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is false, and leads to peril --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is heavily fortified by occupants --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is locked or barred --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is opened elsewhere in the ruin --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is prone to collapse at any time --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way is trapped by the occupants --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way leads through lethal terrain --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way leads to an awkward vantage --1 --
+!import-table-item --godbound-ruin-ruin_locations-ingress_or_egress_problems --The way requires climbing or flight --1 --
+!import-table --godbound-ruin-ruin_locations-physical_peril --hide
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --A closed door is trapped or load-bearing --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Alarming noise made if a thing's handled --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Crumbling floors, ceilings, or walls --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Dangerous flames or energy discharges --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Heavy object topples if touched at all --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Noxious or toxic pools, fungi, or flora --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Opening a container releases a bad thing --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Poisonous or explosive miasma here --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Site's original function gone berserk --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Slippery or treacherous footing --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Time-delayed danger triggered on entry --1 --
+!import-table-item --godbound-ruin-ruin_locations-physical_peril --Treasure is dangerous or a trap trigger --1 --
+!import-table --godbound-ruin-ruin_locations-occupant_peril --hide
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --A hidden sentinel watches the area --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --Their champion or leader lairs here --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --Their mates and offspring are here --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --There are a whole lot of them here --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --They have a superb tactical position here --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --They have allies posted here --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --They rush in as a swarm on an alarm --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --They've arranged a trap for intruders --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --They've set guard beasts to lair here --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --They've set up a fixed but deadly weapon --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --They've set up an ambush in the area --1 --
+!import-table-item --godbound-ruin-ruin_locations-occupant_peril --This is a sacred place to them --1 --
+!import-table --godbound-ruin-ruin_locations-magical_peril --hide
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Alarm when magic is sensed here --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Animated objects or automaton pieces --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Broken artifact explodes if handled --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Curse on those who handle something --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Effort-draining field or artifact --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Empyrean ward, as per Treasure chapter --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Environment like a hostile gift effect --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Low magic ward or trap in place --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Magical counterstrike on gift use --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Magical disease from an object --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Subtly curse target or their possessions --1 --
+!import-table-item --godbound-ruin-ruin_locations-magical_peril --Transform target or possessions --1 --
+!import-table --godbound-ruin-location_features-basic_form_of_the_feature --hide
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Art object, painting, sculpture, mosaic, or other decor --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Book, records, reports, shelf of documents, or recording --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Corpse, battle wreckage, site of some accident or trap --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Door, archway, portal, or other ingress or egress --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Fountain, pool, stream, or other liquid feature --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Icon, religious idol, relic of a Made God, or the like --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Machinery related to the location, magical or mundane --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Monument, grave, crypt, trophy, memorial inscription --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Part of the location's normal furniture or fittings --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Vehicle, transport sled, wagon, riding harness --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --Window or viewscreen, monitoring station, scrying ball --1 --
+!import-table-item --godbound-ruin-location_features-basic_form_of_the_feature --One of the above, but broken and no longer useful --1 --
+!import-table --godbound-ruin-location_features-unusual_value_it_has --hide
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --Dwellers nearby love these things --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It bypasses the ruin's security somehow --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It harms dangerous local entities --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It has a strange but useful property --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It has magnificent workmanship --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It has splendid artistic novelty to it --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It produces some useful good or service --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It protects against a hazard of the place --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It restores some of the ruin's function --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It's a key to entering a part of the ruin --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It's impervious to most forms of harm --1 --
+!import-table-item --godbound-ruin-location_features-unusual_value_it_has --It's made of a precious material --1 --
+!import-table --godbound-ruin-location_features-danger_related_to_it --hide
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --Enemies can track your location with it --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It activates nearby ruin security --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It attracts a particular beast or entity --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It benefits fail at the worst possible time --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It carries a disease or infectious curse --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It makes enemy attacks more effective --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It seems harmless but later turns deadly --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It's hard to get rid of once taken up --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It's prone to exploding or melting down --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --It's radioactive or exudes evil magic --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --Locals consider it taboo to handle --1 --
+!import-table-item --godbound-ruin-location_features-danger_related_to_it --Using or handling it drains the subject --1 --
+!import-table --godbound-ruin-location_features-useful_information_it_gives --hide
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --A map of the ruin, more or less precise --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --A weakness of a boss foe in the ruin --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Clues to the occupants' current goal --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Data on the ruin's reward --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Hints about current ruin occupants --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Historically important records or data --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Information on a secret location or door --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Information on a trap or dangerous area --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Information on the ruin's hazard --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Operation of the ruin's original function --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --Passcodes for entering restricted areas --1 --
+!import-table-item --godbound-ruin-location_features-useful_information_it_gives --The use or perils of a different feature --1 --
+!import-table --godbound-ruin-location_features-functional_component --hide
+!import-table-item --godbound-ruin-location_features-functional_component --It allows communication to other places --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It controls the ruin's defenses --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It controls water, heat, or other utilities --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It does a thing related to the ruin's origin --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It gives views of a ruin location --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It holds up the location's walls --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It opens or closes a door or vault --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It provides light or heat --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It reveals something hidden in the ruin --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It summons occupants to the area --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It triggers a self-destruct sequence --1 --
+!import-table-item --godbound-ruin-location_features-functional_component --It's a conduit for the ruin's energy --1 --
+!import-table --godbound-ruin-location_features-visual_styles --hide
+!import-table-item --godbound-ruin-location_features-visual_styles --Bloodstained as if used as a weapon --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Emblazoned with creator's insignia --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Featureless, highly-polished surfaces --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Glowing circuit-like streaks of light --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Harsh geometrical angles --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Humming, chiming, or other sounds --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Intricate knotwork and twisted lines --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Naturalistic images or colors to it --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Pockmarked and decaying texture --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Rusted or verdigrised surface --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Smooth, flowing curves and lines --1 --
+!import-table-item --godbound-ruin-location_features-visual_styles --Unusually hot or cold surface --1 --
+!import-table --godbound-ruin-location_features-large_features_in_combat --hide
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --Enemies hide in or behind it when alert --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --If broken, it causes a disaster elsewhere --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --If hit, a timer starts to an explosion --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --If hit, it will explode or release toxins --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --It amplifies the inhabitants' abilities --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --It changes shape or contours if active --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --It moves during combat and can crush --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --It projects energy when active --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --It's an extremely sturdy piece of cover --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --Locals can make it spew toxic substances --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --Locals know how to use it for a weapon --1 --
+!import-table-item --godbound-ruin-location_features-large_features_in_combat --When active, it's a terrain hazard --1 --
+!import-table --godbound-ruin-night_road-night_road_wayhouses --hide
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Bridgehouse, to raise and lower a barrier or drawbridge --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Citadel, preventing enemies from passing --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Crossroad, where two or more Roads connect --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Garden, full of sustenance and ease --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Monument, to a realm's glory and might --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Prison, holding something between worlds --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Refuge, established by exiles or escapees --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Ruin, its original purpose spoiled and broken --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Seal, to contain an incursion of Uncreated Night --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Tomb, to hold a corpse forever along the Road --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --Villa, gracefully overlooking Uncreated Night --1 --
+!import-table-item --godbound-ruin-night_road-night_road_wayhouses --One thing that became another, which it is now --1 --
+!import-table --godbound-ruin-night_road-night_road_seals --hide
+!import-table-item --godbound-ruin-night_road-night_road_seals --Arcane. A sorcerer can open it with simple rituals. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Engine. A large device must be powered to open it. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Incantation. A special phrase or password opens it. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Key. A particular magical artifact can open it. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Lineage. Only a certain bloodline can open it. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Open. It has no seal at all. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Physical. Material doors or barriers are before it. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Price. Some curse or loss is suffered to open it. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Ritual. Some hideous reality-defying rite is needed. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Sacrifice. It takes blood or treasure to open it. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Temporal. It only opens at certain times. --1 --
+!import-table-item --godbound-ruin-night_road-night_road_seals --Wards. Magical wards must be dropped to use it. --1 --
+!import-table --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --hide
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --City, strange streets and white jade stones --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Dungeon, beauty made evil by angels --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Forest of primal wildness --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Forge, impossibly vast and clanging --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Garden with tremendous beasts --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Library, with secrets of long-dead realms --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Machine, vast, its rooms in broken places --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Monuments to angels and strange things --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Palace, endless, pale and mazey --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Sea, golden with diluted suns --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Ship, becalmed in sea or sky forever --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-basic_heavenly_surroundings --Tower, without base or top --1 --
+!import-table --godbound-ruin-shards_of_heaven-its_magnificence --hide
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Artistry, everything masterfully made --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Creation, things made constantly --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Intricacy, everything impossibly baroque --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Knowledge, script and secrets all over --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Light, impossibly clear and illuminating --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Motion, a wild dance of swift movement --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Passion, wild feelings welling up easily --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Peace, contentment surrounding all --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Silence, all sound swallowed away --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Size, everything built for giants --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Song, celestial music suffusing all --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_magnificence --Value, gold and jewels for brick and clay --1 --
+!import-table --godbound-ruin-shards_of_heaven-its_decay --hide
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Broken, damaged by great forces --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Dark, light clouded and gloomy --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Death, full of corpses and the slain --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Defiled, mortal wreckage left behind --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Diseased, a pox or poison within --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Feral, gone savage and murderous --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Intermittence, the glory skipping time --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Leaking, letting in the Uncreated --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Rot, fragments decaying and purulent --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Treacherous, harming the careless --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Warped, images turned dark and vile --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_decay --Withered, life gone dry and brittle --1 --
+!import-table --godbound-ruin-shards_of_heaven-its_latest_occupants --hide
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --A hunting pack of bitter angels --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --A dead Made God's trapped clergy and theotechnicians --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --A mighty theurge and their retinue --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --A parasite god and their clergy who found a way here --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --Artificial life created by the theurges or Made God clergy --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --Automatons meant for celestial defense, now self-willed --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --Native beasts or creatures of Heaven, left alone here --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --Refugees from a dead realm who came here by Night Road --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --Scavenging mortal heroes of a distant realm --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --Undead revenants of a human party trapped here long ago --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --Wretched misfortunates who wandered in by Night Road --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-its_latest_occupants --Two or more parties, allied or bitter enemies --1 --
+!import-table --godbound-ruin-shards_of_heaven-what_they_wanted_here --hide
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They lost something here that they must recover before leaving --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They think an arcane secret they want is hidden here --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're exiles, seeking a refuge and revenge --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're explorers, seeking out new roads through the heavens --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're hiding from something worse than they are --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're hunting an enemy of theirs who fled here --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're looking for treasures of any useful kind to bring back --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're on a pilgrimage or religious journey of some sort --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're seeking shards from the celestial engines --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're servitors of a greater power sent to retrieve a thing --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're trapped, and trying desperately to escape --1 --
+!import-table-item --godbound-ruin-shards_of_heaven-what_they_wanted_here --They're trying to make the place into a sanctuary for their own --1 --
+!import-table --godbound-challenge-kinds_of_challenges --hide
+!import-table-item --godbound-challenge-kinds_of_challenges --Building a structure or institution in a community. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Changing a custom or law displeasing to the PCs. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Clearing a ruin or other place of danger nearby. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Convincing someone in authority to help the PCs. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Finding a thing critical to the PCs’ goals. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Killing a monster or other powerful, dangerous entity. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Rallying a group that is demoralized or squabbling. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Resolving a conflict between people or groups. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Sneaking into or stealing from a well-protected place. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Undoing an enchantment, curse, or blight on a place. --1 --
+!import-table --godbound-challenge-building_a_structure --hide
+!import-table-item --godbound-challenge-building_a_structure --A similar nearby institution is a jealous rival of the idea. --1 --
+!import-table-item --godbound-challenge-building_a_structure --Critical artisans are only found in a hostile community. --1 --
+!import-table-item --godbound-challenge-building_a_structure --The local ruler mistrusts the project as a threat to them. --1 --
+!import-table-item --godbound-challenge-building_a_structure --The local ruler tries to squeeze the PCs for their aid. --1 --
+!import-table-item --godbound-challenge-building_a_structure --The locals are too distracted by a beast or peril to build. --1 --
+!import-table-item --godbound-challenge-building_a_structure --The locals try to repurpose the place for their ends. --1 --
+!import-table-item --godbound-challenge-building_a_structure --The locals mistrust the idea and need to be bribed. --1 --
+!import-table-item --godbound-challenge-building_a_structure --The only good site is held by unhelpful or enemy locals. --1 --
+!import-table-item --godbound-challenge-building_a_structure --The only good site is occupied by a ruin or lair. --1 --
+!import-table-item --godbound-challenge-building_a_structure --The structure requires great supplies of a scarce good. --1 --
+!import-table-item --godbound-challenge-building_a_structure --The structure upsets a supernatural being or wakes one. --1 --
+!import-table-item --godbound-challenge-building_a_structure --There's a saboteur ring funded by outside enemies. --1 --
+!import-table --godbound-challenge-changing_a_custom --hide
+!import-table-item --godbound-challenge-changing_a_custom --A powerful neighbor requires the custom from them. --1 --
+!import-table-item --godbound-challenge-changing_a_custom --The custom has great magical power for local wizards. --1 --
+!import-table-item --godbound-challenge-changing_a_custom --The custom is compelled by the threat of a curse. --1 --
+!import-table-item --godbound-challenge-changing_a_custom --The custom is imposed by fearsome supernatural beings. --1 --
+!import-table-item --godbound-challenge-changing_a_custom --The custom is intrinsic to local religion. --1 --
+!import-table-item --godbound-challenge-changing_a_custom --The custom is symbolic of a cherished ancient victory. --1 --
+!import-table-item --godbound-challenge-changing_a_custom --The custom is thought just punishment to its victims. --1 --
+!import-table-item --godbound-challenge-changing_a_custom --The custom is tied to a crucial social support. --1 --
+!import-table-item --godbound-challenge-changing_a_custom --The last attempt to change it brought a disaster to them. --1 --
+!import-table-item --godbound-challenge-changing_a_custom --The last reformer was an incompetent tyrant, still hated. --1 --
+!import-table-item --godbound-challenge-changing_a_custom --The local ruler's support relies on the custom. --1 --
+!import-table-item --godbound-challenge-changing_a_custom --The richest locals owe much wealth to the custom. --1 --
+!import-table --godbound-challenge-clearing_a_ruin --hide
+!import-table-item --godbound-challenge-clearing_a_ruin --Clearing the ruin will release a supernatural power. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --Local rulers claim control of the ruin and its loot. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --Powerful robbers lie in wait to plunder those who visit. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The apparent ruin is only part of it; most of it is hidden. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The locals are terrified that the PCs will stir up trouble. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The ruin caps a Night Road that is a danger if unsealed. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The ruin curses those who enter it with a divine blight. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The ruin is contaminated with toxic sorcery or waste. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The ruin is in the disputed territory of a touchy ruler. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The ruin is only accessible after special secret acts. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The ruin is sacred or taboo to nearby communities. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The ruin is the delicate linchpin of a vital local structure. --1 --
+!import-table --godbound-challenge-convincing_someone --hide
+!import-table-item --godbound-challenge-convincing_someone --An enemy is poisoning their mind against the PCs. --1 --
+!import-table-item --godbound-challenge-convincing_someone --The NPC is afraid of the consequences of cooperating. --1 --
+!import-table-item --godbound-challenge-convincing_someone --The NPC just doesn't like the PC, resenting them. --1 --
+!import-table-item --godbound-challenge-convincing_someone --The NPC wants a favor that the PCs just can't do. --1 --
+!import-table-item --godbound-challenge-convincing_someone --They blame the PC or their associates for some problem. --1 --
+!import-table-item --godbound-challenge-convincing_someone --They want exorbitant payment or help before aiding. --1 --
+!import-table-item --godbound-challenge-convincing_someone --They're deeply mistaken about the PCs' motivation.. --1 --
+!import-table-item --godbound-challenge-convincing_someone --They're easy to convince, but hopelessly incompetent. --1 --
+!import-table-item --godbound-challenge-convincing_someone --They're easy to convince, but misunderstand the PCs. --1 --
+!import-table-item --godbound-challenge-convincing_someone --They're not really the person who must be convinced. --1 --
+!import-table-item --godbound-challenge-convincing_someone --They're totally distracted by a current problem. --1 --
+!import-table-item --godbound-challenge-convincing_someone --Working with the NPC means infuriating a dire foe. --1 --
+!import-table --godbound-challenge-finding_a_thing --hide
+!import-table-item --godbound-challenge-finding_a_thing --A friendly ally has it but desperately needs to keep it. --1 --
+!import-table-item --godbound-challenge-finding_a_thing --Local rulers have reason to keep the PCs away from it. --1 --
+!import-table-item --godbound-challenge-finding_a_thing --Some powerful foe is currently hunting the thing. --1 --
+!import-table-item --godbound-challenge-finding_a_thing --The map or lead to the thing is in widely-scattered parts. --1 --
+!import-table-item --godbound-challenge-finding_a_thing --The only one who knows where it is hates the PCs. --1 --
+!import-table-item --godbound-challenge-finding_a_thing --The thing can only be had in a narrow time window. --1 --
+!import-table-item --godbound-challenge-finding_a_thing --The thing has a decoy that’s actually a trap. --1 --
+!import-table-item --godbound-challenge-finding_a_thing --The thing is actually totally different from what it seems. --1 --
+!import-table-item --godbound-challenge-finding_a_thing --The thing is held by a powerful foe who keeps it secret. --1 --
+!import-table-item --godbound-challenge-finding_a_thing --The thing moves constantly, so locations go stale rapidly. --1 --
+!import-table-item --godbound-challenge-finding_a_thing --The thing’s far harder to get rid of than to acquire. --1 --
+!import-table-item --godbound-challenge-finding_a_thing --There are many examples of the thing, all but one fake. --1 --
+!import-table --godbound-challenge-killing_a_monster --hide
+!import-table-item --godbound-challenge-killing_a_monster --A failed attempt would bring disastrous consequences. --1 --
+!import-table-item --godbound-challenge-killing_a_monster --Getting at it requires opening its prison or sealed lair. --1 --
+!import-table-item --godbound-challenge-killing_a_monster --It has a swarm of spawn or loyal servitors to guard it. --1 --
+!import-table-item --godbound-challenge-killing_a_monster --Killing it would produce an immediate magical disaster. --1 --
+!import-table-item --godbound-challenge-killing_a_monster --Killing the thing requires a secret preparation or item. --1 --
+!import-table-item --godbound-challenge-killing_a_monster --Locals placate the thing with sacrifices and fear its anger. --1 --
+!import-table-item --godbound-challenge-killing_a_monster --The creature always flees a fight it’s not sure it will win. --1 --
+!import-table-item --godbound-challenge-killing_a_monster --The creature has hostages or prisoners in its lair. --1 --
+!import-table-item --godbound-challenge-killing_a_monster --The creature is extremely hard to locate or identify. --1 --
+!import-table-item --godbound-challenge-killing_a_monster --The creature is sacred to a powerful community. --1 --
+!import-table-item --godbound-challenge-killing_a_monster --The entity holds back a dire consequence by existing. --1 --
+!import-table-item --godbound-challenge-killing_a_monster --The local ruler is tied to its life or continuing power. --1 --
+!import-table --godbound-challenge-rallying_a_group --hide
+!import-table-item --godbound-challenge-rallying_a_group --A holy place has been seized by enemies or disaster. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --A leader has been discredited but still tries to rule. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --An inspiring relic or talisman has been lost to dire foes. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --Bare survival concerns them more than the PCs’ wishes. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --Desperately-needed allies refuse to come to their aid. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --Former internal strife has reduced them to misery. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --Their leaders are too weak or poor to aid their people. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --Their leadership has been systematically exterminated. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --They’re convinced divine displeasure scourges them. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --They’ve been utterly crushed by their rivals. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --Trusted friends have betrayed them to their enemies. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --Trusted leaders are imprisoned or lost. --1 --
+!import-table --godbound-challenge-resolving_a_conflict --hide
+!import-table-item --godbound-challenge-resolving_a_conflict --A major line of business has grown around the conflict. --1 --
+!import-table-item --godbound-challenge-resolving_a_conflict --A single gadfly is driving most of the conflict. --1 --
+!import-table-item --godbound-challenge-resolving_a_conflict --Deeds in the fight are what legitimizes their leadership. --1 --
+!import-table-item --godbound-challenge-resolving_a_conflict --Each side claims ownership of a now-lost relic of rule. --1 --
+!import-table-item --godbound-challenge-resolving_a_conflict --If united, the group would be a menace to others. --1 --
+!import-table-item --godbound-challenge-resolving_a_conflict --Old debts of blood or land are preventing resolution. --1 --
+!import-table-item --godbound-challenge-resolving_a_conflict --One sub-group is bitterly set on bloody revenge. --1 --
+!import-table-item --godbound-challenge-resolving_a_conflict --The conflict is driven by religious differences. --1 --
+!import-table-item --godbound-challenge-resolving_a_conflict --The conflict is extremely lucrative for a third party. --1 --
+!import-table-item --godbound-challenge-resolving_a_conflict --The leaders fear they’d be deposed if the conflict ended. --1 --
+!import-table-item --godbound-challenge-resolving_a_conflict --The less sympathetic side is actually basically justified. --1 --
+!import-table-item --godbound-challenge-resolving_a_conflict --They’re disputing over a vital, genuinely limited resource. --1 --
+!import-table --godbound-challenge-sneaking_or_stealing --hide
+!import-table-item --godbound-challenge-sneaking_or_stealing --A map or location needs to be stolen first to find it. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --It’s in an extremely remote and inaccessible place. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --It’s toxic or dangerous to illicit intruders or thieves. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --Its entrances and exits are one-way or shifting. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --Its known infiltration or loss would cause social chaos. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --The area is constantly occupied by people or beasts. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --The area is heavily warded with magical defenses. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --The object or location moves around secretly. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --The seeming perils are not the real dangers there. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --Theft or infiltration would infuriate a dangerous foe. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --There are decoy objects or locations, heavily trapped. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --There is a critical time pressure on theft or infiltration. --1 --
+!import-table --godbound-challenge-undoing_an_enchantment --hide
+!import-table-item --godbound-challenge-undoing_an_enchantment --A local faith uses it as evidence of its truth and rights. --1 --
+!import-table-item --godbound-challenge-undoing_an_enchantment --A particular magical entity must die to lift it. --1 --
+!import-table-item --godbound-challenge-undoing_an_enchantment --A powerful local is making money off it somehow. --1 --
+!import-table-item --godbound-challenge-undoing_an_enchantment --It persists as long as a particular family still rules. --1 --
+!import-table-item --godbound-challenge-undoing_an_enchantment --It’s coming from something in a dangerous ancient ruin. --1 --
+!import-table-item --godbound-challenge-undoing_an_enchantment --It’s keeping a dire enemy at bay with its presence. --1 --
+!import-table-item --godbound-challenge-undoing_an_enchantment --Local society has become symbiotic with it in a way. --1 --
+!import-table-item --godbound-challenge-undoing_an_enchantment --The secret for undoing it is kept in a lost magic library. --1 --
+!import-table-item --godbound-challenge-undoing_an_enchantment --The secret of its dispelling is of military value to a rival. --1 --
+!import-table-item --godbound-challenge-undoing_an_enchantment --Things will be very bad for a few years after its undoing. --1 --
+!import-table-item --godbound-challenge-undoing_an_enchantment --Undoing it also undoes a benefit to a neighboring group. --1 --
+!import-table-item --godbound-challenge-undoing_an_enchantment --Undoing it requires traveling far to a dangerous place. --1 --
+!import-table --godbound-factions-goals-despotic_tyrants --hide
+!import-table-item --godbound-factions-goals-despotic_tyrants --Enact a change dedicated solely to glorifying the tyrant, one that's totally useless as a Feature. --1 --
+!import-table-item --godbound-factions-goals-despotic_tyrants --Inflict a military defeat on a troublesome rival, doing at least one point of Coherence or Problem damage. --1 --
+!import-table-item --godbound-factions-goals-despotic_tyrants --Eliminate a point of Problem related to resistance to the despot's rule. --1 --
+!import-table-item --godbound-factions-goals-despotic_tyrants --Enact a change to create a Feature that's exceptionally useful for rooting out internal dissidents. --1 --
+!import-table-item --godbound-factions-goals-despotic_tyrants --Expand the faction's reach, either by annexing unclaimed land as an Improbable change or seizing a foe. --1 --
+!import-table --godbound-factions-goals-martial_conquerors --hide
+!import-table-item --godbound-factions-goals-martial_conquerors --Beat down a smaller, weaker rival into either a supine tributary state or a smoking pile of wreckage. --1 --
+!import-table-item --godbound-factions-goals-martial_conquerors --Build or expand a military Feature, one designed to threaten a specific neighboring rival. --1 --
+!import-table-item --godbound-factions-goals-martial_conquerors --Build half the maximum possible Interest in the rival they're most likely to next invade. --1 --
+!import-table-item --godbound-factions-goals-martial_conquerors --Solve a point of Problems related to military difficulties or inefficiencies in the state. --1 --
+!import-table-item --godbound-factions-goals-martial_conquerors --Use a non-military Feature to Coerce a Rival into losing one of their military Features. --1 --
+!import-table --godbound-factions-goals-self_absorbed_survivors --hide
+!import-table-item --godbound-factions-goals-self_absorbed_survivors --Take no external actions for as long as possible, at least until targeted by a Coerce a Rival action by a foe. --1 --
+!import-table-item --godbound-factions-goals-self_absorbed_survivors --Solve one point worth of Problems, prioritizing those that have to do with external entanglements. --1 --
+!import-table-item --godbound-factions-goals-self_absorbed_survivors --Enact a Change to create a Feature that's useful for maintaining their survival against outside powers. --1 --
+!import-table-item --godbound-factions-goals-self_absorbed_survivors --Stockpile Dominion for future use, accumulating twice as many points as the faction's Power. --1 --
+!import-table-item --godbound-factions-goals-self_absorbed_survivors --Coerce a Rival with a non-military Feature in an attempt to bloodlessly deny them some external ambition. --1 --
+!import-table --godbound-factions-goals-scheming_manipulators --hide
+!import-table-item --godbound-factions-goals-scheming_manipulators --Build the maximum possible Interest in the most likely foreign rival or threat. --1 --
+!import-table-item --godbound-factions-goals-scheming_manipulators --Increase the Problems of a rival by at least one point using non-overt Features to do it. --1 --
+!import-table-item --godbound-factions-goals-scheming_manipulators --Convince another faction to act on your behalf by threats or offered Aid an Ally actions. --1 --
+!import-table-item --godbound-factions-goals-scheming_manipulators --Enact a Change to create a Feature that looks harmless, but will be used for self-aggrandizing ends. --1 --
+!import-table-item --godbound-factions-goals-scheming_manipulators --Lessen a Problem by means of a non-military Feature, solving it through some cunning plot. --1 --
+!import-table --godbound-factions-features-cultural_features --hide
+!import-table-item --godbound-factions-features-cultural_features --A habit of guile aids them in secret schemes --1 --
+!import-table-item --godbound-factions-features-cultural_features --A profound sage and their disciples live there --1 --
+!import-table-item --godbound-factions-features-cultural_features --A religious cult is absolutely loyal to the rulers --1 --
+!import-table-item --godbound-factions-features-cultural_features --A school there teaches to great fame elsewhere --1 --
+!import-table-item --godbound-factions-features-cultural_features --A sense of honor protects against conspiracies --1 --
+!import-table-item --godbound-factions-features-cultural_features --A strong missionary religion is headquartered there --1 --
+!import-table-item --godbound-factions-features-cultural_features --An exquisite art is crafted only by them --1 --
+!import-table-item --godbound-factions-features-cultural_features --Disputes are peaceful and open rather than bloody --1 --
+!import-table-item --godbound-factions-features-cultural_features --Medical and hygienic knowledge is excellent there --1 --
+!import-table-item --godbound-factions-features-cultural_features --People trust each other and merit that trust --1 --
+!import-table-item --godbound-factions-features-cultural_features --Some religious or social service is only had there --1 --
+!import-table-item --godbound-factions-features-cultural_features --The people have faith in their leaders' wisdom --1 --
+!import-table-item --godbound-factions-features-cultural_features --The rulers have enormous historical legitimacy --1 --
+!import-table-item --godbound-factions-features-cultural_features --Their cultural prestige attracts many visitors --1 --
+!import-table-item --godbound-factions-features-cultural_features --Their people are famed for seductive charm --1 --
+!import-table-item --godbound-factions-features-cultural_features --They are a well-educated and rational people --1 --
+!import-table-item --godbound-factions-features-cultural_features --They have adamant confidence in their customs --1 --
+!import-table-item --godbound-factions-features-cultural_features --They're united in a spirit of shared sacrifice --1 --
+!import-table-item --godbound-factions-features-cultural_features --They've a musical or performance tradition of fame --1 --
+!import-table-item --godbound-factions-features-cultural_features --Useful exiles and usurpers find safety there --1 --
+!import-table--godbound-factions-features-economic_features --hide
+!import-table-item --godbound-factions-features-economic_features --A great merchant prince is part of the group --1 --
+!import-table-item --godbound-factions-features-economic_features --A large supply of some rare resource is there --1 --
+!import-table-item --godbound-factions-features-economic_features --A lineage of magically-gifted artisans is there --1 --
+!import-table-item --godbound-factions-features-economic_features --A magical blessing produces a kind of wealth --1 --
+!import-table-item --godbound-factions-features-economic_features --A useful industry has many artisans working there --1 --
+!import-table-item --godbound-factions-features-economic_features --All walks of life are efficiently employed there --1 --
+!import-table-item --godbound-factions-features-economic_features --An ancient factory produces something rare --1 --
+!import-table-item --godbound-factions-features-economic_features --Artisan guilds exist and are all obedient to the rulers --1 --
+!import-table-item --godbound-factions-features-economic_features --Many groups owe them a great deal of money --1 --
+!import-table-item --godbound-factions-features-economic_features --The people have a very rich standard of living --1 --
+!import-table-item --godbound-factions-features-economic_features --The rulers can easily raise taxes without strife --1 --
+!import-table-item --godbound-factions-features-economic_features --Their banking connections summon gold at need --1 --
+!import-table-item --godbound-factions-features-economic_features --Their land is remarkably rich and fertile --1 --
+!import-table-item --godbound-factions-features-economic_features --They are skilled at smuggling and its prevention --1 --
+!import-table-item --godbound-factions-features-economic_features --They endure hardship and want without complaint --1 --
+!import-table-item --godbound-factions-features-economic_features --They have great funds of stored wealth --1 --
+!import-table-item --godbound-factions-features-economic_features --They have multiple trade pacts with neighbors --1 --
+!import-table-item --godbound-factions-features-economic_features --They have vast herds of livestock and horses --1 --
+!import-table-item --godbound-factions-features-economic_features --They make goods other locations can't produce --1 --
+!import-table-item --godbound-factions-features-economic_features --They produce an addictive pleasure for export --1 --
+!import-table --godbound-factions-features-military_features --hide
+!import-table-item --godbound-factions-features-military_features --A band of mercenaries is loyal to the ruler's coin --1 --
+!import-table-item --godbound-factions-features-military_features --A chokehold exists on a militarily-critical pass or river --1 --
+!import-table-item --godbound-factions-features-military_features --A magical beast or similar entity fights for the faction --1 --
+!import-table-item --godbound-factions-features-military_features --A mighty refuge they have is reputed to be untakeable --1 --
+!import-table-item --godbound-factions-features-military_features --A particular lineage of locals has tremendous prowess --1 --
+!import-table-item --godbound-factions-features-military_features --A protective blessing blights hostile invaders --1 --
+!import-table-item --godbound-factions-features-military_features --A tradition of martial prowess is honored by the people --1 --
+!import-table-item --godbound-factions-features-military_features --Excellent scouts alert them in time to respond --1 --
+!import-table-item --godbound-factions-features-military_features --Exceptional fortifications exist around vital points --1 --
+!import-table-item --godbound-factions-features-military_features --Old defenses were built along the usual invasion lines --1 --
+!import-table-item --godbound-factions-features-military_features --The faction has a corps of fighters with odd weapons --1 --
+!import-table-item --godbound-factions-features-military_features --Their forces mobilize and respond with extreme speed --1 --
+!import-table-item --godbound-factions-features-military_features --They have a small but extremely proficient military --1 --
+!import-table-item --godbound-factions-features-military_features --They have masses of shoddy but expendable troops --1 --
+!import-table-item --godbound-factions-features-military_features --They have very mobile troops, via horse or vehicle --1 --
+!import-table-item --godbound-factions-features-military_features --They've a guerrilla tradition that invaders dread facing --1 --
+!import-table-item --godbound-factions-features-military_features --They've a well-trained group of professional soldiers --1 --
+!import-table-item --godbound-factions-features-military_features --They've an old alliance with a major local military force --1 --
+!import-table-item --godbound-factions-features-military_features --They've caches of advanced weaponry, possibly magic --1 --
+!import-table-item --godbound-factions-features-military_features --They've protective pacts with a mighty entity --1 --
+!import-table --godbound-factions-problems-cultural_problems --hide
+!import-table-item --godbound-factions-problems-cultural_problems --A hostile neighbor propagandizes the faction's people --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --A local religion is pushing for a very bad idea --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --A local religion makes constant, painful demands --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --A sub-group is convinced it should be ruling the polity --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --A sub-group nurses a bitter grudge against the rulers --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --A tedious local custom slows and hinders projects --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --Decadent leadership is always seeking new vices --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --Ethnic strife boils up on a regular basis in the faction --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --Idealistic reformers are tearing down vital institutions --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --Leadership is divided between uncooperative rivals --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --Multiple religious factions are always feuding --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --The commoners are ignorant, brutish, and venal --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --The faction lacks confidence and falls easily into despair --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --The local nobility is corrupt and does anything for cash --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --The people demand the rulers seek an impossible goal --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --The rulers are blindly convinced of their own wisdom --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --The rulers have very little actual control over the people --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --The ruling class is impressively incompetent --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --Their neighbors send agents to destabilize them --1 --
+!import-table-item --godbound-factions-problems-cultural_problems --Two or more castes are constantly fighting each other --1 --
+!import-table --godbound-factions-problems-economic_problems --hide
+!import-table-item --godbound-factions-problems-economic_problems --A major chunk of the populace is kept nonproductive --1 --
+!import-table-item --godbound-factions-problems-economic_problems --A major religion teaches scorn for material goods --1 --
+!import-table-item --godbound-factions-problems-economic_problems --A parasite class has the right to loot the faction's wealth --1 --
+!import-table-item --godbound-factions-problems-economic_problems --Guilds are both strong and careless of the faction's need --1 --
+!import-table-item --godbound-factions-problems-economic_problems --Productive work is sneered at as base and contemptible --1 --
+!import-table-item --godbound-factions-problems-economic_problems --Religious tithes or customary taxes beggar many --1 --
+!import-table-item --godbound-factions-problems-economic_problems --Ritual demands and sacrifices cripple local industry --1 --
+!import-table-item --godbound-factions-problems-economic_problems --Technical expertise is jealously guarded by its keepers --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The faction has a social structure that creates poverty --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The faction has very little cash in circulation --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The faction is desperately short of natural resources --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The faction is paying off a crippling foreign debt --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The faction's technology is extremely backward --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The local currency is debased and near-worthless --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The most productive sub-group is scorned and despised --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The people enviously pull down the successful --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The rulers are trying to run the economy, badly --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The rulers keep wasting wealth on selfish indulgence --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The wealthy and the rulers are in constant conflict --1 --
+!import-table-item --godbound-factions-problems-economic_problems --Vital production relies on a restive serf or slave class --1 --
+!import-table --godbound-factions-problems-military_problems --hide
+!import-table-item --godbound-factions-problems-military_problems --A grasping noble is embezzling vital military funds --1 --
+!import-table-item --godbound-factions-problems-military_problems --A rival power is launching deniable raids --1 --
+!import-table-item --godbound-factions-problems-military_problems --A terrible monster scourges the faction --1 --
+!import-table-item --godbound-factions-problems-military_problems --Bandits are plaguing the faction's periphery --1 --
+!import-table-item --godbound-factions-problems-military_problems --Hostile migrants seek to claim land in the polity --1 --
+!import-table-item --godbound-factions-problems-military_problems --Mercenaries are running amok after not being paid --1 --
+!import-table-item --godbound-factions-problems-military_problems --Rebel guerrillas are striking deep within the faction --1 --
+!import-table-item --godbound-factions-problems-military_problems --Soldiers have been used as workers until they can't fight --1 --
+!import-table-item --godbound-factions-problems-military_problems --The army extorts the citizenry like a pack of bandits --1 --
+!import-table-item --godbound-factions-problems-military_problems --The army has a reason to hate the current rulers --1 --
+!import-table-item --godbound-factions-problems-military_problems --The army is led by a discreet would-be usurper of rule --1 --
+!import-table-item --godbound-factions-problems-military_problems --The army is led by an irreplaceable well-born idiot --1 --
+!import-table-item --godbound-factions-problems-military_problems --The army is so disorganized that it's near-useless --1 --
+!import-table-item --godbound-factions-problems-military_problems --The army is so underfunded it's practically starving --1 --
+!import-table-item --godbound-factions-problems-military_problems --The army's hidebound with antiquated gear and habits --1 --
+!import-table-item --godbound-factions-problems-military_problems --The faction holds soldiers and warfare in contempt --1 --
+!import-table-item --godbound-factions-problems-military_problems --The military is broken into mutually-hostile factions --1 --
+!import-table-item --godbound-factions-problems-military_problems --The military is locked in constant low-level policing --1 --
+!import-table-item --godbound-factions-problems-military_problems --The military lacks morale after a terrible defeat --1 --
+!import-table-item --godbound-factions-problems-military_problems --The elite are painfully reluctant to employ needed force --1 --
+!import-table --godbound-foes-movement_options --hide
+!import-table-item --godbound-foes-movement_options --It moves through conventional walking or running. Optionally, choose an adjective to flavor your description of its movement, such as skittering, loping, crawling, lurching, pouncing, or gliding --1 --
+!import-table-item --godbound-foes-movement_options --It flies, whether by physical wings, visible currents of energy, or seemingly sourceless levitation. Natural creatures will usually have to land to fight, or else rely on swooping dives that might make them immune to melee counter-attacks unless the victim waits to strike --1 --
+!import-table-item --godbound-foes-movement_options --It teleports. Some creatures simply vanish from one place and appear at another within range. Others move through a specific medium, such as leaping into one shadow and emerging from another. Some might be able to appear in special surroundings, such as a prepared location. A few might be called by particular rituals, or even appear in the presence of a specific thought --1 --
+!import-table-item --godbound-foes-movement_options --The creature is effectively immobile, either too slow to move meaningfully in combat or actually fixed in place. Some creatures might be restricted to a very narrow area by magic or necessity. The creature will need ranged attack options or an environment that forces melee engagement if it’s to prove a significant challenge --1 --
+!import-table-item --godbound-foes-movement_options --It inhabits an unusual medium, whether swimming through water or navigating through clouds of fire, passing through stone walls, or existing only in areas of darkness. Some creatures may have a different means of ordinary movement, but can treat this particular medium as easily passable --1 --
+!import-table-item --godbound-foes-movement_options --It moves abruptly from place to place, but passes through the space between. It might shoot weblines and swing around, or jump rapidly to locations within sight, or move with tremendous speed from one spot to another. Some creatures might require a particular medium between these locations, such as an unbroken body of water or cloud of smoke --1 --
+!import-table --godbound-foes-attack_paterns --hide
+!import-table-item --godbound-foes-attack_paterns --It throws Strong attacks at single targets, or Weak area attacks on several foes. The principle here is that single-target attacks should be stronger than attacks that hit multiple targets. These might be weapon strikes, energy bolts, cleaving blows at nearby enemies, flurries of projectiles, or explosive detonations of energy --1 --
+!import-table-item --godbound-foes-attack_paterns --It assails its last target, stepping the attack up a rank from its normal intensity as its momentum builds --1 --
+!import-table-item --godbound-foes-attack_paterns --It alters the environment in some way to make it a Weak damaging attack to foes within the zone or inflict an Average impairment on them --1 --
+!import-table-item --godbound-foes-attack_paterns --Its attack delivers an impairment one rank stronger for a round if it hits --1 --
+!import-table-item --godbound-foes-attack_paterns --It launches multiple Medium attacks at different targets --1 --
+!import-table-item --godbound-foes-attack_paterns --It launches several Weak attacks at the same target --1 --
+!import-table-item --godbound-foes-attack_paterns --It launches several Strong attacks at an otherwise unharmed opponent --1 --
+!import-table-item --godbound-foes-attack_paterns --It inflicts a Strong impairment on foes in melee range, or lobs it as an area effect on ranged assailants --1 --
+!import-table-item --godbound-foes-attack_paterns --It uses a Strong attack against the last foe to attack it --1 --
+!import-table-item --godbound-foes-attack_paterns --It inflicts a Medium impairment on an area with its powers and gets a free Medium ranged attack on anyone who then leaves the area --1 --
+!import-table --godbound-foes-defensive_abilities --hide
+!import-table-item --godbound-foes-defensive_abilities --The creature's impervious to a type of energy it uses or a particular hazard it employs as an attack --1 --
+!import-table-item --godbound-foes-defensive_abilities --It's so ferocious that damage done to it is deferred by a round, allowing it to keep fighting for a round after being reduced to zero hit dice --1 --
+!import-table-item --godbound-foes-defensive_abilities --It's extremely adaptive, gaining immunity or resistance to the last type of damage it's suffered --1 --
+!import-table-item --godbound-foes-defensive_abilities --In packs, it's superbly coordinated and able to ensure that wounded members are shielded from attacks by uninjured allies --1 --
+!import-table-item --godbound-foes-defensive_abilities --It can coordinate with its allies to gain bonuses to armor class or restrict the number of attacks that can target it in a round --1 --
+!import-table-item --godbound-foes-defensive_abilities --It counterattacks when struck, or produces some noxious consequence for being harmed --1 --
+!import-table-item --godbound-foes-defensive_abilities --It gets faster as it's hurt, gaining extra actions or attacks when reduced below half its maximum hit dice --1 --
+!import-table-item --godbound-foes-defensive_abilities --It can sacrifice actions to throw up a strong defense, gaining an AC bonus or reducing incoming damage --1 --
+!import-table-item --godbound-foes-defensive_abilities --It automatically nullifies certain gifts or magical powers that target it, possibly by Committing Effort --1 --
+!import-table-item --godbound-foes-defensive_abilities --It plays dead or defeated when reduced to zero hit dice, but springs up a few rounds later, healed to a degree --1 --
+!import-table --godbound-foes-weak_impairments --hide
+!import-table-item --godbound-foes-weak_impairments --Hinder divine power. Victim must Commit one Effort for the scene in order to activate their non-Constant gifts or invoke miracles --1 --
+!import-table-item --godbound-foes-weak_impairments --Slow movement. Victim’s movement speed is cut by half --1 --
+!import-table-item --godbound-foes-weak_impairments --Continuing Damage. Victim takes 1d4 damage each round while the impairment lasts --1 --
+!import-table-item --godbound-foes-weak_impairments --Dull senses. Victim takes -2 to all hit rolls for the duration of the scene --1 --
+!import-table-item --godbound-foes-weak_impairments --Targeting. The assailant gets +4 to hit the victim so long as they don’t attack anyone else --1 --
+!import-table-item --godbound-foes-weak_impairments --Defense Break. Victim’s armor class worsens by 2 points for the duration of the scene --1 --
+!import-table-item --godbound-foes-weak_impairments --Misfortune. Victim takes a -2 penalty on saving throws --1 --
+!import-table-item --godbound-foes-weak_impairments --Dazing. Victim always acts at the end of the round --1 --
+!import-table-item --godbound-foes-weak_impairments --Enervation. Victim takes 1d6 damage from exhaustion if they try to do anything vigorous --1 --
+!import-table-item --godbound-foes-weak_impairments --Impair healing. Victim cannot regain hit points for the duration of the scene --1 --
+!import-table --godbound-foes-medium_impairments --hide
+!import-table-item --godbound-foes-medium_impairments --Block divine power. Victim must Commit Effort for the scene every time they activate a non-Constant gift --1 --
+!import-table-item --godbound-foes-medium_impairments --Pin. Victim can’t move under physical power. Optionally, it may instead block supernatural or abnormal movement modes. The victim can still act in place --1 --
+!import-table-item --godbound-foes-medium_impairments --Severe Continuing Damage. The impairment inflicts 1d8 damage each round --1 --
+!import-table-item --godbound-foes-medium_impairments --Blind. Victim rolls all attacks twice and takes the worse hit roll. Their assailants roll twice and take the best --1 --
+!import-table-item --godbound-foes-medium_impairments --Exposure. The victim’s armor class becomes 9 for the scene's duration --1 --
+!import-table-item --godbound-foes-medium_impairments --Stun. Victim must make an appropriate saving throw to take any action on a round --1 --
+!import-table-item --godbound-foes-medium_impairments --Curse. Victim rolls saving throws twice and takes the worse result --1 --
+!import-table-item --godbound-foes-medium_impairments --Compulsion. Victim takes 1d10 damage if they do anything except a particular action that round --1 --
+!import-table-item --godbound-foes-medium_impairments --Vulnerability. Victim takes double damage from an attack type used by the assailant --1 --
+!import-table-item --godbound-foes-medium_impairments --Susceptible. Damage on the victim is rolled twice, and the larger result is taken --1 --
+!import-table --godbound-foes-strong_impairments --hide
+!import-table-item --godbound-foes-strong_impairments --Seal divine power. Victim must Commit Effort for the scene each time they activate a non-Constant gift or miracle, and also takes a 1d10 damage die each time --1 --
+!import-table-item --godbound-foes-strong_impairments --Scathe. Victim always takes the maximum possible result on damage rolls --1 --
+!import-table-item --godbound-foes-strong_impairments --Lethal Continuing Damage. Victim takes a 1d12 damage die at the start of each round --1 --
+!import-table-item --godbound-foes-strong_impairments --Subvert. Victim is controlled by assailant if they fail a relevant saving throw. Usually, a new save is allowed each round --1 --
+!import-table-item --godbound-foes-strong_impairments --Fated Injury. Attacks always hit the victim unless fended off with magic --1 --
+!import-table-item --godbound-foes-strong_impairments --Incapacitate. Victim can’t take any action at all --1 --
+!import-table-item --godbound-foes-strong_impairments --Doom. Victim is always treated as rolling a failure on saving throws unless they spend Effort to auto-succeed --1 --
+!import-table-item --godbound-foes-strong_impairments --Sap. Victim takes a 1d20 damage die each round they take any action at all --1 --
+!import-table-item --godbound-foes-strong_impairments --Barrier. The victim can’t attack assailant --1 --
+!import-table-item --godbound-foes-strong_impairments --Leech. Hit points lost by the victim are gained by the assailant --1 --
+!import-table --godbound-treasure-descriptor_of_the_treasure --hide
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Ancient. The loot dates back before the Last War. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Artwork. It's sculpture, painting, or other art. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Clothing. It's a piece of clothing or vestments. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Coinage. It's largely in coins of precious metal. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Consumable. It's something the user consumes. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Cryptic. The loot doesn't actually look valuable. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Data. The loot is actually information of value. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Exotic. It's something not found at all around here. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Famous. It's a locally-famous object of great worth. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Forbidden. The loot is illegal for some reason. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Jeweled. Large or extremely rare jewels are involved. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Magic. Some minor but valuable magic is involved. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Masterwork. A famous artisan crafted it. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Owned. Someone else around here has a claim on it. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Partial. Its real value exists only with all other parts. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Regalia. It's important regalia to a local noble family. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Religious. It's important to a major local faith. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Toxic. It harms its owner somehow if held long --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Vile. It's horrible somehow, but only has value intact. --1 --
+!import-table-item --godbound-treasure-descriptor_of_the_treasure --Wood. It's of a rare wood or exotic plant matter. --1 --
+!import-table --godbound-treasure-the_origin_of_the_treasure --hide
+!import-table-item --godbound-treasure-the_origin_of_the_treasure --Hidden by an original occupant of the place --1 --
+!import-table-item --godbound-treasure-the_origin_of_the_treasure --Brought in by a later inhabitant --1 --
+!import-table-item --godbound-treasure-the_origin_of_the_treasure --Stolen from the surrounding locals --1 --
+!import-table-item --godbound-treasure-the_origin_of_the_treasure --Unearthed or crafted here on-site by inhabitants --1 --
+!import-table-item --godbound-treasure-the_origin_of_the_treasure --Payment for some service the owner rendered --1 --
+!import-table-item --godbound-treasure-the_origin_of_the_treasure --Tribute to the owner from minions or vassals --1 --
+!import-table --godbound-treasure-the_bulk_of_the_treasure --hide
+!import-table-item --godbound-treasure-the_bulk_of_the_treasure --Compact. The treasure consists of a single object or container that's easily carried by a person. --1 --
+!import-table-item --godbound-treasure-the_bulk_of_the_treasure --Bulky. The treasure is heavy or awkward. A person can carry it, but it'll take both hands. --1 --
+!import-table-item --godbound-treasure-the_bulk_of_the_treasure --Vast. The treasure is much too bulky or scattered for a person to carry it. A wagon or other transport must be used. --1 --
+!import-table-item --godbound-treasure-the_bulk_of_the_treasure --Attached. The treasure is an object that is physically attached to some part of the architecture, and something bad will happen if it's pried loose. --1 --
+!import-table-item --godbound-treasure-the_bulk_of_the_treasure --Fragile. A single person can carry the treasure, but if it's put down rapidly or the bearer is hit, it's likely to be smashed and made much less valuable. --1 --
+!import-table --godbound-treasure-the_treasures_defenses --hide
+!import-table-item --godbound-treasure-the_treasures_defenses --Sturdy, well-sealed container. --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --Hidden carefully in the owner's territory --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --Guardian beast left to keep out thieves --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --Magical ward that curses or detonates on thieves --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --Behind a door or barrier only the owner can pass --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --Intelligent guards that serve the owner --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --Fake or bait treasure is left to trick thieves --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --Removing it triggers a mechanical trap --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --An alarm triggered by magic, mechanism, or guards --1 --
+!import-table-item --godbound-treasure-the_treasures_defenses --Abject terror of the owner dissuades the locals --1 --
+!import-table --godbound-treasure-who_wants_the_treasure --hide
+!import-table-item --godbound-treasure-who_wants_the_treasure --Its former owner, a denizen of the ruin --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --The local human whom it was stolen from --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --Heirs to the victim of its theft --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --Local temple, which it once belonged to --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --Government official, taxman, or other exciseman --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --Supernatural entity bound to the loot --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --Local noble who owned or thinks he should own it --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --A greedy local ruin denizen who knows of it --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --The local ruin's boss, who wants it as tribute --1 --
+!import-table-item --godbound-treasure-who_wants_the_treasure --A desperate human thief who wants to steal it --1 --

@@ -1,15 +1,3 @@
-!import-table --godbound-factions-goals-self_absorbed_survivors --hide
-!import-table-item --godbound-factions-goals-self_absorbed_survivors --Take no external actions for as long as possible, at least until targeted by a Coerce a Rival action by a foe. --1 --
-!import-table-item --godbound-factions-goals-self_absorbed_survivors --Solve one point worth of Problems, prioritizing those that have to do with external entanglements. --1 --
-!import-table-item --godbound-factions-goals-self_absorbed_survivors --Enact a Change to create a Feature that's useful for maintaining their survival against outside powers. --1 --
-!import-table-item --godbound-factions-goals-self_absorbed_survivors --Stockpile Dominion for future use, accumulating twice as many points as the faction's Power. --1 --
-!import-table-item --godbound-factions-goals-self_absorbed_survivors --Coerce a Rival with a non-military Feature in an attempt to bloodlessly deny them some external ambition. --1 --
-!import-table --godbound-factions-goals-scheming_manipulators --hide
-!import-table-item --godbound-factions-goals-scheming_manipulators --Build the maximum possible Interest in the most likely foreign rival or threat. --1 --
-!import-table-item --godbound-factions-goals-scheming_manipulators --Increase the Problems of a rival by at least one point using non-overt Features to do it. --1 --
-!import-table-item --godbound-factions-goals-scheming_manipulators --Convince another faction to act on your behalf by threats or offered Aid an Ally actions. --1 --
-!import-table-item --godbound-factions-goals-scheming_manipulators --Enact a Change to create a Feature that looks harmless, but will be used for self-aggrandizing ends. --1 --
-!import-table-item --godbound-factions-goals-scheming_manipulators --Lessen a Problem by means of a non-military Feature, solving it through some cunning plot. --1 --
 !import-table --godbound-factions-goals-despotic_tyrants --hide
 !import-table-item --godbound-factions-goals-despotic_tyrants --Enact a change dedicated solely to glorifying the tyrant, one that's totally useless as a Feature. --1 --
 !import-table-item --godbound-factions-goals-despotic_tyrants --Inflict a military defeat on a troublesome rival, doing at least one point of Coherence or Problem damage. --1 --
@@ -22,27 +10,18 @@
 !import-table-item --godbound-factions-goals-martial_conquerors --Build half the maximum possible Interest in the rival they're most likely to next invade. --1 --
 !import-table-item --godbound-factions-goals-martial_conquerors --Solve a point of Problems related to military difficulties or inefficiencies in the state. --1 --
 !import-table-item --godbound-factions-goals-martial_conquerors --Use a non-military Feature to Coerce a Rival into losing one of their military Features. --1 --
-!import-table--godbound-factions-features-economic_features --hide
-!import-table-item --godbound-factions-features-economic_features --A great merchant prince is part of the group --1 --
-!import-table-item --godbound-factions-features-economic_features --A large supply of some rare resource is there --1 --
-!import-table-item --godbound-factions-features-economic_features --A lineage of magically-gifted artisans is there --1 --
-!import-table-item --godbound-factions-features-economic_features --A magical blessing produces a kind of wealth --1 --
-!import-table-item --godbound-factions-features-economic_features --A useful industry has many artisans working there --1 --
-!import-table-item --godbound-factions-features-economic_features --All walks of life are efficiently employed there --1 --
-!import-table-item --godbound-factions-features-economic_features --An ancient factory produces something rare --1 --
-!import-table-item --godbound-factions-features-economic_features --Artisan guilds exist and are all obedient to the rulers --1 --
-!import-table-item --godbound-factions-features-economic_features --Many groups owe them a great deal of money --1 --
-!import-table-item --godbound-factions-features-economic_features --The people have a very rich standard of living --1 --
-!import-table-item --godbound-factions-features-economic_features --The rulers can easily raise taxes without strife --1 --
-!import-table-item --godbound-factions-features-economic_features --Their banking connections summon gold at need --1 --
-!import-table-item --godbound-factions-features-economic_features --Their land is remarkably rich and fertile --1 --
-!import-table-item --godbound-factions-features-economic_features --They are skilled at smuggling and its prevention --1 --
-!import-table-item --godbound-factions-features-economic_features --They endure hardship and want without complaint --1 --
-!import-table-item --godbound-factions-features-economic_features --They have great funds of stored wealth --1 --
-!import-table-item --godbound-factions-features-economic_features --They have multiple trade pacts with neighbors --1 --
-!import-table-item --godbound-factions-features-economic_features --They have vast herds of livestock and horses --1 --
-!import-table-item --godbound-factions-features-economic_features --They make goods other locations can't produce --1 --
-!import-table-item --godbound-factions-features-economic_features --They produce an addictive pleasure for export --1 --
+!import-table --godbound-factions-goals-self_absorbed_survivors --hide
+!import-table-item --godbound-factions-goals-self_absorbed_survivors --Take no external actions for as long as possible, at least until targeted by a Coerce a Rival action by a foe. --1 --
+!import-table-item --godbound-factions-goals-self_absorbed_survivors --Solve one point worth of Problems, prioritizing those that have to do with external entanglements. --1 --
+!import-table-item --godbound-factions-goals-self_absorbed_survivors --Enact a Change to create a Feature that's useful for maintaining their survival against outside powers. --1 --
+!import-table-item --godbound-factions-goals-self_absorbed_survivors --Stockpile Dominion for future use, accumulating twice as many points as the faction's Power. --1 --
+!import-table-item --godbound-factions-goals-self_absorbed_survivors --Coerce a Rival with a non-military Feature in an attempt to bloodlessly deny them some external ambition. --1 --
+!import-table --godbound-factions-goals-scheming_manipulators --hide
+!import-table-item --godbound-factions-goals-scheming_manipulators --Build the maximum possible Interest in the most likely foreign rival or threat. --1 --
+!import-table-item --godbound-factions-goals-scheming_manipulators --Increase the Problems of a rival by at least one point using non-overt Features to do it. --1 --
+!import-table-item --godbound-factions-goals-scheming_manipulators --Convince another faction to act on your behalf by threats or offered Aid an Ally actions. --1 --
+!import-table-item --godbound-factions-goals-scheming_manipulators --Enact a Change to create a Feature that looks harmless, but will be used for self-aggrandizing ends. --1 --
+!import-table-item --godbound-factions-goals-scheming_manipulators --Lessen a Problem by means of a non-military Feature, solving it through some cunning plot. --1 --
 !import-table --godbound-factions-features-cultural_features --hide
 !import-table-item --godbound-factions-features-cultural_features --A habit of guile aids them in secret schemes --1 --
 !import-table-item --godbound-factions-features-cultural_features --A profound sage and their disciples live there --1 --
@@ -64,6 +43,27 @@
 !import-table-item --godbound-factions-features-cultural_features --They're united in a spirit of shared sacrifice --1 --
 !import-table-item --godbound-factions-features-cultural_features --They've a musical or performance tradition of fame --1 --
 !import-table-item --godbound-factions-features-cultural_features --Useful exiles and usurpers find safety there --1 --
+!import-table--godbound-factions-features-economic_features --hide
+!import-table-item --godbound-factions-features-economic_features --A great merchant prince is part of the group --1 --
+!import-table-item --godbound-factions-features-economic_features --A large supply of some rare resource is there --1 --
+!import-table-item --godbound-factions-features-economic_features --A lineage of magically-gifted artisans is there --1 --
+!import-table-item --godbound-factions-features-economic_features --A magical blessing produces a kind of wealth --1 --
+!import-table-item --godbound-factions-features-economic_features --A useful industry has many artisans working there --1 --
+!import-table-item --godbound-factions-features-economic_features --All walks of life are efficiently employed there --1 --
+!import-table-item --godbound-factions-features-economic_features --An ancient factory produces something rare --1 --
+!import-table-item --godbound-factions-features-economic_features --Artisan guilds exist and are all obedient to the rulers --1 --
+!import-table-item --godbound-factions-features-economic_features --Many groups owe them a great deal of money --1 --
+!import-table-item --godbound-factions-features-economic_features --The people have a very rich standard of living --1 --
+!import-table-item --godbound-factions-features-economic_features --The rulers can easily raise taxes without strife --1 --
+!import-table-item --godbound-factions-features-economic_features --Their banking connections summon gold at need --1 --
+!import-table-item --godbound-factions-features-economic_features --Their land is remarkably rich and fertile --1 --
+!import-table-item --godbound-factions-features-economic_features --They are skilled at smuggling and its prevention --1 --
+!import-table-item --godbound-factions-features-economic_features --They endure hardship and want without complaint --1 --
+!import-table-item --godbound-factions-features-economic_features --They have great funds of stored wealth --1 --
+!import-table-item --godbound-factions-features-economic_features --They have multiple trade pacts with neighbors --1 --
+!import-table-item --godbound-factions-features-economic_features --They have vast herds of livestock and horses --1 --
+!import-table-item --godbound-factions-features-economic_features --They make goods other locations can't produce --1 --
+!import-table-item --godbound-factions-features-economic_features --They produce an addictive pleasure for export --1 --
 !import-table --godbound-factions-features-military_features --hide
 !import-table-item --godbound-factions-features-military_features --A band of mercenaries is loyal to the ruler's coin --1 --
 !import-table-item --godbound-factions-features-military_features --A chokehold exists on a militarily-critical pass or river --1 --
@@ -85,27 +85,6 @@
 !import-table-item --godbound-factions-features-military_features --They've an old alliance with a major local military force --1 --
 !import-table-item --godbound-factions-features-military_features --They've caches of advanced weaponry, possibly magic --1 --
 !import-table-item --godbound-factions-features-military_features --They've protective pacts with a mighty entity --1 --
-!import-table --godbound-factions-problems-economic_problems --hide
-!import-table-item --godbound-factions-problems-economic_problems --A major chunk of the populace is kept nonproductive --1 --
-!import-table-item --godbound-factions-problems-economic_problems --A major religion teaches scorn for material goods --1 --
-!import-table-item --godbound-factions-problems-economic_problems --A parasite class has the right to loot the faction's wealth --1 --
-!import-table-item --godbound-factions-problems-economic_problems --Guilds are both strong and careless of the faction's need --1 --
-!import-table-item --godbound-factions-problems-economic_problems --Productive work is sneered at as base and contemptible --1 --
-!import-table-item --godbound-factions-problems-economic_problems --Religious tithes or customary taxes beggar many --1 --
-!import-table-item --godbound-factions-problems-economic_problems --Ritual demands and sacrifices cripple local industry --1 --
-!import-table-item --godbound-factions-problems-economic_problems --Technical expertise is jealously guarded by its keepers --1 --
-!import-table-item --godbound-factions-problems-economic_problems --The faction has a social structure that creates poverty --1 --
-!import-table-item --godbound-factions-problems-economic_problems --The faction has very little cash in circulation --1 --
-!import-table-item --godbound-factions-problems-economic_problems --The faction is desperately short of natural resources --1 --
-!import-table-item --godbound-factions-problems-economic_problems --The faction is paying off a crippling foreign debt --1 --
-!import-table-item --godbound-factions-problems-economic_problems --The faction's technology is extremely backward --1 --
-!import-table-item --godbound-factions-problems-economic_problems --The local currency is debased and near-worthless --1 --
-!import-table-item --godbound-factions-problems-economic_problems --The most productive sub-group is scorned and despised --1 --
-!import-table-item --godbound-factions-problems-economic_problems --The people enviously pull down the successful --1 --
-!import-table-item --godbound-factions-problems-economic_problems --The rulers are trying to run the economy, badly --1 --
-!import-table-item --godbound-factions-problems-economic_problems --The rulers keep wasting wealth on selfish indulgence --1 --
-!import-table-item --godbound-factions-problems-economic_problems --The wealthy and the rulers are in constant conflict --1 --
-!import-table-item --godbound-factions-problems-economic_problems --Vital production relies on a restive serf or slave class --1 --
 !import-table --godbound-factions-problems-cultural_problems --hide
 !import-table-item --godbound-factions-problems-cultural_problems --A hostile neighbor propagandizes the faction's people --1 --
 !import-table-item --godbound-factions-problems-cultural_problems --A local religion is pushing for a very bad idea --1 --
@@ -127,6 +106,27 @@
 !import-table-item --godbound-factions-problems-cultural_problems --The ruling class is impressively incompetent --1 --
 !import-table-item --godbound-factions-problems-cultural_problems --Their neighbors send agents to destabilize them --1 --
 !import-table-item --godbound-factions-problems-cultural_problems --Two or more castes are constantly fighting each other --1 --
+!import-table --godbound-factions-problems-economic_problems --hide
+!import-table-item --godbound-factions-problems-economic_problems --A major chunk of the populace is kept nonproductive --1 --
+!import-table-item --godbound-factions-problems-economic_problems --A major religion teaches scorn for material goods --1 --
+!import-table-item --godbound-factions-problems-economic_problems --A parasite class has the right to loot the faction's wealth --1 --
+!import-table-item --godbound-factions-problems-economic_problems --Guilds are both strong and careless of the faction's need --1 --
+!import-table-item --godbound-factions-problems-economic_problems --Productive work is sneered at as base and contemptible --1 --
+!import-table-item --godbound-factions-problems-economic_problems --Religious tithes or customary taxes beggar many --1 --
+!import-table-item --godbound-factions-problems-economic_problems --Ritual demands and sacrifices cripple local industry --1 --
+!import-table-item --godbound-factions-problems-economic_problems --Technical expertise is jealously guarded by its keepers --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The faction has a social structure that creates poverty --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The faction has very little cash in circulation --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The faction is desperately short of natural resources --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The faction is paying off a crippling foreign debt --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The faction's technology is extremely backward --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The local currency is debased and near-worthless --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The most productive sub-group is scorned and despised --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The people enviously pull down the successful --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The rulers are trying to run the economy, badly --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The rulers keep wasting wealth on selfish indulgence --1 --
+!import-table-item --godbound-factions-problems-economic_problems --The wealthy and the rulers are in constant conflict --1 --
+!import-table-item --godbound-factions-problems-economic_problems --Vital production relies on a restive serf or slave class --1 --
 !import-table --godbound-factions-problems-military_problems --hide
 !import-table-item --godbound-factions-problems-military_problems --A grasping noble is embezzling vital military funds --1 --
 !import-table-item --godbound-factions-problems-military_problems --A rival power is launching deniable raids --1 --

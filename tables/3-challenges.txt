@@ -1,3 +1,14 @@
+!import-table --godbound-challenge-kinds_of_challenges --hide
+!import-table-item --godbound-challenge-kinds_of_challenges --Building a structure or institution in a community. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Changing a custom or law displeasing to the PCs. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Clearing a ruin or other place of danger nearby. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Convincing someone in authority to help the PCs. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Finding a thing critical to the PCs’ goals. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Killing a monster or other powerful, dangerous entity. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Rallying a group that is demoralized or squabbling. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Resolving a conflict between people or groups. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Sneaking into or stealing from a well-protected place. --1 --
+!import-table-item --godbound-challenge-kinds_of_challenges --Undoing an enchantment, curse, or blight on a place. --1 --
 !import-table --godbound-challenge-building_a_structure --hide
 !import-table-item --godbound-challenge-building_a_structure --A similar nearby institution is a jealous rival of the idea. --1 --
 !import-table-item --godbound-challenge-building_a_structure --Critical artisans are only found in a hostile community. --1 --
@@ -11,30 +22,6 @@
 !import-table-item --godbound-challenge-building_a_structure --The structure requires great supplies of a scarce good. --1 --
 !import-table-item --godbound-challenge-building_a_structure --The structure upsets a supernatural being or wakes one. --1 --
 !import-table-item --godbound-challenge-building_a_structure --There's a saboteur ring funded by outside enemies. --1 --
-!import-table --godbound-challenge-kinds_of_challenges --hide
-!import-table-item --godbound-challenge-kinds_of_challenges --Building a structure or institution in a community. --1 --
-!import-table-item --godbound-challenge-kinds_of_challenges --Changing a custom or law displeasing to the PCs. --1 --
-!import-table-item --godbound-challenge-kinds_of_challenges --Clearing a ruin or other place of danger nearby. --1 --
-!import-table-item --godbound-challenge-kinds_of_challenges --Convincing someone in authority to help the PCs. --1 --
-!import-table-item --godbound-challenge-kinds_of_challenges --Finding a thing critical to the PCs’ goals. --1 --
-!import-table-item --godbound-challenge-kinds_of_challenges --Killing a monster or other powerful, dangerous entity. --1 --
-!import-table-item --godbound-challenge-kinds_of_challenges --Rallying a group that is demoralized or squabbling. --1 --
-!import-table-item --godbound-challenge-kinds_of_challenges --Resolving a conflict between people or groups. --1 --
-!import-table-item --godbound-challenge-kinds_of_challenges --Sneaking into or stealing from a well-protected place. --1 --
-!import-table-item --godbound-challenge-kinds_of_challenges --Undoing an enchantment, curse, or blight on a place. --1 --
-!import-table --godbound-challenge-clearing_a_ruin --hide
-!import-table-item --godbound-challenge-clearing_a_ruin --Clearing the ruin will release a supernatural power. --1 --
-!import-table-item --godbound-challenge-clearing_a_ruin --Local rulers claim control of the ruin and its loot. --1 --
-!import-table-item --godbound-challenge-clearing_a_ruin --Powerful robbers lie in wait to plunder those who visit. --1 --
-!import-table-item --godbound-challenge-clearing_a_ruin --The apparent ruin is only part of it; most of it is hidden. --1 --
-!import-table-item --godbound-challenge-clearing_a_ruin --The locals are terrified that the PCs will stir up trouble. --1 --
-!import-table-item --godbound-challenge-clearing_a_ruin --The ruin caps a Night Road that is a danger if unsealed. --1 --
-!import-table-item --godbound-challenge-clearing_a_ruin --The ruin curses those who enter it with a divine blight. --1 --
-!import-table-item --godbound-challenge-clearing_a_ruin --The ruin is contaminated with toxic sorcery or waste. --1 --
-!import-table-item --godbound-challenge-clearing_a_ruin --The ruin is in the disputed territory of a touchy ruler. --1 --
-!import-table-item --godbound-challenge-clearing_a_ruin --The ruin is only accessible after special secret acts. --1 --
-!import-table-item --godbound-challenge-clearing_a_ruin --The ruin is sacred or taboo to nearby communities. --1 --
-!import-table-item --godbound-challenge-clearing_a_ruin --The ruin is the delicate linchpin of a vital local structure. --1 --
 !import-table --godbound-challenge-changing_a_custom --hide
 !import-table-item --godbound-challenge-changing_a_custom --A powerful neighbor requires the custom from them. --1 --
 !import-table-item --godbound-challenge-changing_a_custom --The custom has great magical power for local wizards. --1 --
@@ -48,6 +35,19 @@
 !import-table-item --godbound-challenge-changing_a_custom --The last reformer was an incompetent tyrant, still hated. --1 --
 !import-table-item --godbound-challenge-changing_a_custom --The local ruler's support relies on the custom. --1 --
 !import-table-item --godbound-challenge-changing_a_custom --The richest locals owe much wealth to the custom. --1 --
+!import-table --godbound-challenge-clearing_a_ruin --hide
+!import-table-item --godbound-challenge-clearing_a_ruin --Clearing the ruin will release a supernatural power. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --Local rulers claim control of the ruin and its loot. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --Powerful robbers lie in wait to plunder those who visit. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The apparent ruin is only part of it; most of it is hidden. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The locals are terrified that the PCs will stir up trouble. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The ruin caps a Night Road that is a danger if unsealed. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The ruin curses those who enter it with a divine blight. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The ruin is contaminated with toxic sorcery or waste. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The ruin is in the disputed territory of a touchy ruler. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The ruin is only accessible after special secret acts. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The ruin is sacred or taboo to nearby communities. --1 --
+!import-table-item --godbound-challenge-clearing_a_ruin --The ruin is the delicate linchpin of a vital local structure. --1 --
 !import-table --godbound-challenge-convincing_someone --hide
 !import-table-item --godbound-challenge-convincing_someone --An enemy is poisoning their mind against the PCs. --1 --
 !import-table-item --godbound-challenge-convincing_someone --The NPC is afraid of the consequences of cooperating. --1 --
@@ -74,19 +74,6 @@
 !import-table-item --godbound-challenge-finding_a_thing --The thing moves constantly, so locations go stale rapidly. --1 --
 !import-table-item --godbound-challenge-finding_a_thing --The thing’s far harder to get rid of than to acquire. --1 --
 !import-table-item --godbound-challenge-finding_a_thing --There are many examples of the thing, all but one fake. --1 --
-!import-table --godbound-challenge-rallying_a_group --hide
-!import-table-item --godbound-challenge-rallying_a_group --A holy place has been seized by enemies or disaster. --1 --
-!import-table-item --godbound-challenge-rallying_a_group --A leader has been discredited but still tries to rule. --1 --
-!import-table-item --godbound-challenge-rallying_a_group --An inspiring relic or talisman has been lost to dire foes. --1 --
-!import-table-item --godbound-challenge-rallying_a_group --Bare survival concerns them more than the PCs’ wishes. --1 --
-!import-table-item --godbound-challenge-rallying_a_group --Desperately-needed allies refuse to come to their aid. --1 --
-!import-table-item --godbound-challenge-rallying_a_group --Former internal strife has reduced them to misery. --1 --
-!import-table-item --godbound-challenge-rallying_a_group --Their leaders are too weak or poor to aid their people. --1 --
-!import-table-item --godbound-challenge-rallying_a_group --Their leadership has been systematically exterminated. --1 --
-!import-table-item --godbound-challenge-rallying_a_group --They’re convinced divine displeasure scourges them. --1 --
-!import-table-item --godbound-challenge-rallying_a_group --They’ve been utterly crushed by their rivals. --1 --
-!import-table-item --godbound-challenge-rallying_a_group --Trusted friends have betrayed them to their enemies. --1 --
-!import-table-item --godbound-challenge-rallying_a_group --Trusted leaders are imprisoned or lost. --1 --
 !import-table --godbound-challenge-killing_a_monster --hide
 !import-table-item --godbound-challenge-killing_a_monster --A failed attempt would bring disastrous consequences. --1 --
 !import-table-item --godbound-challenge-killing_a_monster --Getting at it requires opening its prison or sealed lair. --1 --
@@ -100,19 +87,19 @@
 !import-table-item --godbound-challenge-killing_a_monster --The creature is sacred to a powerful community. --1 --
 !import-table-item --godbound-challenge-killing_a_monster --The entity holds back a dire consequence by existing. --1 --
 !import-table-item --godbound-challenge-killing_a_monster --The local ruler is tied to its life or continuing power. --1 --
-!import-table --godbound-challenge-sneaking_or_stealing --hide
-!import-table-item --godbound-challenge-sneaking_or_stealing --A map or location needs to be stolen first to find it. --1 --
-!import-table-item --godbound-challenge-sneaking_or_stealing --It’s in an extremely remote and inaccessible place. --1 --
-!import-table-item --godbound-challenge-sneaking_or_stealing --It’s toxic or dangerous to illicit intruders or thieves. --1 --
-!import-table-item --godbound-challenge-sneaking_or_stealing --Its entrances and exits are one-way or shifting. --1 --
-!import-table-item --godbound-challenge-sneaking_or_stealing --Its known infiltration or loss would cause social chaos. --1 --
-!import-table-item --godbound-challenge-sneaking_or_stealing --The area is constantly occupied by people or beasts. --1 --
-!import-table-item --godbound-challenge-sneaking_or_stealing --The area is heavily warded with magical defenses. --1 --
-!import-table-item --godbound-challenge-sneaking_or_stealing --The object or location moves around secretly. --1 --
-!import-table-item --godbound-challenge-sneaking_or_stealing --The seeming perils are not the real dangers there. --1 --
-!import-table-item --godbound-challenge-sneaking_or_stealing --Theft or infiltration would infuriate a dangerous foe. --1 --
-!import-table-item --godbound-challenge-sneaking_or_stealing --There are decoy objects or locations, heavily trapped. --1 --
-!import-table-item --godbound-challenge-sneaking_or_stealing --There is a critical time pressure on theft or infiltration. --1 --
+!import-table --godbound-challenge-rallying_a_group --hide
+!import-table-item --godbound-challenge-rallying_a_group --A holy place has been seized by enemies or disaster. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --A leader has been discredited but still tries to rule. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --An inspiring relic or talisman has been lost to dire foes. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --Bare survival concerns them more than the PCs’ wishes. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --Desperately-needed allies refuse to come to their aid. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --Former internal strife has reduced them to misery. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --Their leaders are too weak or poor to aid their people. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --Their leadership has been systematically exterminated. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --They’re convinced divine displeasure scourges them. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --They’ve been utterly crushed by their rivals. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --Trusted friends have betrayed them to their enemies. --1 --
+!import-table-item --godbound-challenge-rallying_a_group --Trusted leaders are imprisoned or lost. --1 --
 !import-table --godbound-challenge-resolving_a_conflict --hide
 !import-table-item --godbound-challenge-resolving_a_conflict --A major line of business has grown around the conflict. --1 --
 !import-table-item --godbound-challenge-resolving_a_conflict --A single gadfly is driving most of the conflict. --1 --
@@ -126,6 +113,19 @@
 !import-table-item --godbound-challenge-resolving_a_conflict --The leaders fear they’d be deposed if the conflict ended. --1 --
 !import-table-item --godbound-challenge-resolving_a_conflict --The less sympathetic side is actually basically justified. --1 --
 !import-table-item --godbound-challenge-resolving_a_conflict --They’re disputing over a vital, genuinely limited resource. --1 --
+!import-table --godbound-challenge-sneaking_or_stealing --hide
+!import-table-item --godbound-challenge-sneaking_or_stealing --A map or location needs to be stolen first to find it. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --It’s in an extremely remote and inaccessible place. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --It’s toxic or dangerous to illicit intruders or thieves. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --Its entrances and exits are one-way or shifting. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --Its known infiltration or loss would cause social chaos. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --The area is constantly occupied by people or beasts. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --The area is heavily warded with magical defenses. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --The object or location moves around secretly. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --The seeming perils are not the real dangers there. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --Theft or infiltration would infuriate a dangerous foe. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --There are decoy objects or locations, heavily trapped. --1 --
+!import-table-item --godbound-challenge-sneaking_or_stealing --There is a critical time pressure on theft or infiltration. --1 --
 !import-table --godbound-challenge-undoing_an_enchantment --hide
 !import-table-item --godbound-challenge-undoing_an_enchantment --A local faith uses it as evidence of its truth and rights. --1 --
 !import-table-item --godbound-challenge-undoing_an_enchantment --A particular magical entity must die to lift it. --1 --
