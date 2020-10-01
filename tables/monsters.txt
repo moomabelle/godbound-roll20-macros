@@ -1,0 +1,62 @@
+!import-table --godbound-foes-movement_options --hide
+!import-table-item --godbound-foes-movement_options --It moves through conventional walking or running. Optionally, choose an adjective to flavor your description of its movement, such as skittering, loping, crawling, lurching, pouncing, or gliding --1 --
+!import-table-item --godbound-foes-movement_options --It flies, whether by physical wings, visible currents of energy, or seemingly sourceless levitation. Natural creatures will usually have to land to fight, or else rely on swooping dives that might make them immune to melee counter-attacks unless the victim waits to strike --1 --
+!import-table-item --godbound-foes-movement_options --It teleports. Some creatures simply vanish from one place and appear at another within range. Others move through a specific medium, such as leaping into one shadow and emerging from another. Some might be able to appear in special surroundings, such as a prepared location. A few might be called by particular rituals, or even appear in the presence of a specific thought --1 --
+!import-table-item --godbound-foes-movement_options --The creature is effectively immobile, either too slow to move meaningfully in combat or actually fixed in place. Some creatures might be restricted to a very narrow area by magic or necessity. The creature will need ranged attack options or an environment that forces melee engagement if it’s to prove a significant challenge --1 --
+!import-table-item --godbound-foes-movement_options --It inhabits an unusual medium, whether swimming through water or navigating through clouds of fire, passing through stone walls, or existing only in areas of darkness. Some creatures may have a different means of ordinary movement, but can treat this particular medium as easily passable --1 --
+!import-table-item --godbound-foes-movement_options --It moves abruptly from place to place, but passes through the space between. It might shoot weblines and swing around, or jump rapidly to locations within sight, or move with tremendous speed from one spot to another. Some creatures might require a particular medium between these locations, such as an unbroken body of water or cloud of smoke --1 --
+!import-table --godbound-foes-attack_paterns --hide
+!import-table-item --godbound-foes-attack_paterns --It throws Strong attacks at single targets, or Weak area attacks on several foes. The principle here is that single-target attacks should be stronger than attacks that hit multiple targets. These might be weapon strikes, energy bolts, cleaving blows at nearby enemies, flurries of projectiles, or explosive detonations of energy --1 --
+!import-table-item --godbound-foes-attack_paterns --It assails its last target, stepping the attack up a rank from its normal intensity as its momentum builds --1 --
+!import-table-item --godbound-foes-attack_paterns --It alters the environment in some way to make it a Weak damaging attack to foes within the zone or inflict an Average impairment on them --1 --
+!import-table-item --godbound-foes-attack_paterns --Its attack delivers an impairment one rank stronger for a round if it hits --1 --
+!import-table-item --godbound-foes-attack_paterns --It launches multiple Medium attacks at different targets --1 --
+!import-table-item --godbound-foes-attack_paterns --It launches several Weak attacks at the same target --1 --
+!import-table-item --godbound-foes-attack_paterns --It launches several Strong attacks at an otherwise unharmed opponent --1 --
+!import-table-item --godbound-foes-attack_paterns --It inflicts a Strong impairment on foes in melee range, or lobs it as an area effect on ranged assailants --1 --
+!import-table-item --godbound-foes-attack_paterns --It uses a Strong attack against the last foe to attack it --1 --
+!import-table-item --godbound-foes-attack_paterns --It inflicts a Medium impairment on an area with its powers and gets a free Medium ranged attack on anyone who then leaves the area --1 --
+!import-table --godbound-foes-defensive_abilities --hide
+!import-table-item --godbound-foes-defensive_abilities --The creature's impervious to a type of energy it uses or a particular hazard it employs as an attack --1 --
+!import-table-item --godbound-foes-defensive_abilities --It's so ferocious that damage done to it is deferred by a round, allowing it to keep fighting for a round after being reduced to zero hit dice --1 --
+!import-table-item --godbound-foes-defensive_abilities --It's extremely adaptive, gaining immunity or resistance to the last type of damage it's suffered --1 --
+!import-table-item --godbound-foes-defensive_abilities --In packs, it's superbly coordinated and able to ensure that wounded members are shielded from attacks by uninjured allies --1 --
+!import-table-item --godbound-foes-defensive_abilities --It can coordinate with its allies to gain bonuses to armor class or restrict the number of attacks that can target it in a round --1 --
+!import-table-item --godbound-foes-defensive_abilities --It counterattacks when struck, or produces some noxious consequence for being harmed --1 --
+!import-table-item --godbound-foes-defensive_abilities --It gets faster as it's hurt, gaining extra actions or attacks when reduced below half its maximum hit dice --1 --
+!import-table-item --godbound-foes-defensive_abilities --It can sacrifice actions to throw up a strong defense, gaining an AC bonus or reducing incoming damage --1 --
+!import-table-item --godbound-foes-defensive_abilities --It automatically nullifies certain gifts or magical powers that target it, possibly by Committing Effort --1 --
+!import-table-item --godbound-foes-defensive_abilities --It plays dead or defeated when reduced to zero hit dice, but springs up a few rounds later, healed to a degree --1 --
+!import-table --godbound-foes-weak_impairments --hide
+!import-table-item --godbound-foes-weak_impairments --Hinder divine power. Victim must Commit one Effort for the scene in order to activate their non-Constant gifts or invoke miracles --1 --
+!import-table-item --godbound-foes-weak_impairments --Slow movement. Victim’s movement speed is cut by half --1 --
+!import-table-item --godbound-foes-weak_impairments --Continuing Damage. Victim takes 1d4 damage each round while the impairment lasts --1 --
+!import-table-item --godbound-foes-weak_impairments --Dull senses. Victim takes -2 to all hit rolls for the duration of the scene --1 --
+!import-table-item --godbound-foes-weak_impairments --Targeting. The assailant gets +4 to hit the victim so long as they don’t attack anyone else --1 --
+!import-table-item --godbound-foes-weak_impairments --Defense Break. Victim’s armor class worsens by 2 points for the duration of the scene --1 --
+!import-table-item --godbound-foes-weak_impairments --Misfortune. Victim takes a -2 penalty on saving throws --1 --
+!import-table-item --godbound-foes-weak_impairments --Dazing. Victim always acts at the end of the round --1 --
+!import-table-item --godbound-foes-weak_impairments --Enervation. Victim takes 1d6 damage from exhaustion if they try to do anything vigorous --1 --
+!import-table-item --godbound-foes-weak_impairments --Impair healing. Victim cannot regain hit points for the duration of the scene --1 --
+!import-table --godbound-foes-medium_impairments --hide
+!import-table-item --godbound-foes-medium_impairments --Block divine power. Victim must Commit Effort for the scene every time they activate a non-Constant gift --1 -- --1 --
+!import-table-item --godbound-foes-medium_impairments --Pin. Victim can’t move under physical power. Optionally, it may instead block supernatural or abnormal movement modes. The victim can still act in place --1 -- --1 --
+!import-table-item --godbound-foes-medium_impairments --Severe Continuing Damage. The impairment inflicts 1d8 damage each round --1 -- --1 --
+!import-table-item --godbound-foes-medium_impairments --Blind. Victim rolls all attacks twice and takes the worse hit roll. Their assailants roll twice and take the best --1 -- --1 --
+!import-table-item --godbound-foes-medium_impairments --Exposure. The victim’s armor class becomes 9 for the scene's duration --1 -- --1 --
+!import-table-item --godbound-foes-medium_impairments --Stun. Victim must make an appropriate saving throw to take any action on a round --1 -- --1 --
+!import-table-item --godbound-foes-medium_impairments --Curse. Victim rolls saving throws twice and takes the worse result --1 -- --1 --
+!import-table-item --godbound-foes-medium_impairments --Compulsion. Victim takes 1d10 damage if they do anything except a particular action that round --1 -- --1 --
+!import-table-item --godbound-foes-medium_impairments --Vulnerability. Victim takes double damage from an attack type used by the assailant --1 -- --1 --
+!import-table-item --godbound-foes-medium_impairments --Susceptible. Damage on the victim is rolled twice, and the larger result is taken --1 -- --1 --
+!import-table --godbound-foes-strong_impairments --hide
+!import-table-item --godbound-foes-strong_impairments --Seal divine power. Victim must Commit Effort for the scene each time they activate a non-Constant gift or miracle, and also takes a 1d10 damage die each time --1 --
+!import-table-item --godbound-foes-strong_impairments --Scathe. Victim always takes the maximum possible result on damage rolls --1 --
+!import-table-item --godbound-foes-strong_impairments --Lethal Continuing Damage. Victim takes a 1d12 damage die at the start of each round --1 --
+!import-table-item --godbound-foes-strong_impairments --Subvert. Victim is controlled by assailant if they fail a relevant saving throw. Usually, a new save is allowed each round --1 --
+!import-table-item --godbound-foes-strong_impairments --Fated Injury. Attacks always hit the victim unless fended off with magic --1 --
+!import-table-item --godbound-foes-strong_impairments --Incapacitate. Victim can’t take any action at all --1 --
+!import-table-item --godbound-foes-strong_impairments --Doom. Victim is always treated as rolling a failure on saving throws unless they spend Effort to auto-succeed --1 --
+!import-table-item --godbound-foes-strong_impairments --Sap. Victim takes a 1d20 damage die each round they take any action at all --1 --
+!import-table-item --godbound-foes-strong_impairments --Barrier. The victim can’t attack assailant --1 --
+!import-table-item --godbound-foes-strong_impairments --Leech. Hit points lost by the victim are gained by the assailant --1 --
