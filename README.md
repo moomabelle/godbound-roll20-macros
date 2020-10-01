@@ -4,4 +4,4 @@ Designed for use with [TableExport](https://app.roll20.net/forum/post/1144568/sc
 
 **Installation.** Import the [table master list](tables/master_table.txt) and the [master macro](macros/master_macro_vttes.json) file using their respective VTTES utilities.
 
-**Usage.** You can roll the individual macros by themselves or through the `#GB-Q-Create UI` macro.
+**Usage.** You can roll the individual macros by themselves or through the `#GB-Q-Create` UI macro.
