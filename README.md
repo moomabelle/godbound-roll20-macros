@@ -5,7 +5,7 @@ Designed for use with [TableExport](https://app.roll20.net/forum/post/1144568/sc
 # Installation
 1. Install [VTT Enhancement Suite](https://justas-d.github.io/roll20-enhancement-suite/) in your preferred browser.
 2. Import the [table_master_list.txt](tables/master_table.txt) using the `Import(TableExport)` feature located at the bottom of the `Collections` tab in Roll20.
-3. Import the [master macro_vttes.json](macros/master_macro_vttes.json) file using the `Import/Export Macro` feature at the top of the `Collections` tab in Roll20.
+3. Import the [master_macro_vttes.json](macros/master_macro_vttes.json) file using the `Import/Export Macro` feature at the top of the `Collections` tab in Roll20.
 
 # Usage
 1. Just click the `#GB-Q-Create` macro to get started!
