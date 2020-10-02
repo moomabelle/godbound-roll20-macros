@@ -13,6 +13,3 @@ Designed for use with [TableExport](https://app.roll20.net/forum/post/1144568/sc
 
 # Attribution
 Tables and written content are sourced from *[Godbound: A Game of Divine Heroes (Free Edition)](https://www.drivethrurpg.com/product/185959/Godbound-A-Game-of-Divine-Heroes-Free-Edition)* by Kevin Crawford. 
-
-# License
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
